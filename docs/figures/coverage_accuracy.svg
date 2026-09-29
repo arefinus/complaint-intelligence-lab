@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" font-family="Helvetica, Arial, sans-serif" font-size="12">
+<rect width="720" height="420" fill="white"/>
+<text x="70" y="22" font-size="15" font-weight="bold">Coverage and accuracy versus abstention threshold (test split)</text>
+<text x="70" y="36" fill="#555">demo on synthetic fixture v1, seed 42; not a benchmark result</text>
+<line x1="70" y1="360" x2="690" y2="360" stroke="#333"/><line x1="70" y1="360" x2="70" y2="40" stroke="#333"/>
+<text x="62" y="364.0" text-anchor="end" fill="#555">0.0</text><text x="70.0" y="376" text-anchor="middle" fill="#555">0.0</text>
+<text x="62" y="300.0" text-anchor="end" fill="#555">0.2</text><text x="194.0" y="376" text-anchor="middle" fill="#555">0.2</text>
+<text x="62" y="236.0" text-anchor="end" fill="#555">0.4</text><text x="318.0" y="376" text-anchor="middle" fill="#555">0.4</text>
+<text x="62" y="172.0" text-anchor="end" fill="#555">0.6</text><text x="442.0" y="376" text-anchor="middle" fill="#555">0.6</text>
+<text x="62" y="108.0" text-anchor="end" fill="#555">0.8</text><text x="566.0" y="376" text-anchor="middle" fill="#555">0.8</text>
+<text x="62" y="44.0" text-anchor="end" fill="#555">1.0</text><text x="690.0" y="376" text-anchor="middle" fill="#555">1.0</text>
+<text x="380.0" y="402" text-anchor="middle">confidence threshold</text><text transform="translate(18,200.0) rotate(-90)" text-anchor="middle">coverage / accuracy on covered</text>
+<polyline points="70.0,40.0 101.0,40.0 132.0,40.0 163.0,40.5 194.0,48.2 225.0,63.2 256.0,75.0 287.0,78.6 318.0,79.2 349.0,80.7 380.0,84.3 411.0,84.8 442.0,88.4 473.0,94.6 504.0,101.3 535.0,111.6 566.0,121.9 597.0,133.8 628.0,157.0 659.0,200.3" fill="none" stroke="#1f5fbf" stroke-width="2"/>
+<polyline points="70.0,77.6 101.0,77.6 132.0,77.6 163.0,77.2 194.0,70.1 225.0,57.8 256.0,45.8 287.0,42.9 318.0,42.3 349.0,41.2 380.0,40.0 411.0,40.0 442.0,40.0 473.0,40.0 504.0,40.0 535.0,40.0 566.0,40.0 597.0,40.0 628.0,40.0 659.0,40.0" fill="none" stroke="#d1495b" stroke-width="2"/>
+<line x1="256.0" y1="360" x2="256.0" y2="40" stroke="#999" stroke-dasharray="4 3"/><text x="260.0" y="52" fill="#555">selected on valid: 0.30</text>
+<rect x="500" y="40" width="12" height="12" fill="#1f5fbf"/><text x="518" y="50">coverage</text><rect x="500" y="58" width="12" height="12" fill="#d1495b"/><text x="518" y="68">accuracy on covered</text>
+</svg>

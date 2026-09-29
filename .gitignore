@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+data/
+examples/output/smoke/
+.DS_Store
+runs/
+.smoke_output/
+.scratch/

@@ -1,0 +1,4394 @@
+[
+ {
+  "complaint_id": "SYN-CMP-003396",
+  "date_received": "2026-03-09",
+  "predicted_label": "Credit card",
+  "confidence": 0.147637,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003846",
+  "date_received": "2026-06-03",
+  "predicted_label": "Mortgage",
+  "confidence": 0.159188,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Managing an account. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003318",
+  "date_received": "2026-02-22",
+  "predicted_label": "Student loan",
+  "confidence": 0.164445,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003405",
+  "date_received": "2026-03-10",
+  "predicted_label": "Student loan",
+  "confidence": 0.164445,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003631",
+  "date_received": "2026-04-25",
+  "predicted_label": "Credit card",
+  "confidence": 0.168008,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Closing an account. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003204",
+  "date_received": "2026-02-04",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.168793,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Problem with a purchase shown on your statement. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003323",
+  "date_received": "2026-02-23",
+  "predicted_label": "Student loan",
+  "confidence": 0.173991,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Struggling to pay mortgage. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003561",
+  "date_received": "2026-04-13",
+  "predicted_label": "Student loan",
+  "confidence": 0.173991,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003805",
+  "date_received": "2026-05-26",
+  "predicted_label": "Student loan",
+  "confidence": 0.173991,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Problem with a company charging your account. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003230",
+  "date_received": "2026-02-08",
+  "predicted_label": "Credit card",
+  "confidence": 0.178816,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Closing an account. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003667",
+  "date_received": "2026-05-01",
+  "predicted_label": "Student loan",
+  "confidence": 0.178855,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. I have contacted the company more than once about this. This has caused me a lot of stress.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"I have contacted the company more than once about this.\" [50:105]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 105,
+     "text": "I have contacted the company more than once about this."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003555",
+  "date_received": "2026-04-12",
+  "predicted_label": "Mortgage",
+  "confidence": 0.185267,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003752",
+  "date_received": "2026-05-17",
+  "predicted_label": "Credit card",
+  "confidence": 0.190301,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003600",
+  "date_received": "2026-04-21",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.194734,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003324",
+  "date_received": "2026-02-23",
+  "predicted_label": "Student loan",
+  "confidence": 0.199022,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Money was not available when promised. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"Each time I call I am given a different answer.\" [50:97]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 97,
+     "text": "Each time I call I am given a different answer."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003518",
+  "date_received": "2026-04-04",
+  "predicted_label": "Student loan",
+  "confidence": 0.19906,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003622",
+  "date_received": "2026-04-24",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.202636,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003428",
+  "date_received": "2026-03-16",
+  "predicted_label": "Money transfer",
+  "confidence": 0.209806,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Money was not available when promised. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003820",
+  "date_received": "2026-05-29",
+  "predicted_label": "Money transfer",
+  "confidence": 0.209806,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Managing the loan or lease. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003487",
+  "date_received": "2026-03-28",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.210016,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003465",
+  "date_received": "2026-03-23",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.211579,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Communication tactics. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003574",
+  "date_received": "2026-04-15",
+  "predicted_label": "Credit card",
+  "confidence": 0.214032,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003262",
+  "date_received": "2026-02-13",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.216317,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Dealing with your lender or servicer. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003963",
+  "date_received": "2026-06-25",
+  "predicted_label": "Student loan",
+  "confidence": 0.219771,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Applying for a mortgage or refinancing. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003592",
+  "date_received": "2026-04-19",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.220386,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003626",
+  "date_received": "2026-04-25",
+  "predicted_label": "Money transfer",
+  "confidence": 0.221429,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003533",
+  "date_received": "2026-04-07",
+  "predicted_label": "Debt collection",
+  "confidence": 0.222095,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003658",
+  "date_received": "2026-04-30",
+  "predicted_label": "Student loan",
+  "confidence": 0.223684,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003239",
+  "date_received": "2026-02-10",
+  "predicted_label": "Debt collection",
+  "confidence": 0.223974,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "A payment I made is missing from my records. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Closing an account. Consumer states: \"A payment I made is missing from my records.\" [0:44] \"Please review my case.\" [45:67]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 44,
+     "text": "A payment I made is missing from my records."
+    },
+    {
+     "start": 45,
+     "end": 67,
+     "text": "Please review my case."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003843",
+  "date_received": "2026-06-03",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.228394,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003595",
+  "date_received": "2026-04-19",
+  "predicted_label": "Credit card",
+  "confidence": 0.233088,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Struggling to pay mortgage. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003588",
+  "date_received": "2026-04-18",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.233271,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Closing an account. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003923",
+  "date_received": "2026-06-18",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.233271,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003205",
+  "date_received": "2026-02-05",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.235507,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003960",
+  "date_received": "2026-06-25",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.236455,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003755",
+  "date_received": "2026-05-18",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.237549,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Closing your account. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003297",
+  "date_received": "2026-02-18",
+  "predicted_label": "Money transfer",
+  "confidence": 0.242086,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003515",
+  "date_received": "2026-04-03",
+  "predicted_label": "Credit card",
+  "confidence": 0.24227,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Communication tactics. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003328",
+  "date_received": "2026-02-23",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.24241,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Struggling to pay mortgage. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003585",
+  "date_received": "2026-04-18",
+  "predicted_label": "Money transfer",
+  "confidence": 0.244281,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003782",
+  "date_received": "2026-05-23",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.244827,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "My credit was affected by their mistake. I am asking for someone to look into this properly.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"My credit was affected by their mistake.\" [0:40] \"I am asking for someone to look into this properly.\" [41:92]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 40,
+     "text": "My credit was affected by their mistake."
+    },
+    {
+     "start": 41,
+     "end": 92,
+     "text": "I am asking for someone to look into this properly."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003270",
+  "date_received": "2026-02-14",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.247171,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Money was not available when promised. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003998",
+  "date_received": "2026-06-30",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.247171,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Written notification about debt. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003307",
+  "date_received": "2026-02-20",
+  "predicted_label": "Credit card",
+  "confidence": 0.247707,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Struggling to pay mortgage. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003470",
+  "date_received": "2026-03-24",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.249623,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "The fees on my account keep changing. I would like this resolved as soon as possible. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Money was not available when promised. Consumer states: \"The fees on my account keep changing.\" [0:37] \"I would like this resolved as soon as possible.\" [38:85]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 37,
+     "text": "The fees on my account keep changing."
+    },
+    {
+     "start": 38,
+     "end": 85,
+     "text": "I would like this resolved as soon as possible."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003480",
+  "date_received": "2026-03-26",
+  "predicted_label": "Money transfer",
+  "confidence": 0.251741,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003980",
+  "date_received": "2026-06-28",
+  "predicted_label": "Money transfer",
+  "confidence": 0.251741,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003265",
+  "date_received": "2026-02-14",
+  "predicted_label": "Mortgage",
+  "confidence": 0.254211,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "I was charged a fee that was never explained to me. I do not know what else to do. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Closing your account. Consumer states: \"I was charged a fee that was never explained to me.\" [0:51] \"I do not know what else to do.\" [52:82]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 51,
+     "text": "I was charged a fee that was never explained to me."
+    },
+    {
+     "start": 52,
+     "end": 82,
+     "text": "I do not know what else to do."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003498",
+  "date_received": "2026-03-30",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.254806,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003688",
+  "date_received": "2026-05-05",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.25676,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "This was reported to the credit bureaus incorrectly. I was promised a call back that never came. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"This was reported to the credit bureaus incorrectly.\" [0:52] \"I was promised a call back that never came.\" [53:96]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 52,
+     "text": "This was reported to the credit bureaus incorrectly."
+    },
+    {
+     "start": 53,
+     "end": 96,
+     "text": "I was promised a call back that never came."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003528",
+  "date_received": "2026-04-06",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.258408,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003591",
+  "date_received": "2026-04-19",
+  "predicted_label": "Student loan",
+  "confidence": 0.259354,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Trouble during payment process. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003461",
+  "date_received": "2026-03-23",
+  "predicted_label": "Student loan",
+  "confidence": 0.260391,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Managing the loan or lease. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003508",
+  "date_received": "2026-04-02",
+  "predicted_label": "Student loan",
+  "confidence": 0.260391,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Trouble during payment process. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003682",
+  "date_received": "2026-05-04",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.260613,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. The company has not responded to my letters. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"The company has not responded to my letters.\" [50:94]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 94,
+     "text": "The company has not responded to my letters."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003499",
+  "date_received": "2026-03-30",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.262073,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "My credit was affected by their mistake. I have kept copies of my correspondence. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"My credit was affected by their mistake.\" [0:40] \"I have kept copies of my correspondence.\" [41:81]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 40,
+     "text": "My credit was affected by their mistake."
+    },
+    {
+     "start": 41,
+     "end": 81,
+     "text": "I have kept copies of my correspondence."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003289",
+  "date_received": "2026-02-17",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.262508,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "The fees on my account keep changing. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Managing the loan or lease. Consumer states: \"The fees on my account keep changing.\" [0:37] \"Each time I call I am given a different answer.\" [38:85]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 37,
+     "text": "The fees on my account keep changing."
+    },
+    {
+     "start": 38,
+     "end": 85,
+     "text": "Each time I call I am given a different answer."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003540",
+  "date_received": "2026-04-09",
+  "predicted_label": "Money transfer",
+  "confidence": 0.263234,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. I have contacted the company more than once about this. I am submitting this complaint because nothing has changed.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"I have contacted the company more than once about this.\" [50:105]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 105,
+     "text": "I have contacted the company more than once about this."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003248",
+  "date_received": "2026-02-11",
+  "predicted_label": "Money transfer",
+  "confidence": 0.266501,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. I want the record corrected and a written confirmation. I would like this resolved as soon as possible.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"I want the record corrected and a written confirmation.\" [50:105]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 105,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003364",
+  "date_received": "2026-03-02",
+  "predicted_label": "Credit card",
+  "confidence": 0.266797,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Written notification about debt. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003871",
+  "date_received": "2026-06-08",
+  "predicted_label": "Money transfer",
+  "confidence": 0.270598,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. I am submitting this complaint because nothing has changed. I have kept copies of my correspondence.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"I am submitting this complaint because nothing has changed.\" [57:116]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 116,
+     "text": "I am submitting this complaint because nothing has changed."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003579",
+  "date_received": "2026-04-17",
+  "predicted_label": "Money transfer",
+  "confidence": 0.270818,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Written notification about debt. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003672",
+  "date_received": "2026-05-02",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.270862,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. I do not know what else to do. I am submitting this complaint because nothing has changed.",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Struggling to repay your loan. Consumer states: \"My payment was not applied to my account.\" [0:41] \"I do not know what else to do.\" [42:72]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 72,
+     "text": "I do not know what else to do."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003417",
+  "date_received": "2026-03-14",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.277816,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Closing an account. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003504",
+  "date_received": "2026-03-31",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.280299,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "A payment I made is missing from my records. Each time I call I am given a different answer. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Applying for a mortgage or refinancing. Consumer states: \"A payment I made is missing from my records.\" [0:44] \"Each time I call I am given a different answer.\" [45:92]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 44,
+     "text": "A payment I made is missing from my records."
+    },
+    {
+     "start": 45,
+     "end": 92,
+     "text": "Each time I call I am given a different answer."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003616",
+  "date_received": "2026-04-24",
+  "predicted_label": "Debt collection",
+  "confidence": 0.285272,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "A payment I made is missing from my records. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. Consumer states: \"A payment I made is missing from my records.\" [0:44] \"Please review my case.\" [45:67]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 44,
+     "text": "A payment I made is missing from my records."
+    },
+    {
+     "start": 45,
+     "end": 67,
+     "text": "Please review my case."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003560",
+  "date_received": "2026-04-13",
+  "predicted_label": "Money transfer",
+  "confidence": 0.292711,
+  "route": "human_review",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. I want the record corrected and a written confirmation. I was promised a call back that never came.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"I want the record corrected and a written confirmation.\" [57:112]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 112,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003452",
+  "date_received": "2026-03-20",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.296935,
+  "route": "human_review",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Attempts to collect debt not owed. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003976",
+  "date_received": "2026-06-27",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.303489,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A payment I made is missing from my records. I would like this resolved as soon as possible. I am asking for someone to look into this properly.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Communication tactics. Consumer states: \"A payment I made is missing from my records.\" [0:44] \"I would like this resolved as soon as possible.\" [45:92]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 44,
+     "text": "A payment I made is missing from my records."
+    },
+    {
+     "start": 45,
+     "end": 92,
+     "text": "I would like this resolved as soon as possible."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003441",
+  "date_received": "2026-03-19",
+  "predicted_label": "Money transfer",
+  "confidence": 0.304256,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. I was promised a call back that never came. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"I was promised a call back that never came.\" [57:100]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 100,
+     "text": "I was promised a call back that never came."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003774",
+  "date_received": "2026-05-22",
+  "predicted_label": "Mortgage",
+  "confidence": 0.317767,
+  "route": "auto",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003780",
+  "date_received": "2026-05-23",
+  "predicted_label": "Student loan",
+  "confidence": 0.318228,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. Last month my loan balance went up after payments were made. I was promised a call back that never came. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Dealing with your lender or servicer. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"Last month my loan balance went up after payments were made.\" [50:110]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 110,
+     "text": "Last month my loan balance went up after payments were made."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003288",
+  "date_received": "2026-02-17",
+  "predicted_label": "Money transfer",
+  "confidence": 0.338248,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "The fees on my account keep changing. I am asking for someone to look into this properly.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Applying for a mortgage or refinancing. Consumer states: \"The fees on my account keep changing.\" [0:37] \"I am asking for someone to look into this properly.\" [38:89]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 37,
+     "text": "The fees on my account keep changing."
+    },
+    {
+     "start": 38,
+     "end": 89,
+     "text": "I am asking for someone to look into this properly."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003213",
+  "date_received": "2026-02-06",
+  "predicted_label": "Money transfer",
+  "confidence": 0.34693,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. I want the record corrected and a written confirmation. I am submitting this complaint because nothing has changed.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. Consumer states: \"My payment was not applied to my account.\" [0:41] \"I want the record corrected and a written confirmation.\" [42:97]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 97,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003657",
+  "date_received": "2026-04-30",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.347937,
+  "route": "auto",
+  "has_narrative": false,
+  "display_text": "",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Trouble during payment process. No narrative was provided.",
+   "citations": [],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003829",
+  "date_received": "2026-05-31",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.396702,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. I have kept copies of my correspondence.",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Struggling to repay your loan. Consumer states: \"My payment was not applied to my account.\" [0:41] \"I have kept copies of my correspondence.\" [42:82]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 82,
+     "text": "I have kept copies of my correspondence."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003885",
+  "date_received": "2026-06-11",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.425794,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "The fees on my account keep changing. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Money was not available when promised. Consumer states: \"The fees on my account keep changing.\" [0:37] \"Each time I call I am given a different answer.\" [38:85]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 37,
+     "text": "The fees on my account keep changing."
+    },
+    {
+     "start": 38,
+     "end": 85,
+     "text": "Each time I call I am given a different answer."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003562",
+  "date_received": "2026-04-13",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.42972,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "This was reported to the credit bureaus incorrectly. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Attempts to collect debt not owed. Consumer states: \"This was reported to the credit bureaus incorrectly.\" [0:52] \"Please review my case.\" [53:75]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 52,
+     "text": "This was reported to the credit bureaus incorrectly."
+    },
+    {
+     "start": 53,
+     "end": 75,
+     "text": "Please review my case."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003955",
+  "date_received": "2026-06-24",
+  "predicted_label": "Money transfer",
+  "confidence": 0.435163,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A payment I made is missing from my records. A few weeks ago the provider reversed a transfer without telling me why. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. Consumer states: \"A payment I made is missing from my records.\" [0:44] \"A few weeks ago the provider reversed a transfer without telling me why.\" [45:117]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 44,
+     "text": "A payment I made is missing from my records."
+    },
+    {
+     "start": 45,
+     "end": 117,
+     "text": "A few weeks ago the provider reversed a transfer without telling me why."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003729",
+  "date_received": "2026-05-12",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.457754,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Recently after returning my leased vehicle I was billed for damage I did not cause. The company has not responded to my letters. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. Consumer states: \"Recently after returning my leased vehicle I was billed for damage I did not cause.\" [0:83] \"The company has not responded to my letters.\" [84:128]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 83,
+     "text": "Recently after returning my leased vehicle I was billed for damage I did not cause."
+    },
+    {
+     "start": 84,
+     "end": 128,
+     "text": "The company has not responded to my letters."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003330",
+  "date_received": "2026-02-24",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.463598,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. Recently the lender charged a late fee for a vehicle payment that was on time. I would like this resolved as soon as possible. This has caused me a lot of stress.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. Consumer states: \"My payment was not applied to my account.\" [0:41] \"Recently the lender charged a late fee for a vehicle payment that was on time.\" [42:120]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 120,
+     "text": "Recently the lender charged a late fee for a vehicle payment that was on time."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003900",
+  "date_received": "2026-06-14",
+  "predicted_label": "Credit card",
+  "confidence": 0.464499,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was charged a fee that was never explained to me. This has caused me a lot of stress.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Managing an account. Consumer states: \"I was charged a fee that was never explained to me.\" [0:51] \"This has caused me a lot of stress.\" [52:87]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 51,
+     "text": "I was charged a fee that was never explained to me."
+    },
+    {
+     "start": 52,
+     "end": 87,
+     "text": "This has caused me a lot of stress."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003311",
+  "date_received": "2026-02-21",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.469391,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Some time ago my savings account was closed and the remaining balance was not returned. I have contacted the company more than once about this. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Managing an account. Consumer states: \"Some time ago my savings account was closed and the remaining balance was not returned.\" [0:87] \"I have contacted the company more than once about this.\" [88:143]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 87,
+     "text": "Some time ago my savings account was closed and the remaining balance was not returned."
+    },
+    {
+     "start": 88,
+     "end": 143,
+     "text": "I have contacted the company more than once about this."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003972",
+  "date_received": "2026-06-27",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.47548,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "This was reported to the credit bureaus incorrectly. Recently the lender charged a late fee for a vehicle payment that was on time. I am asking for someone to look into this properly.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Managing the loan or lease. Consumer states: \"This was reported to the credit bureaus incorrectly.\" [0:52] \"Recently the lender charged a late fee for a vehicle payment that was on time.\" [53:131]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 52,
+     "text": "This was reported to the credit bureaus incorrectly."
+    },
+    {
+     "start": 53,
+     "end": 131,
+     "text": "Recently the lender charged a late fee for a vehicle payment that was on time."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003503",
+  "date_received": "2026-03-31",
+  "predicted_label": "Money transfer",
+  "confidence": 0.488603,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. Please review my case. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Applying for a mortgage or refinancing. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"Please review my case.\" [57:79]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 79,
+     "text": "Please review my case."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003926",
+  "date_received": "2026-06-19",
+  "predicted_label": "Mortgage",
+  "confidence": 0.488845,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A payment I made is missing from my records. The servicer added an escrow shortage that was not explained. Each time I call I am given a different answer. I would like this resolved as soon as possible.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Trouble during payment process. Consumer states: \"A payment I made is missing from my records.\" [0:44] \"The servicer added an escrow shortage that was not explained.\" [45:106]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 44,
+     "text": "A payment I made is missing from my records."
+    },
+    {
+     "start": 45,
+     "end": 106,
+     "text": "The servicer added an escrow shortage that was not explained."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003999",
+  "date_received": "2026-06-30",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.528635,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago my savings account was closed and the remaining balance was not returned. I want the record corrected and a written confirmation. I would like this resolved as soon as possible.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Problem with a company charging your account. Consumer states: \"A few weeks ago my savings account was closed and the remaining balance was not returned.\" [0:89] \"I want the record corrected and a written confirmation.\" [90:145]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 89,
+     "text": "A few weeks ago my savings account was closed and the remaining balance was not returned."
+    },
+    {
+     "start": 90,
+     "end": 145,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003914",
+  "date_received": "2026-06-17",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.552992,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Some time ago the lender charged a late fee for a vehicle payment that was on time. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. Consumer states: \"Some time ago the lender charged a late fee for a vehicle payment that was on time.\" [0:83] \"I have contacted the company more than once about this.\" [84:139]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 83,
+     "text": "Some time ago the lender charged a late fee for a vehicle payment that was on time."
+    },
+    {
+     "start": 84,
+     "end": 139,
+     "text": "I have contacted the company more than once about this."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003978",
+  "date_received": "2026-06-28",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.559803,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A debit was taken from my account that I did not authorise. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Closing an account. Consumer states: \"A debit was taken from my account that I did not authorise.\" [0:59] \"Please review my case.\" [60:82]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 59,
+     "text": "A debit was taken from my account that I did not authorise."
+    },
+    {
+     "start": 60,
+     "end": 82,
+     "text": "Please review my case."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003336",
+  "date_received": "2026-02-25",
+  "predicted_label": "Debt collection",
+  "confidence": 0.573491,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. Recently the collection agency calls several times a day and at work. I am submitting this complaint because nothing has changed. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Communication tactics. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"Recently the collection agency calls several times a day and at work.\" [57:126]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 126,
+     "text": "Recently the collection agency calls several times a day and at work."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003717",
+  "date_received": "2026-05-10",
+  "predicted_label": "Debt collection",
+  "confidence": 0.577829,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. A collector keeps contacting me about a debt that is not mine. I would like this resolved as soon as possible.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Written notification about debt. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"A collector keeps contacting me about a debt that is not mine.\" [50:112]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 112,
+     "text": "A collector keeps contacting me about a debt that is not mine."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003609",
+  "date_received": "2026-04-23",
+  "predicted_label": "Credit card",
+  "confidence": 0.580687,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Some time ago i was charged an annual fee that was not disclosed when I opened the card. The company has not responded to my letters. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. Consumer states: \"Some time ago i was charged an annual fee that was not disclosed when I opened the card.\" [0:88] \"The company has not responded to my letters.\" [89:133]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 88,
+     "text": "Some time ago i was charged an annual fee that was not disclosed when I opened the card."
+    },
+    {
+     "start": 89,
+     "end": 133,
+     "text": "The company has not responded to my letters."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003201",
+  "date_received": "2026-02-04",
+  "predicted_label": "Money transfer",
+  "confidence": 0.590976,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year i was tricked into sending money and the provider refused to investigate. I would like this resolved as soon as possible. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Money was not available when promised. Consumer states: \"Earlier this year i was tricked into sending money and the provider refused to investigate.\" [0:91] \"I would like this resolved as soon as possible.\" [92:139]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 91,
+     "text": "Earlier this year i was tricked into sending money and the provider refused to investigate."
+    },
+    {
+     "start": 92,
+     "end": 139,
+     "text": "I would like this resolved as soon as possible."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003305",
+  "date_received": "2026-02-20",
+  "predicted_label": "Debt collection",
+  "confidence": 0.593963,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Last month i asked for written validation of the debt and never received it. I want the record corrected and a written confirmation. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Communication tactics. Consumer states: \"Last month i asked for written validation of the debt and never received it.\" [0:76] \"I want the record corrected and a written confirmation.\" [77:132]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 76,
+     "text": "Last month i asked for written validation of the debt and never received it."
+    },
+    {
+     "start": 77,
+     "end": 132,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003583",
+  "date_received": "2026-04-17",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.600059,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. Last month my report shows an account as late although I paid it on time. I have contacted the company more than once about this. I want the record corrected and a written confirmation.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"Last month my report shows an account as late although I paid it on time.\" [50:123]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 123,
+     "text": "Last month my report shows an account as late although I paid it on time."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003481",
+  "date_received": "2026-03-26",
+  "predicted_label": "Mortgage",
+  "confidence": 0.602144,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year the servicer added an escrow shortage that was not explained. I am submitting this complaint because nothing has changed. This has caused me a lot of stress.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Applying for a mortgage or refinancing. Consumer states: \"Earlier this year the servicer added an escrow shortage that was not explained.\" [0:79] \"I am submitting this complaint because nothing has changed.\" [80:139]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 79,
+     "text": "Earlier this year the servicer added an escrow shortage that was not explained."
+    },
+    {
+     "start": 80,
+     "end": 139,
+     "text": "I am submitting this complaint because nothing has changed."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003236",
+  "date_received": "2026-02-10",
+  "predicted_label": "Mortgage",
+  "confidence": 0.609379,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year the servicer added an escrow shortage that was not explained. I would like this resolved as soon as possible. I was promised a call back that never came.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Trouble during payment process. Consumer states: \"Earlier this year the servicer added an escrow shortage that was not explained.\" [0:79] \"I would like this resolved as soon as possible.\" [80:127]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 79,
+     "text": "Earlier this year the servicer added an escrow shortage that was not explained."
+    },
+    {
+     "start": 80,
+     "end": 127,
+     "text": "I would like this resolved as soon as possible."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003949",
+  "date_received": "2026-06-23",
+  "predicted_label": "Debt collection",
+  "confidence": 0.61474,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. Last month the collector would not tell me the original creditor. I want the record corrected and a written confirmation.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Attempts to collect debt not owed. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"Last month the collector would not tell me the original creditor.\" [50:115]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 115,
+     "text": "Last month the collector would not tell me the original creditor."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003692",
+  "date_received": "2026-05-06",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.625241,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. A few weeks ago there is an entry on my credit report that I do not recognise. I was promised a call back that never came. This has caused me a lot of stress.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"A few weeks ago there is an entry on my credit report that I do not recognise.\" [50:128]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 128,
+     "text": "A few weeks ago there is an entry on my credit report that I do not recognise."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003652",
+  "date_received": "2026-04-29",
+  "predicted_label": "Mortgage",
+  "confidence": 0.627104,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. The servicer did not credit my extra principal payment.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Struggling to pay mortgage. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"The servicer did not credit my extra principal payment.\" [50:105]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 105,
+     "text": "The servicer did not credit my extra principal payment."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003614",
+  "date_received": "2026-04-23",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.628294,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year my savings account was closed and the remaining balance was not returned. I would like this resolved as soon as possible. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Problem with a company charging your account. Consumer states: \"Earlier this year my savings account was closed and the remaining balance was not returned.\" [0:91] \"I would like this resolved as soon as possible.\" [92:139]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 91,
+     "text": "Earlier this year my savings account was closed and the remaining balance was not returned."
+    },
+    {
+     "start": 92,
+     "end": 139,
+     "text": "I would like this resolved as soon as possible."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003864",
+  "date_received": "2026-06-07",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.628706,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. Last month the reporting agency has not corrected the balance after my dispute. I have kept copies of my correspondence.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"Last month the reporting agency has not corrected the balance after my dispute.\" [57:136]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 136,
+     "text": "Last month the reporting agency has not corrected the balance after my dispute."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003962",
+  "date_received": "2026-06-25",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.631713,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Last month the payoff amount quoted was different from the amount later demanded.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. Consumer states: \"Last month the payoff amount quoted was different from the amount later demanded.\" [0:81]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 81,
+     "text": "Last month the payoff amount quoted was different from the amount later demanded."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003873",
+  "date_received": "2026-06-08",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.644471,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Last month i disputed an item on my report and the investigation result did not change anything. I want the record corrected and a written confirmation. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"Last month i disputed an item on my report and the investigation result did not change anything.\" [0:96] \"I want the record corrected and a written confirmation.\" [97:152]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 96,
+     "text": "Last month i disputed an item on my report and the investigation result did not change anything."
+    },
+    {
+     "start": 97,
+     "end": 152,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003490",
+  "date_received": "2026-03-29",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.646008,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago there is an entry on my credit report that I do not recognise. I want the record corrected and a written confirmation. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"A few weeks ago there is an entry on my credit report that I do not recognise.\" [0:78] \"I want the record corrected and a written confirmation.\" [79:134]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 78,
+     "text": "A few weeks ago there is an entry on my credit report that I do not recognise."
+    },
+    {
+     "start": 79,
+     "end": 134,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003604",
+  "date_received": "2026-04-22",
+  "predicted_label": "Mortgage",
+  "confidence": 0.648669,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago the servicer did not credit my extra principal payment. I want the record corrected and a written confirmation. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Applying for a mortgage or refinancing. Consumer states: \"A few weeks ago the servicer did not credit my extra principal payment.\" [0:71] \"I want the record corrected and a written confirmation.\" [72:127]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 71,
+     "text": "A few weeks ago the servicer did not credit my extra principal payment."
+    },
+    {
+     "start": 72,
+     "end": 127,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003361",
+  "date_received": "2026-03-02",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.651626,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year a hard inquiry appears on my report that I did not authorise. This has caused me a lot of stress. I am submitting this complaint because nothing has changed.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"Earlier this year a hard inquiry appears on my report that I did not authorise.\" [0:79] \"This has caused me a lot of stress.\" [80:115]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 79,
+     "text": "Earlier this year a hard inquiry appears on my report that I did not authorise."
+    },
+    {
+     "start": 80,
+     "end": 115,
+     "text": "This has caused me a lot of stress."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003322",
+  "date_received": "2026-02-23",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.653062,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. Some time ago my report shows an account as late although I paid it on time. I was promised a call back that never came.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"Some time ago my report shows an account as late although I paid it on time.\" [50:126]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 126,
+     "text": "Some time ago my report shows an account as late although I paid it on time."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003372",
+  "date_received": "2026-03-04",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.655381,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year my report shows an account as late although I paid it on time. I want the record corrected and a written confirmation. I was promised a call back that never came.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"Earlier this year my report shows an account as late although I paid it on time.\" [0:80] \"I want the record corrected and a written confirmation.\" [81:136]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 80,
+     "text": "Earlier this year my report shows an account as late although I paid it on time."
+    },
+    {
+     "start": 81,
+     "end": 136,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003979",
+  "date_received": "2026-06-28",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.657859,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "The reporting agency has not corrected the balance after my dispute. I am submitting this complaint because nothing has changed. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"The reporting agency has not corrected the balance after my dispute.\" [0:68] \"I am submitting this complaint because nothing has changed.\" [69:128]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 68,
+     "text": "The reporting agency has not corrected the balance after my dispute."
+    },
+    {
+     "start": 69,
+     "end": 128,
+     "text": "I am submitting this complaint because nothing has changed."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003834",
+  "date_received": "2026-06-01",
+  "predicted_label": "Money transfer",
+  "confidence": 0.663881,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. I was tricked into sending money and the provider refused to investigate. I want the record corrected and a written confirmation.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"I was tricked into sending money and the provider refused to investigate.\" [50:123]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 123,
+     "text": "I was tricked into sending money and the provider refused to investigate."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-004000",
+  "date_received": "2026-06-30",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.6718,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My report shows an account as late although I paid it on time. I want the record corrected and a written confirmation. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"My report shows an account as late although I paid it on time.\" [0:62] \"I want the record corrected and a written confirmation.\" [63:118]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 62,
+     "text": "My report shows an account as late although I paid it on time."
+    },
+    {
+     "start": 63,
+     "end": 118,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003676",
+  "date_received": "2026-05-03",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.675863,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year the reporting agency has not corrected the balance after my dispute. I do not know what else to do. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"Earlier this year the reporting agency has not corrected the balance after my dispute.\" [0:86] \"I do not know what else to do.\" [87:117]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 86,
+     "text": "Earlier this year the reporting agency has not corrected the balance after my dispute."
+    },
+    {
+     "start": 87,
+     "end": 117,
+     "text": "I do not know what else to do."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003751",
+  "date_received": "2026-05-16",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.67914,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "The reporting agency has not corrected the balance after my dispute. This has caused me a lot of stress. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"The reporting agency has not corrected the balance after my dispute.\" [0:68] \"This has caused me a lot of stress.\" [69:104]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 68,
+     "text": "The reporting agency has not corrected the balance after my dispute."
+    },
+    {
+     "start": 69,
+     "end": 104,
+     "text": "This has caused me a lot of stress."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003575",
+  "date_received": "2026-04-15",
+  "predicted_label": "Student loan",
+  "confidence": 0.681634,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A payment I made is missing from my records. Last month the servicer reported my loan as delinquent during an approved deferment. I was promised a call back that never came.",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Dealing with your lender or servicer. Consumer states: \"A payment I made is missing from my records.\" [0:44] \"Last month the servicer reported my loan as delinquent during an approved deferment.\" [45:129]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 44,
+     "text": "A payment I made is missing from my records."
+    },
+    {
+     "start": 45,
+     "end": 129,
+     "text": "Last month the servicer reported my loan as delinquent during an approved deferment."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003567",
+  "date_received": "2026-04-14",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.692653,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year the bank charged overdraft fees in an order that increased the total fees. Please review my case. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Managing an account. Consumer states: \"Earlier this year the bank charged overdraft fees in an order that increased the total fees.\" [0:92] \"Please review my case.\" [93:115]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 92,
+     "text": "Earlier this year the bank charged overdraft fees in an order that increased the total fees."
+    },
+    {
+     "start": 93,
+     "end": 115,
+     "text": "Please review my case."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003258",
+  "date_received": "2026-02-12",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.693365,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. Some time ago my report shows an account as late although I paid it on time. I want the record corrected and a written confirmation. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"Some time ago my report shows an account as late although I paid it on time.\" [57:133]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 133,
+     "text": "Some time ago my report shows an account as late although I paid it on time."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003379",
+  "date_received": "2026-03-05",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.694053,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Some time ago my savings account was closed and the remaining balance was not returned. This has caused me a lot of stress. I would like this resolved as soon as possible.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Problem with a company charging your account. Consumer states: \"Some time ago my savings account was closed and the remaining balance was not returned.\" [0:87] \"This has caused me a lot of stress.\" [88:123]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 87,
+     "text": "Some time ago my savings account was closed and the remaining balance was not returned."
+    },
+    {
+     "start": 88,
+     "end": 123,
+     "text": "This has caused me a lot of stress."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003825",
+  "date_received": "2026-05-31",
+  "predicted_label": "Student loan",
+  "confidence": 0.695816,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago my loan balance went up after payments were made. This has caused me a lot of stress.",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Dealing with your lender or servicer. Consumer states: \"A few weeks ago my loan balance went up after payments were made.\" [0:65] \"This has caused me a lot of stress.\" [66:101]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 65,
+     "text": "A few weeks ago my loan balance went up after payments were made."
+    },
+    {
+     "start": 66,
+     "end": 101,
+     "text": "This has caused me a lot of stress."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003529",
+  "date_received": "2026-04-06",
+  "predicted_label": "Mortgage",
+  "confidence": 0.70772,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year the servicer added an escrow shortage that was not explained. I am submitting this complaint because nothing has changed.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Trouble during payment process. Consumer states: \"Earlier this year the servicer added an escrow shortage that was not explained.\" [0:79] \"I am submitting this complaint because nothing has changed.\" [80:139]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 79,
+     "text": "Earlier this year the servicer added an escrow shortage that was not explained."
+    },
+    {
+     "start": 80,
+     "end": 139,
+     "text": "I am submitting this complaint because nothing has changed."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003218",
+  "date_received": "2026-02-07",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.716038,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My savings account was closed and the remaining balance was not returned. I have kept copies of my correspondence.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Managing an account. Consumer states: \"My savings account was closed and the remaining balance was not returned.\" [0:73] \"I have kept copies of my correspondence.\" [74:114]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 73,
+     "text": "My savings account was closed and the remaining balance was not returned."
+    },
+    {
+     "start": 74,
+     "end": 114,
+     "text": "I have kept copies of my correspondence."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003669",
+  "date_received": "2026-05-02",
+  "predicted_label": "Debt collection",
+  "confidence": 0.716365,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My credit was affected by their mistake. A few weeks ago the collector would not tell me the original creditor. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Communication tactics. Consumer states: \"My credit was affected by their mistake.\" [0:40] \"A few weeks ago the collector would not tell me the original creditor.\" [41:111]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 40,
+     "text": "My credit was affected by their mistake."
+    },
+    {
+     "start": 41,
+     "end": 111,
+     "text": "A few weeks ago the collector would not tell me the original creditor."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003898",
+  "date_received": "2026-06-13",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.717356,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "The fees on my account keep changing. Recently after returning my leased vehicle I was billed for damage I did not cause. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. Consumer states: \"The fees on my account keep changing.\" [0:37] \"Recently after returning my leased vehicle I was billed for damage I did not cause.\" [38:121]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 37,
+     "text": "The fees on my account keep changing."
+    },
+    {
+     "start": 38,
+     "end": 121,
+     "text": "Recently after returning my leased vehicle I was billed for damage I did not cause."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003664",
+  "date_received": "2026-05-01",
+  "predicted_label": "Mortgage",
+  "confidence": 0.718536,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago my mortgage payment was applied late even though it was sent before the due date. The company has not responded to my letters. I have kept copies of my correspondence.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Applying for a mortgage or refinancing. Consumer states: \"A few weeks ago my mortgage payment was applied late even though it was sent before the due date.\" [0:97] \"The company has not responded to my letters.\" [98:142]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 97,
+     "text": "A few weeks ago my mortgage payment was applied late even though it was sent before the due date."
+    },
+    {
+     "start": 98,
+     "end": 142,
+     "text": "The company has not responded to my letters."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003726",
+  "date_received": "2026-05-11",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.718937,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago the reporting agency has not corrected the balance after my dispute. This has caused me a lot of stress. I want the record corrected and a written confirmation.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"A few weeks ago the reporting agency has not corrected the balance after my dispute.\" [0:84] \"This has caused me a lot of stress.\" [85:120]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 84,
+     "text": "A few weeks ago the reporting agency has not corrected the balance after my dispute."
+    },
+    {
+     "start": 85,
+     "end": 120,
+     "text": "This has caused me a lot of stress."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003712",
+  "date_received": "2026-05-09",
+  "predicted_label": "Credit card",
+  "confidence": 0.719458,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year a charge on my statement is for a purchase I did not make. I am submitting this complaint because nothing has changed.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Closing your account. Consumer states: \"Earlier this year a charge on my statement is for a purchase I did not make.\" [0:76] \"I am submitting this complaint because nothing has changed.\" [77:136]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 76,
+     "text": "Earlier this year a charge on my statement is for a purchase I did not make."
+    },
+    {
+     "start": 77,
+     "end": 136,
+     "text": "I am submitting this complaint because nothing has changed."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003813",
+  "date_received": "2026-05-28",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.722975,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. A few weeks ago my report shows an account as late although I paid it on time. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"A few weeks ago my report shows an account as late although I paid it on time.\" [50:128]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 128,
+     "text": "A few weeks ago my report shows an account as late although I paid it on time."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003208",
+  "date_received": "2026-02-05",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.72335,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My credit was affected by their mistake. Last month there is an entry on my credit report that I do not recognise. I would like this resolved as soon as possible. I am submitting this complaint because nothing has changed.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"My credit was affected by their mistake.\" [0:40] \"Last month there is an entry on my credit report that I do not recognise.\" [41:114]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 40,
+     "text": "My credit was affected by their mistake."
+    },
+    {
+     "start": 41,
+     "end": 114,
+     "text": "Last month there is an entry on my credit report that I do not recognise."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003942",
+  "date_received": "2026-06-22",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.729716,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "This was reported to the credit bureaus incorrectly. Some time ago a hard inquiry appears on my report that I did not authorise. This has caused me a lot of stress. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"This was reported to the credit bureaus incorrectly.\" [0:52] \"Some time ago a hard inquiry appears on my report that I did not authorise.\" [53:128]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 52,
+     "text": "This was reported to the credit bureaus incorrectly."
+    },
+    {
+     "start": 53,
+     "end": 128,
+     "text": "Some time ago a hard inquiry appears on my report that I did not authorise."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003335",
+  "date_received": "2026-02-25",
+  "predicted_label": "Debt collection",
+  "confidence": 0.733099,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago the collection agency calls several times a day and at work. I am asking for someone to look into this properly. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Attempts to collect debt not owed. Consumer states: \"A few weeks ago the collection agency calls several times a day and at work.\" [0:76] \"I am asking for someone to look into this properly.\" [77:128]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 76,
+     "text": "A few weeks ago the collection agency calls several times a day and at work."
+    },
+    {
+     "start": 77,
+     "end": 128,
+     "text": "I am asking for someone to look into this properly."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003458",
+  "date_received": "2026-03-22",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.735158,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. Last month the reporting agency has not corrected the balance after my dispute. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"Last month the reporting agency has not corrected the balance after my dispute.\" [57:136]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 136,
+     "text": "Last month the reporting agency has not corrected the balance after my dispute."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003346",
+  "date_received": "2026-02-27",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.737912,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Some time ago a hard inquiry appears on my report that I did not authorise. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"Some time ago a hard inquiry appears on my report that I did not authorise.\" [0:75] \"I have contacted the company more than once about this.\" [76:131]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 75,
+     "text": "Some time ago a hard inquiry appears on my report that I did not authorise."
+    },
+    {
+     "start": 76,
+     "end": 131,
+     "text": "I have contacted the company more than once about this."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003221",
+  "date_received": "2026-02-07",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.739507,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year there is an entry on my credit report that I do not recognise. I want the record corrected and a written confirmation. I would like this resolved as soon as possible.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"Earlier this year there is an entry on my credit report that I do not recognise.\" [0:80] \"I want the record corrected and a written confirmation.\" [81:136]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 80,
+     "text": "Earlier this year there is an entry on my credit report that I do not recognise."
+    },
+    {
+     "start": 81,
+     "end": 136,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003854",
+  "date_received": "2026-06-05",
+  "predicted_label": "Credit card",
+  "confidence": 0.74121,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Recently i closed my card and the company still reports it as open. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Closing your account. Consumer states: \"Recently i closed my card and the company still reports it as open.\" [0:67] \"The company has not responded to my letters.\" [68:112]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 67,
+     "text": "Recently i closed my card and the company still reports it as open."
+    },
+    {
+     "start": 68,
+     "end": 112,
+     "text": "The company has not responded to my letters."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003572",
+  "date_received": "2026-04-15",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.744352,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. Last month there is an entry on my credit report that I do not recognise. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"Last month there is an entry on my credit report that I do not recognise.\" [50:123]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 123,
+     "text": "Last month there is an entry on my credit report that I do not recognise."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003890",
+  "date_received": "2026-06-12",
+  "predicted_label": "Mortgage",
+  "confidence": 0.746031,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Recently i applied for a loan modification and received no decision for months. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Applying for a mortgage or refinancing. Consumer states: \"Recently i applied for a loan modification and received no decision for months.\" [0:79] \"I do not know what else to do.\" [80:110]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 79,
+     "text": "Recently i applied for a loan modification and received no decision for months."
+    },
+    {
+     "start": 80,
+     "end": 110,
+     "text": "I do not know what else to do."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003759",
+  "date_received": "2026-05-18",
+  "predicted_label": "Money transfer",
+  "confidence": 0.747942,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago i sent a transfer through the app and the recipient never received it.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. Consumer states: \"A few weeks ago i sent a transfer through the app and the recipient never received it.\" [0:86]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 86,
+     "text": "A few weeks ago i sent a transfer through the app and the recipient never received it."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003451",
+  "date_received": "2026-03-20",
+  "predicted_label": "Credit card",
+  "confidence": 0.749337,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My credit was affected by their mistake. A few weeks ago i closed my card and the company still reports it as open.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Problem with a purchase shown on your statement. Consumer states: \"My credit was affected by their mistake.\" [0:40] \"A few weeks ago i closed my card and the company still reports it as open.\" [41:115]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 40,
+     "text": "My credit was affected by their mistake."
+    },
+    {
+     "start": 41,
+     "end": 115,
+     "text": "A few weeks ago i closed my card and the company still reports it as open."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003234",
+  "date_received": "2026-02-09",
+  "predicted_label": "Credit card",
+  "confidence": 0.749621,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A payment I made is missing from my records. A few weeks ago a charge on my statement is for a purchase I did not make. I closed my card and the company still reports it as open. I have contacted the company more than once about this. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Problem with a purchase shown on your statement. Consumer states: \"A payment I made is missing from my records.\" [0:44] \"A few weeks ago a charge on my statement is for a purchase I did not make.\" [45:119]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 44,
+     "text": "A payment I made is missing from my records."
+    },
+    {
+     "start": 45,
+     "end": 119,
+     "text": "A few weeks ago a charge on my statement is for a purchase I did not make."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003569",
+  "date_received": "2026-04-14",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.753858,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A hard inquiry appears on my report that I did not authorise. I have kept copies of my correspondence.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"A hard inquiry appears on my report that I did not authorise.\" [0:61] \"I have kept copies of my correspondence.\" [62:102]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 61,
+     "text": "A hard inquiry appears on my report that I did not authorise."
+    },
+    {
+     "start": 62,
+     "end": 102,
+     "text": "I have kept copies of my correspondence."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003387",
+  "date_received": "2026-03-06",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.754965,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Last month a hard inquiry appears on my report that I did not authorise. I would like this resolved as soon as possible. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"Last month a hard inquiry appears on my report that I did not authorise.\" [0:72] \"I would like this resolved as soon as possible.\" [73:120]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 72,
+     "text": "Last month a hard inquiry appears on my report that I did not authorise."
+    },
+    {
+     "start": 73,
+     "end": 120,
+     "text": "I would like this resolved as soon as possible."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003821",
+  "date_received": "2026-05-29",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.755478,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A hard inquiry appears on my report that I did not authorise. I am submitting this complaint because nothing has changed. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"A hard inquiry appears on my report that I did not authorise.\" [0:61] \"I am submitting this complaint because nothing has changed.\" [62:121]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 61,
+     "text": "A hard inquiry appears on my report that I did not authorise."
+    },
+    {
+     "start": 62,
+     "end": 121,
+     "text": "I am submitting this complaint because nothing has changed."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003244",
+  "date_received": "2026-02-11",
+  "predicted_label": "Student loan",
+  "confidence": 0.757349,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Last month i cannot reach anyone at the servicer about my repayment options. I would like this resolved as soon as possible. I was promised a call back that never came.",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Dealing with your lender or servicer. Consumer states: \"Last month i cannot reach anyone at the servicer about my repayment options.\" [0:76] \"I would like this resolved as soon as possible.\" [77:124]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 76,
+     "text": "Last month i cannot reach anyone at the servicer about my repayment options."
+    },
+    {
+     "start": 77,
+     "end": 124,
+     "text": "I would like this resolved as soon as possible."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003455",
+  "date_received": "2026-03-22",
+  "predicted_label": "Debt collection",
+  "confidence": 0.757724,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. A collector keeps contacting me about a debt that is not mine. I am submitting this complaint because nothing has changed.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Communication tactics. Consumer states: \"My payment was not applied to my account.\" [0:41] \"A collector keeps contacting me about a debt that is not mine.\" [42:104]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 104,
+     "text": "A collector keeps contacting me about a debt that is not mine."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003884",
+  "date_received": "2026-06-10",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.762999,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago a hard inquiry appears on my report that I did not authorise. The company has not responded to my letters. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"A few weeks ago a hard inquiry appears on my report that I did not authorise.\" [0:77] \"The company has not responded to my letters.\" [78:122]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 77,
+     "text": "A few weeks ago a hard inquiry appears on my report that I did not authorise."
+    },
+    {
+     "start": 78,
+     "end": 122,
+     "text": "The company has not responded to my letters."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003822",
+  "date_received": "2026-05-29",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.766013,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year there is an entry on my credit report that I do not recognise. I would like this resolved as soon as possible. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"Earlier this year there is an entry on my credit report that I do not recognise.\" [0:80] \"I would like this resolved as soon as possible.\" [81:128]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 80,
+     "text": "Earlier this year there is an entry on my credit report that I do not recognise."
+    },
+    {
+     "start": 81,
+     "end": 128,
+     "text": "I would like this resolved as soon as possible."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003362",
+  "date_received": "2026-03-02",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.768001,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My savings account was closed and the remaining balance was not returned. I am asking for someone to look into this properly.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Closing an account. Consumer states: \"My savings account was closed and the remaining balance was not returned.\" [0:73] \"I am asking for someone to look into this properly.\" [74:125]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 73,
+     "text": "My savings account was closed and the remaining balance was not returned."
+    },
+    {
+     "start": 74,
+     "end": 125,
+     "text": "I am asking for someone to look into this properly."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003464",
+  "date_received": "2026-03-23",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.770211,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Some time ago i disputed an item on my report and the investigation result did not change anything. Each time I call I am given a different answer. I would like this resolved as soon as possible.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"Some time ago i disputed an item on my report and the investigation result did not change anything.\" [0:99] \"Each time I call I am given a different answer.\" [100:147]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 99,
+     "text": "Some time ago i disputed an item on my report and the investigation result did not change anything."
+    },
+    {
+     "start": 100,
+     "end": 147,
+     "text": "Each time I call I am given a different answer."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003886",
+  "date_received": "2026-06-11",
+  "predicted_label": "Credit card",
+  "confidence": 0.775905,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Some time ago a refund from a merchant was never posted to my card. I have kept copies of my correspondence.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Problem with a purchase shown on your statement. Consumer states: \"Some time ago a refund from a merchant was never posted to my card.\" [0:67] \"I have kept copies of my correspondence.\" [68:108]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 67,
+     "text": "Some time ago a refund from a merchant was never posted to my card."
+    },
+    {
+     "start": 68,
+     "end": 108,
+     "text": "I have kept copies of my correspondence."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003732",
+  "date_received": "2026-05-13",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.776227,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Last month my vehicle title was not released after the loan was paid off. I am asking for someone to look into this properly.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. Consumer states: \"Last month my vehicle title was not released after the loan was paid off.\" [0:73] \"I am asking for someone to look into this properly.\" [74:125]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 73,
+     "text": "Last month my vehicle title was not released after the loan was paid off."
+    },
+    {
+     "start": 74,
+     "end": 125,
+     "text": "I am asking for someone to look into this properly."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003319",
+  "date_received": "2026-02-22",
+  "predicted_label": "Mortgage",
+  "confidence": 0.777004,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. Last month i applied for a loan modification and received no decision for months.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Applying for a mortgage or refinancing. Consumer states: \"My payment was not applied to my account.\" [0:41] \"Last month i applied for a loan modification and received no decision for months.\" [42:123]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 123,
+     "text": "Last month i applied for a loan modification and received no decision for months."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003807",
+  "date_received": "2026-05-27",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.78006,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Recently after returning my leased vehicle I was billed for damage I did not cause. I want the record corrected and a written confirmation.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. Consumer states: \"Recently after returning my leased vehicle I was billed for damage I did not cause.\" [0:83] \"I want the record corrected and a written confirmation.\" [84:139]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 83,
+     "text": "Recently after returning my leased vehicle I was billed for damage I did not cause."
+    },
+    {
+     "start": 84,
+     "end": 139,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003598",
+  "date_received": "2026-04-20",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.781554,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. Some time ago my report shows an account as late although I paid it on time.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"Some time ago my report shows an account as late although I paid it on time.\" [50:126]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 126,
+     "text": "Some time ago my report shows an account as late although I paid it on time."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003924",
+  "date_received": "2026-06-18",
+  "predicted_label": "Student loan",
+  "confidence": 0.785172,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Some time ago i cannot reach anyone at the servicer about my repayment options. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Dealing with your lender or servicer. Consumer states: \"Some time ago i cannot reach anyone at the servicer about my repayment options.\" [0:79] \"I have contacted the company more than once about this.\" [80:135]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 79,
+     "text": "Some time ago i cannot reach anyone at the servicer about my repayment options."
+    },
+    {
+     "start": 80,
+     "end": 135,
+     "text": "I have contacted the company more than once about this."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003642",
+  "date_received": "2026-04-27",
+  "predicted_label": "Money transfer",
+  "confidence": 0.788338,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. A few weeks ago the transfer was marked complete but the funds were not available. I am submitting this complaint because nothing has changed. I am asking for someone to look into this properly.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"A few weeks ago the transfer was marked complete but the funds were not available.\" [57:139]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 139,
+     "text": "A few weeks ago the transfer was marked complete but the funds were not available."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003705",
+  "date_received": "2026-05-08",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.78909,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. Recently there is an entry on my credit report that I do not recognise. I was promised a call back that never came. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"Recently there is an entry on my credit report that I do not recognise.\" [57:128]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 128,
+     "text": "Recently there is an entry on my credit report that I do not recognise."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003390",
+  "date_received": "2026-03-07",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.79107,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year a deposit was placed on hold longer than the bank said it would be. Please review my case. This has caused me a lot of stress.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Managing an account. Consumer states: \"Earlier this year a deposit was placed on hold longer than the bank said it would be.\" [0:85] \"Please review my case.\" [86:108]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 85,
+     "text": "Earlier this year a deposit was placed on hold longer than the bank said it would be."
+    },
+    {
+     "start": 86,
+     "end": 108,
+     "text": "Please review my case."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003617",
+  "date_received": "2026-04-24",
+  "predicted_label": "Mortgage",
+  "confidence": 0.792733,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was charged a fee that was never explained to me. I applied for a loan modification and received no decision for months. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Struggling to pay mortgage. Consumer states: \"I was charged a fee that was never explained to me.\" [0:51] \"I applied for a loan modification and received no decision for months.\" [52:122]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 51,
+     "text": "I was charged a fee that was never explained to me."
+    },
+    {
+     "start": 52,
+     "end": 122,
+     "text": "I applied for a loan modification and received no decision for months."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003908",
+  "date_received": "2026-06-15",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.792894,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My credit was affected by their mistake. A few weeks ago my report shows an account as late although I paid it on time. I am asking for someone to look into this properly.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"My credit was affected by their mistake.\" [0:40] \"A few weeks ago my report shows an account as late although I paid it on time.\" [41:119]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 40,
+     "text": "My credit was affected by their mistake."
+    },
+    {
+     "start": 41,
+     "end": 119,
+     "text": "A few weeks ago my report shows an account as late although I paid it on time."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003496",
+  "date_received": "2026-03-30",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.800264,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I disputed an item on my report and the investigation result did not change anything. Please review my case. I would like this resolved as soon as possible.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"I disputed an item on my report and the investigation result did not change anything.\" [0:85] \"Please review my case.\" [86:108]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 85,
+     "text": "I disputed an item on my report and the investigation result did not change anything."
+    },
+    {
+     "start": 86,
+     "end": 108,
+     "text": "Please review my case."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003762",
+  "date_received": "2026-05-19",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.801016,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. A hard inquiry appears on my report that I did not authorise. Please review my case.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"A hard inquiry appears on my report that I did not authorise.\" [57:118]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 118,
+     "text": "A hard inquiry appears on my report that I did not authorise."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003606",
+  "date_received": "2026-04-22",
+  "predicted_label": "Money transfer",
+  "confidence": 0.810564,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My account was frozen after a transfer with no explanation. Please review my case. I was promised a call back that never came.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. Consumer states: \"My account was frozen after a transfer with no explanation.\" [0:59] \"Please review my case.\" [60:82]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 59,
+     "text": "My account was frozen after a transfer with no explanation."
+    },
+    {
+     "start": 60,
+     "end": 82,
+     "text": "Please review my case."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003448",
+  "date_received": "2026-03-20",
+  "predicted_label": "Credit card",
+  "confidence": 0.811937,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A payment I made is missing from my records. A few weeks ago i was charged an annual fee that was not disclosed when I opened the card. I was promised a call back that never came.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Problem with a purchase shown on your statement. Consumer states: \"A payment I made is missing from my records.\" [0:44] \"A few weeks ago i was charged an annual fee that was not disclosed when I opened the card.\" [45:135]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 44,
+     "text": "A payment I made is missing from my records."
+    },
+    {
+     "start": 45,
+     "end": 135,
+     "text": "A few weeks ago i was charged an annual fee that was not disclosed when I opened the card."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003674",
+  "date_received": "2026-05-03",
+  "predicted_label": "Student loan",
+  "confidence": 0.814003,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My credit was affected by their mistake. Last month i requested an income driven plan and the servicer lost the paperwork. I am asking for someone to look into this properly. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Struggling to repay your loan. Consumer states: \"My credit was affected by their mistake.\" [0:40] \"Last month i requested an income driven plan and the servicer lost the paperwork.\" [41:122]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 40,
+     "text": "My credit was affected by their mistake."
+    },
+    {
+     "start": 41,
+     "end": 122,
+     "text": "Last month i requested an income driven plan and the servicer lost the paperwork."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003283",
+  "date_received": "2026-02-16",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.819679,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago a debit was taken from my account that I did not authorise.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Managing an account. Consumer states: \"A few weeks ago a debit was taken from my account that I did not authorise.\" [0:75]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 75,
+     "text": "A few weeks ago a debit was taken from my account that I did not authorise."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003308",
+  "date_received": "2026-02-20",
+  "predicted_label": "Student loan",
+  "confidence": 0.820893,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I requested an income driven plan and the servicer lost the paperwork. This has caused me a lot of stress.",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Struggling to repay your loan. Consumer states: \"I requested an income driven plan and the servicer lost the paperwork.\" [0:70] \"This has caused me a lot of stress.\" [71:106]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 70,
+     "text": "I requested an income driven plan and the servicer lost the paperwork."
+    },
+    {
+     "start": 71,
+     "end": 106,
+     "text": "This has caused me a lot of stress."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003810",
+  "date_received": "2026-05-27",
+  "predicted_label": "Debt collection",
+  "confidence": 0.821533,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Last month a collector keeps contacting me about a debt that is not mine. I have kept copies of my correspondence.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Communication tactics. Consumer states: \"Last month a collector keeps contacting me about a debt that is not mine.\" [0:73] \"I have kept copies of my correspondence.\" [74:114]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 73,
+     "text": "Last month a collector keeps contacting me about a debt that is not mine."
+    },
+    {
+     "start": 74,
+     "end": 114,
+     "text": "I have kept copies of my correspondence."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003505",
+  "date_received": "2026-04-01",
+  "predicted_label": "Student loan",
+  "confidence": 0.821719,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. Some time ago my student loan servicer misapplied my payments across loans.",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Struggling to repay your loan. Consumer states: \"My payment was not applied to my account.\" [0:41] \"Some time ago my student loan servicer misapplied my payments across loans.\" [42:117]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 117,
+     "text": "Some time ago my student loan servicer misapplied my payments across loans."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003785",
+  "date_received": "2026-05-24",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.823901,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I could not access my online banking for several days. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Problem with a company charging your account. Consumer states: \"I could not access my online banking for several days.\" [0:54] \"I have contacted the company more than once about this.\" [55:110]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 54,
+     "text": "I could not access my online banking for several days."
+    },
+    {
+     "start": 55,
+     "end": 110,
+     "text": "I have contacted the company more than once about this."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003317",
+  "date_received": "2026-02-22",
+  "predicted_label": "Debt collection",
+  "confidence": 0.825131,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "The collector would not tell me the original creditor. This has caused me a lot of stress. I was promised a call back that never came.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Attempts to collect debt not owed. Consumer states: \"The collector would not tell me the original creditor.\" [0:54] \"This has caused me a lot of stress.\" [55:90]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 54,
+     "text": "The collector would not tell me the original creditor."
+    },
+    {
+     "start": 55,
+     "end": 90,
+     "text": "This has caused me a lot of stress."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003424",
+  "date_received": "2026-03-15",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.827471,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My credit was affected by their mistake. A few weeks ago i disputed an item on my report and the investigation result did not change anything. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"My credit was affected by their mistake.\" [0:40] \"A few weeks ago i disputed an item on my report and the investigation result did not change anything.\" [41:142]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 40,
+     "text": "My credit was affected by their mistake."
+    },
+    {
+     "start": 41,
+     "end": 142,
+     "text": "A few weeks ago i disputed an item on my report and the investigation result did not change anything."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003445",
+  "date_received": "2026-03-20",
+  "predicted_label": "Credit card",
+  "confidence": 0.828539,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "The interest rate on my card increased without notice. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Closing your account. Consumer states: \"The interest rate on my card increased without notice.\" [0:54] \"I do not know what else to do.\" [55:85]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 54,
+     "text": "The interest rate on my card increased without notice."
+    },
+    {
+     "start": 55,
+     "end": 85,
+     "text": "I do not know what else to do."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003321",
+  "date_received": "2026-02-22",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.830162,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year my report shows an account as late although I paid it on time. This has caused me a lot of stress.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Incorrect information on your report. Consumer states: \"Earlier this year my report shows an account as late although I paid it on time.\" [0:80] \"This has caused me a lot of stress.\" [81:116]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 80,
+     "text": "Earlier this year my report shows an account as late although I paid it on time."
+    },
+    {
+     "start": 81,
+     "end": 116,
+     "text": "This has caused me a lot of stress."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003602",
+  "date_received": "2026-04-21",
+  "predicted_label": "Credit card",
+  "confidence": 0.833456,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. A few weeks ago the interest rate on my card increased without notice. I would like this resolved as soon as possible.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"A few weeks ago the interest rate on my card increased without notice.\" [57:127]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 127,
+     "text": "A few weeks ago the interest rate on my card increased without notice."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003341",
+  "date_received": "2026-02-27",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.837008,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. Last month the bank charged overdraft fees in an order that increased the total fees. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Closing an account. Consumer states: \"My payment was not applied to my account.\" [0:41] \"Last month the bank charged overdraft fees in an order that increased the total fees.\" [42:127]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 127,
+     "text": "Last month the bank charged overdraft fees in an order that increased the total fees."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003280",
+  "date_received": "2026-02-15",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.837286,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year the payoff amount quoted was different from the amount later demanded. I was promised a call back that never came.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Managing the loan or lease. Consumer states: \"Earlier this year the payoff amount quoted was different from the amount later demanded.\" [0:88] \"I was promised a call back that never came.\" [89:132]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 88,
+     "text": "Earlier this year the payoff amount quoted was different from the amount later demanded."
+    },
+    {
+     "start": 89,
+     "end": 132,
+     "text": "I was promised a call back that never came."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003861",
+  "date_received": "2026-06-06",
+  "predicted_label": "Money transfer",
+  "confidence": 0.837479,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year i was tricked into sending money and the provider refused to investigate. Recently my account was frozen after a transfer with no explanation. I would like this resolved as soon as possible. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. Consumer states: \"Earlier this year i was tricked into sending money and the provider refused to investigate.\" [0:91] \"Recently my account was frozen after a transfer with no explanation.\" [92:160]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 91,
+     "text": "Earlier this year i was tricked into sending money and the provider refused to investigate."
+    },
+    {
+     "start": 92,
+     "end": 160,
+     "text": "Recently my account was frozen after a transfer with no explanation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003238",
+  "date_received": "2026-02-10",
+  "predicted_label": "Credit card",
+  "confidence": 0.838032,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. Some time ago a refund from a merchant was never posted to my card. I have kept copies of my correspondence.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Closing your account. Consumer states: \"My payment was not applied to my account.\" [0:41] \"Some time ago a refund from a merchant was never posted to my card.\" [42:109]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 109,
+     "text": "Some time ago a refund from a merchant was never posted to my card."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003765",
+  "date_received": "2026-05-19",
+  "predicted_label": "Money transfer",
+  "confidence": 0.841689,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Some time ago my account was frozen after a transfer with no explanation. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. Consumer states: \"Some time ago my account was frozen after a transfer with no explanation.\" [0:73] \"I do not know what else to do.\" [74:104]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 73,
+     "text": "Some time ago my account was frozen after a transfer with no explanation."
+    },
+    {
+     "start": 74,
+     "end": 104,
+     "text": "I do not know what else to do."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003811",
+  "date_received": "2026-05-27",
+  "predicted_label": "Credit card",
+  "confidence": 0.843361,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Recently a refund from a merchant was never posted to my card. Earlier this year i closed my card and the company still reports it as open. I am asking for someone to look into this properly. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Closing your account. Consumer states: \"Recently a refund from a merchant was never posted to my card.\" [0:62] \"Earlier this year i closed my card and the company still reports it as open.\" [63:139]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 62,
+     "text": "Recently a refund from a merchant was never posted to my card."
+    },
+    {
+     "start": 63,
+     "end": 139,
+     "text": "Earlier this year i closed my card and the company still reports it as open."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003833",
+  "date_received": "2026-06-01",
+  "predicted_label": "Credit card",
+  "confidence": 0.847235,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. Some time ago a refund from a merchant was never posted to my card.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. Consumer states: \"My payment was not applied to my account.\" [0:41] \"Some time ago a refund from a merchant was never posted to my card.\" [42:109]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 109,
+     "text": "Some time ago a refund from a merchant was never posted to my card."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003733",
+  "date_received": "2026-05-13",
+  "predicted_label": "Credit card",
+  "confidence": 0.84877,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was charged a fee that was never explained to me. Last month i was charged an annual fee that was not disclosed when I opened the card. This has caused me a lot of stress. I would like this resolved as soon as possible.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. Consumer states: \"I was charged a fee that was never explained to me.\" [0:51] \"Last month i was charged an annual fee that was not disclosed when I opened the card.\" [52:137]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 51,
+     "text": "I was charged a fee that was never explained to me."
+    },
+    {
+     "start": 52,
+     "end": 137,
+     "text": "Last month i was charged an annual fee that was not disclosed when I opened the card."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003345",
+  "date_received": "2026-02-27",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.851279,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Earlier this year the dealer added products to my auto loan that I did not agree to.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. Consumer states: \"Earlier this year the dealer added products to my auto loan that I did not agree to.\" [0:84]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 84,
+     "text": "Earlier this year the dealer added products to my auto loan that I did not agree to."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003957",
+  "date_received": "2026-06-24",
+  "predicted_label": "Money transfer",
+  "confidence": 0.855529,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A payment I made is missing from my records. A few weeks ago the provider reversed a transfer without telling me why. I would like this resolved as soon as possible. I am asking for someone to look into this properly.",
+  "summary": {
+   "summary": "Complaint filed under Money transfer / Fraud or scam. Consumer states: \"A payment I made is missing from my records.\" [0:44] \"A few weeks ago the provider reversed a transfer without telling me why.\" [45:117]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 44,
+     "text": "A payment I made is missing from my records."
+    },
+    {
+     "start": 45,
+     "end": 117,
+     "text": "A few weeks ago the provider reversed a transfer without telling me why."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003225",
+  "date_received": "2026-02-08",
+  "predicted_label": "Student loan",
+  "confidence": 0.857261,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. Earlier this year i requested an income driven plan and the servicer lost the paperwork. A few weeks ago my student loan servicer misapplied my payments across loans. I want the record corrected and a written confirmation. I w [truncated]",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Dealing with your lender or servicer. Consumer states: \"My payment was not applied to my account.\" [0:41] \"Earlier this year i requested an income driven plan and the servicer lost the paperwork.\" [42:130]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 130,
+     "text": "Earlier this year i requested an income driven plan and the servicer lost the paperwork."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003414",
+  "date_received": "2026-03-12",
+  "predicted_label": "Debt collection",
+  "confidence": 0.858781,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. Last month i was told the debt was paid but it is still being collected. Each time I call I am given a different answer.",
+  "summary": {
+   "summary": "Complaint filed under Debt collection / Attempts to collect debt not owed. Consumer states: \"My payment was not applied to my account.\" [0:41] \"Last month i was told the debt was paid but it is still being collected.\" [42:114]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 114,
+     "text": "Last month i was told the debt was paid but it is still being collected."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003867",
+  "date_received": "2026-06-07",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.858914,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My credit was affected by their mistake. There is an entry on my credit report that I do not recognise.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"My credit was affected by their mistake.\" [0:40] \"There is an entry on my credit report that I do not recognise.\" [41:103]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 40,
+     "text": "My credit was affected by their mistake."
+    },
+    {
+     "start": 41,
+     "end": 103,
+     "text": "There is an entry on my credit report that I do not recognise."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003882",
+  "date_received": "2026-06-10",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.859104,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A deposit was placed on hold longer than the bank said it would be. This has caused me a lot of stress. I was promised a call back that never came.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Closing an account. Consumer states: \"A deposit was placed on hold longer than the bank said it would be.\" [0:67] \"This has caused me a lot of stress.\" [68:103]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 67,
+     "text": "A deposit was placed on hold longer than the bank said it would be."
+    },
+    {
+     "start": 68,
+     "end": 103,
+     "text": "This has caused me a lot of stress."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003621",
+  "date_received": "2026-04-24",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.85915,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. Recently the lender charged a late fee for a vehicle payment that was on time. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. Consumer states: \"My payment was not applied to my account.\" [0:41] \"Recently the lender charged a late fee for a vehicle payment that was on time.\" [42:120]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 120,
+     "text": "Recently the lender charged a late fee for a vehicle payment that was on time."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003770",
+  "date_received": "2026-05-21",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.859563,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago there is an entry on my credit report that I do not recognise. I want the record corrected and a written confirmation.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"A few weeks ago there is an entry on my credit report that I do not recognise.\" [0:78] \"I want the record corrected and a written confirmation.\" [79:134]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 78,
+     "text": "A few weeks ago there is an entry on my credit report that I do not recognise."
+    },
+    {
+     "start": 79,
+     "end": 134,
+     "text": "I want the record corrected and a written confirmation."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003653",
+  "date_received": "2026-04-29",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.859643,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Customer service could not explain what happened. Some time ago i disputed an item on my report and the investigation result did not change anything. I have contacted the company more than once about this.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"Customer service could not explain what happened.\" [0:49] \"Some time ago i disputed an item on my report and the investigation result did not change anything.\" [50:149]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 49,
+     "text": "Customer service could not explain what happened."
+    },
+    {
+     "start": 50,
+     "end": 149,
+     "text": "Some time ago i disputed an item on my report and the investigation result did not change anything."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003523",
+  "date_received": "2026-04-05",
+  "predicted_label": "Credit card",
+  "confidence": 0.860457,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "I was transferred between departments without an answer. The interest rate on my card increased without notice.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Problem with a purchase shown on your statement. Consumer states: \"I was transferred between departments without an answer.\" [0:56] \"The interest rate on my card increased without notice.\" [57:111]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 56,
+     "text": "I was transferred between departments without an answer."
+    },
+    {
+     "start": 57,
+     "end": 111,
+     "text": "The interest rate on my card increased without notice."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003603",
+  "date_received": "2026-04-21",
+  "predicted_label": "Vehicle loan or lease",
+  "confidence": 0.860987,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "This was reported to the credit bureaus incorrectly. Recently my vehicle title was not released after the loan was paid off.",
+  "summary": {
+   "summary": "Complaint filed under Vehicle loan or lease / Problems at the end of the loan or lease. Consumer states: \"This was reported to the credit bureaus incorrectly.\" [0:52] \"Recently my vehicle title was not released after the loan was paid off.\" [53:124]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 52,
+     "text": "This was reported to the credit bureaus incorrectly."
+    },
+    {
+     "start": 53,
+     "end": 124,
+     "text": "Recently my vehicle title was not released after the loan was paid off."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003509",
+  "date_received": "2026-04-02",
+  "predicted_label": "Mortgage",
+  "confidence": 0.86132,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A payment I made is missing from my records. Earlier this year the servicer added an escrow shortage that was not explained. Some time ago i applied for a loan modification and received no decision for months. I do not know what else to do. Each time I call I am given [truncated]",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Struggling to pay mortgage. Consumer states: \"A payment I made is missing from my records.\" [0:44] \"Earlier this year the servicer added an escrow shortage that was not explained.\" [45:124]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 44,
+     "text": "A payment I made is missing from my records."
+    },
+    {
+     "start": 45,
+     "end": 124,
+     "text": "Earlier this year the servicer added an escrow shortage that was not explained."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003835",
+  "date_received": "2026-06-02",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.861364,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Some time ago a hard inquiry appears on my report that I did not authorise. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Problem with a company&#x27;s investigation into an existing problem. Consumer states: \"Some time ago a hard inquiry appears on my report that I did not authorise.\" [0:75] \"The company has not responded to my letters.\" [76:120]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 75,
+     "text": "Some time ago a hard inquiry appears on my report that I did not authorise."
+    },
+    {
+     "start": 76,
+     "end": 120,
+     "text": "The company has not responded to my letters."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003401",
+  "date_received": "2026-03-10",
+  "predicted_label": "Credit card",
+  "confidence": 0.861458,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "A few weeks ago a refund from a merchant was never posted to my card.",
+  "summary": {
+   "summary": "Complaint filed under Credit card / Fees or interest. Consumer states: \"A few weeks ago a refund from a merchant was never posted to my card.\" [0:69]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 69,
+     "text": "A few weeks ago a refund from a merchant was never posted to my card."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003892",
+  "date_received": "2026-06-12",
+  "predicted_label": "Mortgage",
+  "confidence": 0.861912,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "The servicer added an escrow shortage that was not explained. Some time ago the servicer did not credit my extra principal payment. The company has not responded to my letters.",
+  "summary": {
+   "summary": "Complaint filed under Mortgage / Trouble during payment process. Consumer states: \"The servicer added an escrow shortage that was not explained.\" [0:61] \"Some time ago the servicer did not credit my extra principal payment.\" [62:131]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 61,
+     "text": "The servicer added an escrow shortage that was not explained."
+    },
+    {
+     "start": 62,
+     "end": 131,
+     "text": "Some time ago the servicer did not credit my extra principal payment."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003488",
+  "date_received": "2026-03-28",
+  "predicted_label": "Student loan",
+  "confidence": 0.869163,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My payment was not applied to my account. Earlier this year the servicer reported my loan as delinquent during an approved deferment. Recently i cannot reach anyone at the servicer about my repayment options. I would like this resolved as soon as possible. I want the [truncated]",
+  "summary": {
+   "summary": "Complaint filed under Student loan / Struggling to repay your loan. Consumer states: \"My payment was not applied to my account.\" [0:41] \"Earlier this year the servicer reported my loan as delinquent during an approved deferment.\" [42:133]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 41,
+     "text": "My payment was not applied to my account."
+    },
+    {
+     "start": 42,
+     "end": 133,
+     "text": "Earlier this year the servicer reported my loan as delinquent during an approved deferment."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003211",
+  "date_received": "2026-02-05",
+  "predicted_label": "Checking or savings account",
+  "confidence": 0.871393,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "Last month the bank charged overdraft fees in an order that increased the total fees. I do not know what else to do.",
+  "summary": {
+   "summary": "Complaint filed under Checking or savings account / Managing an account. Consumer states: \"Last month the bank charged overdraft fees in an order that increased the total fees.\" [0:85] \"I do not know what else to do.\" [86:116]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 85,
+     "text": "Last month the bank charged overdraft fees in an order that increased the total fees."
+    },
+    {
+     "start": 86,
+     "end": 116,
+     "text": "I do not know what else to do."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ },
+ {
+  "complaint_id": "SYN-CMP-003278",
+  "date_received": "2026-02-15",
+  "predicted_label": "Credit reporting",
+  "confidence": 0.871787,
+  "route": "auto",
+  "has_narrative": true,
+  "display_text": "My credit was affected by their mistake. Last month i disputed an item on my report and the investigation result did not change anything.",
+  "summary": {
+   "summary": "Complaint filed under Credit reporting / Improper use of your report. Consumer states: \"My credit was affected by their mistake.\" [0:40] \"Last month i disputed an item on my report and the investigation result did not change anything.\" [41:137]",
+   "citations": [
+    {
+     "start": 0,
+     "end": 40,
+     "text": "My credit was affected by their mistake."
+    },
+    {
+     "start": 41,
+     "end": 137,
+     "text": "Last month i disputed an item on my report and the investigation result did not change anything."
+    }
+   ],
+   "backend": "template-v1"
+  }
+ }
+]

@@ -1,0 +1,543 @@
+{
+ "schemaVersion": 1,
+ "mode": "synthetic-demo",
+ "generatedAt": "2026-09-28T10:23:14.990356+00:00",
+ "evidence": "demo",
+ "note": "computed on authored synthetic fixture v1, seed 42; not a benchmark result; complaints are allegations, not findings",
+ "themes": [
+  {
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "recentMeanPerMonth": 15.333,
+   "baselineMeanPerMonth": 3.917,
+   "ratio": 3.915,
+   "flag": true
+  },
+  {
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "recentMeanPerMonth": 5.667,
+   "baselineMeanPerMonth": 3.583,
+   "ratio": 1.581,
+   "flag": false
+  },
+  {
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "recentMeanPerMonth": 5.667,
+   "baselineMeanPerMonth": 3.917,
+   "ratio": 1.447,
+   "flag": false
+  },
+  {
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "recentMeanPerMonth": 5.333,
+   "baselineMeanPerMonth": 4.583,
+   "ratio": 1.164,
+   "flag": false
+  },
+  {
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "recentMeanPerMonth": 6.333,
+   "baselineMeanPerMonth": 5.667,
+   "ratio": 1.118,
+   "flag": false
+  },
+  {
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "recentMeanPerMonth": 5.667,
+   "baselineMeanPerMonth": 5.167,
+   "ratio": 1.097,
+   "flag": false
+  },
+  {
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "recentMeanPerMonth": 7.0,
+   "baselineMeanPerMonth": 6.75,
+   "ratio": 1.037,
+   "flag": false
+  },
+  {
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "recentMeanPerMonth": 5.0,
+   "baselineMeanPerMonth": 4.833,
+   "ratio": 1.034,
+   "flag": false
+  },
+  {
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "recentMeanPerMonth": 5.667,
+   "baselineMeanPerMonth": 5.667,
+   "ratio": 1.0,
+   "flag": false
+  },
+  {
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "recentMeanPerMonth": 19.667,
+   "baselineMeanPerMonth": 19.917,
+   "ratio": 0.987,
+   "flag": false
+  },
+  {
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "recentMeanPerMonth": 9.0,
+   "baselineMeanPerMonth": 9.417,
+   "ratio": 0.956,
+   "flag": false
+  },
+  {
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "recentMeanPerMonth": 5.0,
+   "baselineMeanPerMonth": 5.5,
+   "ratio": 0.909,
+   "flag": false
+  },
+  {
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "recentMeanPerMonth": 18.667,
+   "baselineMeanPerMonth": 20.833,
+   "ratio": 0.896,
+   "flag": false
+  },
+  {
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "recentMeanPerMonth": 17.333,
+   "baselineMeanPerMonth": 19.5,
+   "ratio": 0.889,
+   "flag": false
+  },
+  {
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "recentMeanPerMonth": 5.0,
+   "baselineMeanPerMonth": 5.667,
+   "ratio": 0.882,
+   "flag": false
+  },
+  {
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "recentMeanPerMonth": 4.333,
+   "baselineMeanPerMonth": 4.917,
+   "ratio": 0.881,
+   "flag": false
+  },
+  {
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "recentMeanPerMonth": 4.333,
+   "baselineMeanPerMonth": 5.083,
+   "ratio": 0.852,
+   "flag": false
+  },
+  {
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "recentMeanPerMonth": 4.0,
+   "baselineMeanPerMonth": 4.917,
+   "ratio": 0.814,
+   "flag": false
+  },
+  {
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "recentMeanPerMonth": 7.667,
+   "baselineMeanPerMonth": 10.0,
+   "ratio": 0.767,
+   "flag": false
+  },
+  {
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "recentMeanPerMonth": 6.0,
+   "baselineMeanPerMonth": 8.417,
+   "ratio": 0.713,
+   "flag": false
+  },
+  {
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "recentMeanPerMonth": 2.667,
+   "baselineMeanPerMonth": 5.0,
+   "ratio": 0.533,
+   "flag": false
+  }
+ ],
+ "routing": [
+  {
+   "complaintId": "SYN-CMP-003396",
+   "predictedLabel": "Credit card",
+   "confidence": 0.147637,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003846",
+   "predictedLabel": "Mortgage",
+   "confidence": 0.159188,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003318",
+   "predictedLabel": "Student loan",
+   "confidence": 0.164445,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003405",
+   "predictedLabel": "Student loan",
+   "confidence": 0.164445,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003631",
+   "predictedLabel": "Credit card",
+   "confidence": 0.168008,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003204",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.168793,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003323",
+   "predictedLabel": "Student loan",
+   "confidence": 0.173991,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003561",
+   "predictedLabel": "Student loan",
+   "confidence": 0.173991,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003805",
+   "predictedLabel": "Student loan",
+   "confidence": 0.173991,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003230",
+   "predictedLabel": "Credit card",
+   "confidence": 0.178816,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003667",
+   "predictedLabel": "Student loan",
+   "confidence": 0.178855,
+   "route": "human_review",
+   "hasNarrative": true
+  },
+  {
+   "complaintId": "SYN-CMP-003555",
+   "predictedLabel": "Mortgage",
+   "confidence": 0.185267,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003752",
+   "predictedLabel": "Credit card",
+   "confidence": 0.190301,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003600",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.194734,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003324",
+   "predictedLabel": "Student loan",
+   "confidence": 0.199022,
+   "route": "human_review",
+   "hasNarrative": true
+  },
+  {
+   "complaintId": "SYN-CMP-003518",
+   "predictedLabel": "Student loan",
+   "confidence": 0.19906,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003622",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.202636,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003428",
+   "predictedLabel": "Money transfer",
+   "confidence": 0.209806,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003820",
+   "predictedLabel": "Money transfer",
+   "confidence": 0.209806,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003487",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.210016,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003465",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.211579,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003574",
+   "predictedLabel": "Credit card",
+   "confidence": 0.214032,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003262",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.216317,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003963",
+   "predictedLabel": "Student loan",
+   "confidence": 0.219771,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003592",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.220386,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003626",
+   "predictedLabel": "Money transfer",
+   "confidence": 0.221429,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003533",
+   "predictedLabel": "Debt collection",
+   "confidence": 0.222095,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003658",
+   "predictedLabel": "Student loan",
+   "confidence": 0.223684,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003239",
+   "predictedLabel": "Debt collection",
+   "confidence": 0.223974,
+   "route": "human_review",
+   "hasNarrative": true
+  },
+  {
+   "complaintId": "SYN-CMP-003843",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.228394,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003595",
+   "predictedLabel": "Credit card",
+   "confidence": 0.233088,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003588",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.233271,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003923",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.233271,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003205",
+   "predictedLabel": "Vehicle loan or lease",
+   "confidence": 0.235507,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003960",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.236455,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003755",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.237549,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003297",
+   "predictedLabel": "Money transfer",
+   "confidence": 0.242086,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003515",
+   "predictedLabel": "Credit card",
+   "confidence": 0.24227,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003328",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.24241,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003585",
+   "predictedLabel": "Money transfer",
+   "confidence": 0.244281,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003782",
+   "predictedLabel": "Credit reporting",
+   "confidence": 0.244827,
+   "route": "human_review",
+   "hasNarrative": true
+  },
+  {
+   "complaintId": "SYN-CMP-003270",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.247171,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003998",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.247171,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003307",
+   "predictedLabel": "Credit card",
+   "confidence": 0.247707,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003470",
+   "predictedLabel": "Checking or savings account",
+   "confidence": 0.249623,
+   "route": "human_review",
+   "hasNarrative": true
+  },
+  {
+   "complaintId": "SYN-CMP-003480",
+   "predictedLabel": "Money transfer",
+   "confidence": 0.251741,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003980",
+   "predictedLabel": "Money transfer",
+   "confidence": 0.251741,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003265",
+   "predictedLabel": "Mortgage",
+   "confidence": 0.254211,
+   "route": "human_review",
+   "hasNarrative": true
+  },
+  {
+   "complaintId": "SYN-CMP-003498",
+   "predictedLabel": "Vehicle loan or lease",
+   "confidence": 0.254806,
+   "route": "human_review",
+   "hasNarrative": false
+  },
+  {
+   "complaintId": "SYN-CMP-003688",
+   "predictedLabel": "Vehicle loan or lease",
+   "confidence": 0.25676,
+   "route": "human_review",
+   "hasNarrative": true
+  }
+ ],
+ "metrics": {
+  "macroF1": 0.8652304583243506,
+  "coverage": 0.8904991948470209,
+  "threshold": 0.3,
+  "nTest": 621
+ },
+ "review": {
+  "note": "simulated reviewer using fixture labels; demo only",
+  "events": 68,
+  "overrides": 63,
+  "confirmations": 5,
+  "distinct_complaints": 68,
+  "distinct_reviewers": 1
+ }
+}

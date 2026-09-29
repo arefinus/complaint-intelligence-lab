@@ -1,0 +1,40 @@
+# Default configuration for complaint-intelligence-lab. All values are settings, not results.
+seed: 42
+target: product                 # or: issue
+structured_features: [state, submitted_via, company]
+use_narrative: true
+
+fixture: examples/fixtures/v1/complaints_synthetic.csv
+output_dir: examples/output
+
+dedup:
+  shingle_k: 5
+  jaccard_threshold: 0.8
+
+split:
+  train_frac: 0.6
+  valid_frac: 0.2
+
+tfidf:
+  max_features: 5000
+  ngram_max: 2
+  min_df: 2
+  max_narrative_chars: 5000
+
+model:
+  C: 1.0
+  class_weight: balanced         # or: null
+  max_iter: 2000
+
+abstention:
+  target_accuracy: 0.98          # operating target for threshold selection on validation; a policy setting, not a result
+  min_coverage: 0.2
+
+trends:
+  recent_months: 3
+  baseline_months: 12
+  ratio_threshold: 2.0
+  min_count: 15
+
+landscape:
+  max_points: 500

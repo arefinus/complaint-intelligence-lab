@@ -1,0 +1,1 @@
+{"classes": ["Checking or savings account", "Credit card", "Credit reporting", "Debt collection", "Money transfer", "Mortgage", "Student loan", "Vehicle loan or lease"], "model_config": {"C": 1.0, "class_weight": "balanced", "max_iter": 2000, "seed": 42}}

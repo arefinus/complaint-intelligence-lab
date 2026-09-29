@@ -1,0 +1,4281 @@
+{
+ "note": "Complaint counts are allegations as submitted, not adjudicated findings, and not a company quality ranking.",
+ "config": {
+  "recent_months": 3,
+  "baseline_months": 12,
+  "ratio_threshold": 2.0,
+  "min_count": 15
+ },
+ "monthly_by_product": [
+  {
+   "month": "2024-07",
+   "product": "Checking or savings account",
+   "count": 15
+  },
+  {
+   "month": "2024-07",
+   "product": "Credit card",
+   "count": 16
+  },
+  {
+   "month": "2024-07",
+   "product": "Credit reporting",
+   "count": 65
+  },
+  {
+   "month": "2024-07",
+   "product": "Debt collection",
+   "count": 26
+  },
+  {
+   "month": "2024-07",
+   "product": "Money transfer",
+   "count": 11
+  },
+  {
+   "month": "2024-07",
+   "product": "Mortgage",
+   "count": 20
+  },
+  {
+   "month": "2024-07",
+   "product": "Student loan",
+   "count": 17
+  },
+  {
+   "month": "2024-07",
+   "product": "Vehicle loan or lease",
+   "count": 10
+  },
+  {
+   "month": "2024-08",
+   "product": "Checking or savings account",
+   "count": 19
+  },
+  {
+   "month": "2024-08",
+   "product": "Credit card",
+   "count": 15
+  },
+  {
+   "month": "2024-08",
+   "product": "Credit reporting",
+   "count": 71
+  },
+  {
+   "month": "2024-08",
+   "product": "Debt collection",
+   "count": 27
+  },
+  {
+   "month": "2024-08",
+   "product": "Money transfer",
+   "count": 9
+  },
+  {
+   "month": "2024-08",
+   "product": "Mortgage",
+   "count": 23
+  },
+  {
+   "month": "2024-08",
+   "product": "Student loan",
+   "count": 9
+  },
+  {
+   "month": "2024-08",
+   "product": "Vehicle loan or lease",
+   "count": 9
+  },
+  {
+   "month": "2024-09",
+   "product": "Checking or savings account",
+   "count": 24
+  },
+  {
+   "month": "2024-09",
+   "product": "Credit card",
+   "count": 18
+  },
+  {
+   "month": "2024-09",
+   "product": "Credit reporting",
+   "count": 61
+  },
+  {
+   "month": "2024-09",
+   "product": "Debt collection",
+   "count": 24
+  },
+  {
+   "month": "2024-09",
+   "product": "Money transfer",
+   "count": 5
+  },
+  {
+   "month": "2024-09",
+   "product": "Mortgage",
+   "count": 16
+  },
+  {
+   "month": "2024-09",
+   "product": "Student loan",
+   "count": 9
+  },
+  {
+   "month": "2024-09",
+   "product": "Vehicle loan or lease",
+   "count": 8
+  },
+  {
+   "month": "2024-10",
+   "product": "Checking or savings account",
+   "count": 12
+  },
+  {
+   "month": "2024-10",
+   "product": "Credit card",
+   "count": 16
+  },
+  {
+   "month": "2024-10",
+   "product": "Credit reporting",
+   "count": 58
+  },
+  {
+   "month": "2024-10",
+   "product": "Debt collection",
+   "count": 31
+  },
+  {
+   "month": "2024-10",
+   "product": "Money transfer",
+   "count": 8
+  },
+  {
+   "month": "2024-10",
+   "product": "Mortgage",
+   "count": 16
+  },
+  {
+   "month": "2024-10",
+   "product": "Student loan",
+   "count": 6
+  },
+  {
+   "month": "2024-10",
+   "product": "Vehicle loan or lease",
+   "count": 12
+  },
+  {
+   "month": "2024-11",
+   "product": "Checking or savings account",
+   "count": 25
+  },
+  {
+   "month": "2024-11",
+   "product": "Credit card",
+   "count": 17
+  },
+  {
+   "month": "2024-11",
+   "product": "Credit reporting",
+   "count": 70
+  },
+  {
+   "month": "2024-11",
+   "product": "Debt collection",
+   "count": 29
+  },
+  {
+   "month": "2024-11",
+   "product": "Money transfer",
+   "count": 10
+  },
+  {
+   "month": "2024-11",
+   "product": "Mortgage",
+   "count": 14
+  },
+  {
+   "month": "2024-11",
+   "product": "Student loan",
+   "count": 7
+  },
+  {
+   "month": "2024-11",
+   "product": "Vehicle loan or lease",
+   "count": 7
+  },
+  {
+   "month": "2024-12",
+   "product": "Checking or savings account",
+   "count": 11
+  },
+  {
+   "month": "2024-12",
+   "product": "Credit card",
+   "count": 20
+  },
+  {
+   "month": "2024-12",
+   "product": "Credit reporting",
+   "count": 61
+  },
+  {
+   "month": "2024-12",
+   "product": "Debt collection",
+   "count": 26
+  },
+  {
+   "month": "2024-12",
+   "product": "Money transfer",
+   "count": 8
+  },
+  {
+   "month": "2024-12",
+   "product": "Mortgage",
+   "count": 13
+  },
+  {
+   "month": "2024-12",
+   "product": "Student loan",
+   "count": 11
+  },
+  {
+   "month": "2024-12",
+   "product": "Vehicle loan or lease",
+   "count": 9
+  },
+  {
+   "month": "2025-01",
+   "product": "Checking or savings account",
+   "count": 16
+  },
+  {
+   "month": "2025-01",
+   "product": "Credit card",
+   "count": 24
+  },
+  {
+   "month": "2025-01",
+   "product": "Credit reporting",
+   "count": 60
+  },
+  {
+   "month": "2025-01",
+   "product": "Debt collection",
+   "count": 27
+  },
+  {
+   "month": "2025-01",
+   "product": "Money transfer",
+   "count": 10
+  },
+  {
+   "month": "2025-01",
+   "product": "Mortgage",
+   "count": 18
+  },
+  {
+   "month": "2025-01",
+   "product": "Student loan",
+   "count": 9
+  },
+  {
+   "month": "2025-01",
+   "product": "Vehicle loan or lease",
+   "count": 5
+  },
+  {
+   "month": "2025-02",
+   "product": "Checking or savings account",
+   "count": 4
+  },
+  {
+   "month": "2025-02",
+   "product": "Credit card",
+   "count": 25
+  },
+  {
+   "month": "2025-02",
+   "product": "Credit reporting",
+   "count": 76
+  },
+  {
+   "month": "2025-02",
+   "product": "Debt collection",
+   "count": 38
+  },
+  {
+   "month": "2025-02",
+   "product": "Money transfer",
+   "count": 5
+  },
+  {
+   "month": "2025-02",
+   "product": "Mortgage",
+   "count": 15
+  },
+  {
+   "month": "2025-02",
+   "product": "Student loan",
+   "count": 5
+  },
+  {
+   "month": "2025-02",
+   "product": "Vehicle loan or lease",
+   "count": 10
+  },
+  {
+   "month": "2025-03",
+   "product": "Checking or savings account",
+   "count": 17
+  },
+  {
+   "month": "2025-03",
+   "product": "Credit card",
+   "count": 9
+  },
+  {
+   "month": "2025-03",
+   "product": "Credit reporting",
+   "count": 63
+  },
+  {
+   "month": "2025-03",
+   "product": "Debt collection",
+   "count": 39
+  },
+  {
+   "month": "2025-03",
+   "product": "Money transfer",
+   "count": 7
+  },
+  {
+   "month": "2025-03",
+   "product": "Mortgage",
+   "count": 26
+  },
+  {
+   "month": "2025-03",
+   "product": "Student loan",
+   "count": 9
+  },
+  {
+   "month": "2025-03",
+   "product": "Vehicle loan or lease",
+   "count": 4
+  },
+  {
+   "month": "2025-04",
+   "product": "Checking or savings account",
+   "count": 14
+  },
+  {
+   "month": "2025-04",
+   "product": "Credit card",
+   "count": 18
+  },
+  {
+   "month": "2025-04",
+   "product": "Credit reporting",
+   "count": 63
+  },
+  {
+   "month": "2025-04",
+   "product": "Debt collection",
+   "count": 25
+  },
+  {
+   "month": "2025-04",
+   "product": "Money transfer",
+   "count": 13
+  },
+  {
+   "month": "2025-04",
+   "product": "Mortgage",
+   "count": 12
+  },
+  {
+   "month": "2025-04",
+   "product": "Student loan",
+   "count": 13
+  },
+  {
+   "month": "2025-04",
+   "product": "Vehicle loan or lease",
+   "count": 7
+  },
+  {
+   "month": "2025-05",
+   "product": "Checking or savings account",
+   "count": 16
+  },
+  {
+   "month": "2025-05",
+   "product": "Credit card",
+   "count": 16
+  },
+  {
+   "month": "2025-05",
+   "product": "Credit reporting",
+   "count": 57
+  },
+  {
+   "month": "2025-05",
+   "product": "Debt collection",
+   "count": 27
+  },
+  {
+   "month": "2025-05",
+   "product": "Money transfer",
+   "count": 5
+  },
+  {
+   "month": "2025-05",
+   "product": "Mortgage",
+   "count": 14
+  },
+  {
+   "month": "2025-05",
+   "product": "Student loan",
+   "count": 12
+  },
+  {
+   "month": "2025-05",
+   "product": "Vehicle loan or lease",
+   "count": 5
+  },
+  {
+   "month": "2025-06",
+   "product": "Checking or savings account",
+   "count": 13
+  },
+  {
+   "month": "2025-06",
+   "product": "Credit card",
+   "count": 26
+  },
+  {
+   "month": "2025-06",
+   "product": "Credit reporting",
+   "count": 54
+  },
+  {
+   "month": "2025-06",
+   "product": "Debt collection",
+   "count": 30
+  },
+  {
+   "month": "2025-06",
+   "product": "Money transfer",
+   "count": 10
+  },
+  {
+   "month": "2025-06",
+   "product": "Mortgage",
+   "count": 17
+  },
+  {
+   "month": "2025-06",
+   "product": "Student loan",
+   "count": 9
+  },
+  {
+   "month": "2025-06",
+   "product": "Vehicle loan or lease",
+   "count": 8
+  },
+  {
+   "month": "2025-07",
+   "product": "Checking or savings account",
+   "count": 13
+  },
+  {
+   "month": "2025-07",
+   "product": "Credit card",
+   "count": 12
+  },
+  {
+   "month": "2025-07",
+   "product": "Credit reporting",
+   "count": 63
+  },
+  {
+   "month": "2025-07",
+   "product": "Debt collection",
+   "count": 32
+  },
+  {
+   "month": "2025-07",
+   "product": "Money transfer",
+   "count": 9
+  },
+  {
+   "month": "2025-07",
+   "product": "Mortgage",
+   "count": 20
+  },
+  {
+   "month": "2025-07",
+   "product": "Student loan",
+   "count": 6
+  },
+  {
+   "month": "2025-07",
+   "product": "Vehicle loan or lease",
+   "count": 9
+  },
+  {
+   "month": "2025-08",
+   "product": "Checking or savings account",
+   "count": 19
+  },
+  {
+   "month": "2025-08",
+   "product": "Credit card",
+   "count": 19
+  },
+  {
+   "month": "2025-08",
+   "product": "Credit reporting",
+   "count": 54
+  },
+  {
+   "month": "2025-08",
+   "product": "Debt collection",
+   "count": 26
+  },
+  {
+   "month": "2025-08",
+   "product": "Money transfer",
+   "count": 8
+  },
+  {
+   "month": "2025-08",
+   "product": "Mortgage",
+   "count": 26
+  },
+  {
+   "month": "2025-08",
+   "product": "Student loan",
+   "count": 10
+  },
+  {
+   "month": "2025-08",
+   "product": "Vehicle loan or lease",
+   "count": 6
+  },
+  {
+   "month": "2025-09",
+   "product": "Checking or savings account",
+   "count": 16
+  },
+  {
+   "month": "2025-09",
+   "product": "Credit card",
+   "count": 22
+  },
+  {
+   "month": "2025-09",
+   "product": "Credit reporting",
+   "count": 66
+  },
+  {
+   "month": "2025-09",
+   "product": "Debt collection",
+   "count": 25
+  },
+  {
+   "month": "2025-09",
+   "product": "Money transfer",
+   "count": 5
+  },
+  {
+   "month": "2025-09",
+   "product": "Mortgage",
+   "count": 14
+  },
+  {
+   "month": "2025-09",
+   "product": "Student loan",
+   "count": 10
+  },
+  {
+   "month": "2025-09",
+   "product": "Vehicle loan or lease",
+   "count": 11
+  },
+  {
+   "month": "2025-10",
+   "product": "Checking or savings account",
+   "count": 18
+  },
+  {
+   "month": "2025-10",
+   "product": "Credit card",
+   "count": 18
+  },
+  {
+   "month": "2025-10",
+   "product": "Credit reporting",
+   "count": 64
+  },
+  {
+   "month": "2025-10",
+   "product": "Debt collection",
+   "count": 25
+  },
+  {
+   "month": "2025-10",
+   "product": "Money transfer",
+   "count": 9
+  },
+  {
+   "month": "2025-10",
+   "product": "Mortgage",
+   "count": 15
+  },
+  {
+   "month": "2025-10",
+   "product": "Student loan",
+   "count": 10
+  },
+  {
+   "month": "2025-10",
+   "product": "Vehicle loan or lease",
+   "count": 9
+  },
+  {
+   "month": "2025-11",
+   "product": "Checking or savings account",
+   "count": 11
+  },
+  {
+   "month": "2025-11",
+   "product": "Credit card",
+   "count": 12
+  },
+  {
+   "month": "2025-11",
+   "product": "Credit reporting",
+   "count": 48
+  },
+  {
+   "month": "2025-11",
+   "product": "Debt collection",
+   "count": 23
+  },
+  {
+   "month": "2025-11",
+   "product": "Money transfer",
+   "count": 7
+  },
+  {
+   "month": "2025-11",
+   "product": "Mortgage",
+   "count": 14
+  },
+  {
+   "month": "2025-11",
+   "product": "Student loan",
+   "count": 8
+  },
+  {
+   "month": "2025-11",
+   "product": "Vehicle loan or lease",
+   "count": 8
+  },
+  {
+   "month": "2025-12",
+   "product": "Checking or savings account",
+   "count": 14
+  },
+  {
+   "month": "2025-12",
+   "product": "Credit card",
+   "count": 21
+  },
+  {
+   "month": "2025-12",
+   "product": "Credit reporting",
+   "count": 68
+  },
+  {
+   "month": "2025-12",
+   "product": "Debt collection",
+   "count": 29
+  },
+  {
+   "month": "2025-12",
+   "product": "Money transfer",
+   "count": 11
+  },
+  {
+   "month": "2025-12",
+   "product": "Mortgage",
+   "count": 13
+  },
+  {
+   "month": "2025-12",
+   "product": "Student loan",
+   "count": 16
+  },
+  {
+   "month": "2025-12",
+   "product": "Vehicle loan or lease",
+   "count": 6
+  },
+  {
+   "month": "2026-01",
+   "product": "Checking or savings account",
+   "count": 14
+  },
+  {
+   "month": "2026-01",
+   "product": "Credit card",
+   "count": 12
+  },
+  {
+   "month": "2026-01",
+   "product": "Credit reporting",
+   "count": 71
+  },
+  {
+   "month": "2026-01",
+   "product": "Debt collection",
+   "count": 34
+  },
+  {
+   "month": "2026-01",
+   "product": "Money transfer",
+   "count": 13
+  },
+  {
+   "month": "2026-01",
+   "product": "Mortgage",
+   "count": 14
+  },
+  {
+   "month": "2026-01",
+   "product": "Student loan",
+   "count": 11
+  },
+  {
+   "month": "2026-01",
+   "product": "Vehicle loan or lease",
+   "count": 2
+  },
+  {
+   "month": "2026-02",
+   "product": "Checking or savings account",
+   "count": 22
+  },
+  {
+   "month": "2026-02",
+   "product": "Credit card",
+   "count": 15
+  },
+  {
+   "month": "2026-02",
+   "product": "Credit reporting",
+   "count": 64
+  },
+  {
+   "month": "2026-02",
+   "product": "Debt collection",
+   "count": 29
+  },
+  {
+   "month": "2026-02",
+   "product": "Money transfer",
+   "count": 9
+  },
+  {
+   "month": "2026-02",
+   "product": "Mortgage",
+   "count": 15
+  },
+  {
+   "month": "2026-02",
+   "product": "Student loan",
+   "count": 13
+  },
+  {
+   "month": "2026-02",
+   "product": "Vehicle loan or lease",
+   "count": 8
+  },
+  {
+   "month": "2026-03",
+   "product": "Checking or savings account",
+   "count": 14
+  },
+  {
+   "month": "2026-03",
+   "product": "Credit card",
+   "count": 17
+  },
+  {
+   "month": "2026-03",
+   "product": "Credit reporting",
+   "count": 51
+  },
+  {
+   "month": "2026-03",
+   "product": "Debt collection",
+   "count": 29
+  },
+  {
+   "month": "2026-03",
+   "product": "Money transfer",
+   "count": 8
+  },
+  {
+   "month": "2026-03",
+   "product": "Mortgage",
+   "count": 14
+  },
+  {
+   "month": "2026-03",
+   "product": "Student loan",
+   "count": 7
+  },
+  {
+   "month": "2026-03",
+   "product": "Vehicle loan or lease",
+   "count": 11
+  },
+  {
+   "month": "2026-04",
+   "product": "Checking or savings account",
+   "count": 11
+  },
+  {
+   "month": "2026-04",
+   "product": "Credit card",
+   "count": 16
+  },
+  {
+   "month": "2026-04",
+   "product": "Credit reporting",
+   "count": 63
+  },
+  {
+   "month": "2026-04",
+   "product": "Debt collection",
+   "count": 18
+  },
+  {
+   "month": "2026-04",
+   "product": "Money transfer",
+   "count": 15
+  },
+  {
+   "month": "2026-04",
+   "product": "Mortgage",
+   "count": 17
+  },
+  {
+   "month": "2026-04",
+   "product": "Student loan",
+   "count": 6
+  },
+  {
+   "month": "2026-04",
+   "product": "Vehicle loan or lease",
+   "count": 10
+  },
+  {
+   "month": "2026-05",
+   "product": "Checking or savings account",
+   "count": 17
+  },
+  {
+   "month": "2026-05",
+   "product": "Credit card",
+   "count": 20
+  },
+  {
+   "month": "2026-05",
+   "product": "Credit reporting",
+   "count": 53
+  },
+  {
+   "month": "2026-05",
+   "product": "Debt collection",
+   "count": 24
+  },
+  {
+   "month": "2026-05",
+   "product": "Money transfer",
+   "count": 15
+  },
+  {
+   "month": "2026-05",
+   "product": "Mortgage",
+   "count": 19
+  },
+  {
+   "month": "2026-05",
+   "product": "Student loan",
+   "count": 11
+  },
+  {
+   "month": "2026-05",
+   "product": "Vehicle loan or lease",
+   "count": 13
+  },
+  {
+   "month": "2026-06",
+   "product": "Checking or savings account",
+   "count": 16
+  },
+  {
+   "month": "2026-06",
+   "product": "Credit card",
+   "count": 16
+  },
+  {
+   "month": "2026-06",
+   "product": "Credit reporting",
+   "count": 51
+  },
+  {
+   "month": "2026-06",
+   "product": "Debt collection",
+   "count": 26
+  },
+  {
+   "month": "2026-06",
+   "product": "Money transfer",
+   "count": 24
+  },
+  {
+   "month": "2026-06",
+   "product": "Mortgage",
+   "count": 13
+  },
+  {
+   "month": "2026-06",
+   "product": "Student loan",
+   "count": 11
+  },
+  {
+   "month": "2026-06",
+   "product": "Vehicle loan or lease",
+   "count": 11
+  }
+ ],
+ "monthly_by_theme": [
+  {
+   "month": "2024-07",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 5
+  },
+  {
+   "month": "2024-07",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 3
+  },
+  {
+   "month": "2024-07",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 7
+  },
+  {
+   "month": "2024-07",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 5
+  },
+  {
+   "month": "2024-07",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 5
+  },
+  {
+   "month": "2024-07",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 6
+  },
+  {
+   "month": "2024-07",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 23
+  },
+  {
+   "month": "2024-07",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 20
+  },
+  {
+   "month": "2024-07",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 22
+  },
+  {
+   "month": "2024-07",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 14
+  },
+  {
+   "month": "2024-07",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 7
+  },
+  {
+   "month": "2024-07",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 5
+  },
+  {
+   "month": "2024-07",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 4
+  },
+  {
+   "month": "2024-07",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 7
+  },
+  {
+   "month": "2024-07",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 7
+  },
+  {
+   "month": "2024-07",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 10
+  },
+  {
+   "month": "2024-07",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 3
+  },
+  {
+   "month": "2024-07",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 9
+  },
+  {
+   "month": "2024-07",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 8
+  },
+  {
+   "month": "2024-07",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 8
+  },
+  {
+   "month": "2024-07",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 2
+  },
+  {
+   "month": "2024-08",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 7
+  },
+  {
+   "month": "2024-08",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 5
+  },
+  {
+   "month": "2024-08",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 7
+  },
+  {
+   "month": "2024-08",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 6
+  },
+  {
+   "month": "2024-08",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 6
+  },
+  {
+   "month": "2024-08",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 3
+  },
+  {
+   "month": "2024-08",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 20
+  },
+  {
+   "month": "2024-08",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 20
+  },
+  {
+   "month": "2024-08",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 31
+  },
+  {
+   "month": "2024-08",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 6
+  },
+  {
+   "month": "2024-08",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 11
+  },
+  {
+   "month": "2024-08",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 10
+  },
+  {
+   "month": "2024-08",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 2
+  },
+  {
+   "month": "2024-08",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 7
+  },
+  {
+   "month": "2024-08",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 8
+  },
+  {
+   "month": "2024-08",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 9
+  },
+  {
+   "month": "2024-08",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 6
+  },
+  {
+   "month": "2024-08",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 5
+  },
+  {
+   "month": "2024-08",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 4
+  },
+  {
+   "month": "2024-08",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 6
+  },
+  {
+   "month": "2024-08",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 3
+  },
+  {
+   "month": "2024-09",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 5
+  },
+  {
+   "month": "2024-09",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 12
+  },
+  {
+   "month": "2024-09",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 7
+  },
+  {
+   "month": "2024-09",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 6
+  },
+  {
+   "month": "2024-09",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 4
+  },
+  {
+   "month": "2024-09",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 8
+  },
+  {
+   "month": "2024-09",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 25
+  },
+  {
+   "month": "2024-09",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 23
+  },
+  {
+   "month": "2024-09",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 13
+  },
+  {
+   "month": "2024-09",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 5
+  },
+  {
+   "month": "2024-09",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 12
+  },
+  {
+   "month": "2024-09",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 7
+  },
+  {
+   "month": "2024-09",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 2
+  },
+  {
+   "month": "2024-09",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 3
+  },
+  {
+   "month": "2024-09",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 5
+  },
+  {
+   "month": "2024-09",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 5
+  },
+  {
+   "month": "2024-09",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 6
+  },
+  {
+   "month": "2024-09",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 2
+  },
+  {
+   "month": "2024-09",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 7
+  },
+  {
+   "month": "2024-09",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 2
+  },
+  {
+   "month": "2024-09",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 6
+  },
+  {
+   "month": "2024-10",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 3
+  },
+  {
+   "month": "2024-10",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 4
+  },
+  {
+   "month": "2024-10",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 5
+  },
+  {
+   "month": "2024-10",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 5
+  },
+  {
+   "month": "2024-10",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 7
+  },
+  {
+   "month": "2024-10",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 4
+  },
+  {
+   "month": "2024-10",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 20
+  },
+  {
+   "month": "2024-10",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 20
+  },
+  {
+   "month": "2024-10",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 18
+  },
+  {
+   "month": "2024-10",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 13
+  },
+  {
+   "month": "2024-10",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 9
+  },
+  {
+   "month": "2024-10",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 9
+  },
+  {
+   "month": "2024-10",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 4
+  },
+  {
+   "month": "2024-10",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 4
+  },
+  {
+   "month": "2024-10",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 8
+  },
+  {
+   "month": "2024-10",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 4
+  },
+  {
+   "month": "2024-10",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 4
+  },
+  {
+   "month": "2024-10",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 3
+  },
+  {
+   "month": "2024-10",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 3
+  },
+  {
+   "month": "2024-10",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 4
+  },
+  {
+   "month": "2024-10",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 8
+  },
+  {
+   "month": "2024-11",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 4
+  },
+  {
+   "month": "2024-11",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 10
+  },
+  {
+   "month": "2024-11",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 11
+  },
+  {
+   "month": "2024-11",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 5
+  },
+  {
+   "month": "2024-11",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 6
+  },
+  {
+   "month": "2024-11",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 6
+  },
+  {
+   "month": "2024-11",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 34
+  },
+  {
+   "month": "2024-11",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 14
+  },
+  {
+   "month": "2024-11",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 22
+  },
+  {
+   "month": "2024-11",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 9
+  },
+  {
+   "month": "2024-11",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 13
+  },
+  {
+   "month": "2024-11",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 7
+  },
+  {
+   "month": "2024-11",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 5
+  },
+  {
+   "month": "2024-11",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 5
+  },
+  {
+   "month": "2024-11",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 4
+  },
+  {
+   "month": "2024-11",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 5
+  },
+  {
+   "month": "2024-11",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 5
+  },
+  {
+   "month": "2024-11",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 3
+  },
+  {
+   "month": "2024-11",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 4
+  },
+  {
+   "month": "2024-11",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 5
+  },
+  {
+   "month": "2024-11",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 2
+  },
+  {
+   "month": "2024-12",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 3
+  },
+  {
+   "month": "2024-12",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 7
+  },
+  {
+   "month": "2024-12",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 1
+  },
+  {
+   "month": "2024-12",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 6
+  },
+  {
+   "month": "2024-12",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 8
+  },
+  {
+   "month": "2024-12",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 6
+  },
+  {
+   "month": "2024-12",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 14
+  },
+  {
+   "month": "2024-12",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 27
+  },
+  {
+   "month": "2024-12",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 20
+  },
+  {
+   "month": "2024-12",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 7
+  },
+  {
+   "month": "2024-12",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 6
+  },
+  {
+   "month": "2024-12",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 13
+  },
+  {
+   "month": "2024-12",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 5
+  },
+  {
+   "month": "2024-12",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 3
+  },
+  {
+   "month": "2024-12",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 3
+  },
+  {
+   "month": "2024-12",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 7
+  },
+  {
+   "month": "2024-12",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 3
+  },
+  {
+   "month": "2024-12",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 7
+  },
+  {
+   "month": "2024-12",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 4
+  },
+  {
+   "month": "2024-12",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 3
+  },
+  {
+   "month": "2024-12",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 6
+  },
+  {
+   "month": "2025-01",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 7
+  },
+  {
+   "month": "2025-01",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 4
+  },
+  {
+   "month": "2025-01",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 5
+  },
+  {
+   "month": "2025-01",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 8
+  },
+  {
+   "month": "2025-01",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 8
+  },
+  {
+   "month": "2025-01",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 8
+  },
+  {
+   "month": "2025-01",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 16
+  },
+  {
+   "month": "2025-01",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 23
+  },
+  {
+   "month": "2025-01",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 21
+  },
+  {
+   "month": "2025-01",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 9
+  },
+  {
+   "month": "2025-01",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 10
+  },
+  {
+   "month": "2025-01",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 8
+  },
+  {
+   "month": "2025-01",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 4
+  },
+  {
+   "month": "2025-01",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 6
+  },
+  {
+   "month": "2025-01",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 7
+  },
+  {
+   "month": "2025-01",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 4
+  },
+  {
+   "month": "2025-01",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 7
+  },
+  {
+   "month": "2025-01",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 5
+  },
+  {
+   "month": "2025-01",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 4
+  },
+  {
+   "month": "2025-01",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 2
+  },
+  {
+   "month": "2025-01",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 3
+  },
+  {
+   "month": "2025-02",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 1
+  },
+  {
+   "month": "2025-02",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 1
+  },
+  {
+   "month": "2025-02",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 2
+  },
+  {
+   "month": "2025-02",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 7
+  },
+  {
+   "month": "2025-02",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 11
+  },
+  {
+   "month": "2025-02",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 7
+  },
+  {
+   "month": "2025-02",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 30
+  },
+  {
+   "month": "2025-02",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 20
+  },
+  {
+   "month": "2025-02",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 26
+  },
+  {
+   "month": "2025-02",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 13
+  },
+  {
+   "month": "2025-02",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 9
+  },
+  {
+   "month": "2025-02",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 16
+  },
+  {
+   "month": "2025-02",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 3
+  },
+  {
+   "month": "2025-02",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 2
+  },
+  {
+   "month": "2025-02",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 3
+  },
+  {
+   "month": "2025-02",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 8
+  },
+  {
+   "month": "2025-02",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 4
+  },
+  {
+   "month": "2025-02",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 2
+  },
+  {
+   "month": "2025-02",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 3
+  },
+  {
+   "month": "2025-02",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 4
+  },
+  {
+   "month": "2025-02",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 6
+  },
+  {
+   "month": "2025-03",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 8
+  },
+  {
+   "month": "2025-03",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 3
+  },
+  {
+   "month": "2025-03",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 6
+  },
+  {
+   "month": "2025-03",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 3
+  },
+  {
+   "month": "2025-03",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 3
+  },
+  {
+   "month": "2025-03",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 3
+  },
+  {
+   "month": "2025-03",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 19
+  },
+  {
+   "month": "2025-03",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 21
+  },
+  {
+   "month": "2025-03",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 23
+  },
+  {
+   "month": "2025-03",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 17
+  },
+  {
+   "month": "2025-03",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 12
+  },
+  {
+   "month": "2025-03",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 10
+  },
+  {
+   "month": "2025-03",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 4
+  },
+  {
+   "month": "2025-03",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 3
+  },
+  {
+   "month": "2025-03",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 8
+  },
+  {
+   "month": "2025-03",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 10
+  },
+  {
+   "month": "2025-03",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 8
+  },
+  {
+   "month": "2025-03",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 2
+  },
+  {
+   "month": "2025-03",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 7
+  },
+  {
+   "month": "2025-03",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 2
+  },
+  {
+   "month": "2025-03",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 2
+  },
+  {
+   "month": "2025-04",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 3
+  },
+  {
+   "month": "2025-04",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 8
+  },
+  {
+   "month": "2025-04",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 3
+  },
+  {
+   "month": "2025-04",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 8
+  },
+  {
+   "month": "2025-04",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 6
+  },
+  {
+   "month": "2025-04",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 4
+  },
+  {
+   "month": "2025-04",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 24
+  },
+  {
+   "month": "2025-04",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 19
+  },
+  {
+   "month": "2025-04",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 20
+  },
+  {
+   "month": "2025-04",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 4
+  },
+  {
+   "month": "2025-04",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 11
+  },
+  {
+   "month": "2025-04",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 10
+  },
+  {
+   "month": "2025-04",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 4
+  },
+  {
+   "month": "2025-04",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 9
+  },
+  {
+   "month": "2025-04",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 6
+  },
+  {
+   "month": "2025-04",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 3
+  },
+  {
+   "month": "2025-04",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 3
+  },
+  {
+   "month": "2025-04",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 7
+  },
+  {
+   "month": "2025-04",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 6
+  },
+  {
+   "month": "2025-04",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 6
+  },
+  {
+   "month": "2025-04",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 1
+  },
+  {
+   "month": "2025-05",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 8
+  },
+  {
+   "month": "2025-05",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 5
+  },
+  {
+   "month": "2025-05",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 3
+  },
+  {
+   "month": "2025-05",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 2
+  },
+  {
+   "month": "2025-05",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 12
+  },
+  {
+   "month": "2025-05",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 2
+  },
+  {
+   "month": "2025-05",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 16
+  },
+  {
+   "month": "2025-05",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 22
+  },
+  {
+   "month": "2025-05",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 19
+  },
+  {
+   "month": "2025-05",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 6
+  },
+  {
+   "month": "2025-05",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 9
+  },
+  {
+   "month": "2025-05",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 12
+  },
+  {
+   "month": "2025-05",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 4
+  },
+  {
+   "month": "2025-05",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 1
+  },
+  {
+   "month": "2025-05",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 5
+  },
+  {
+   "month": "2025-05",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 4
+  },
+  {
+   "month": "2025-05",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 5
+  },
+  {
+   "month": "2025-05",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 8
+  },
+  {
+   "month": "2025-05",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 4
+  },
+  {
+   "month": "2025-05",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 3
+  },
+  {
+   "month": "2025-05",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 2
+  },
+  {
+   "month": "2025-06",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 3
+  },
+  {
+   "month": "2025-06",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 2
+  },
+  {
+   "month": "2025-06",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 8
+  },
+  {
+   "month": "2025-06",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 10
+  },
+  {
+   "month": "2025-06",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 8
+  },
+  {
+   "month": "2025-06",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 8
+  },
+  {
+   "month": "2025-06",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 23
+  },
+  {
+   "month": "2025-06",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 18
+  },
+  {
+   "month": "2025-06",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 13
+  },
+  {
+   "month": "2025-06",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 8
+  },
+  {
+   "month": "2025-06",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 13
+  },
+  {
+   "month": "2025-06",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 9
+  },
+  {
+   "month": "2025-06",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 4
+  },
+  {
+   "month": "2025-06",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 6
+  },
+  {
+   "month": "2025-06",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 3
+  },
+  {
+   "month": "2025-06",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 11
+  },
+  {
+   "month": "2025-06",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 3
+  },
+  {
+   "month": "2025-06",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 3
+  },
+  {
+   "month": "2025-06",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 6
+  },
+  {
+   "month": "2025-06",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 3
+  },
+  {
+   "month": "2025-06",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 5
+  },
+  {
+   "month": "2025-07",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 7
+  },
+  {
+   "month": "2025-07",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 2
+  },
+  {
+   "month": "2025-07",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 4
+  },
+  {
+   "month": "2025-07",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 4
+  },
+  {
+   "month": "2025-07",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 5
+  },
+  {
+   "month": "2025-07",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 3
+  },
+  {
+   "month": "2025-07",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 21
+  },
+  {
+   "month": "2025-07",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 15
+  },
+  {
+   "month": "2025-07",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 27
+  },
+  {
+   "month": "2025-07",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 9
+  },
+  {
+   "month": "2025-07",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 9
+  },
+  {
+   "month": "2025-07",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 14
+  },
+  {
+   "month": "2025-07",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 3
+  },
+  {
+   "month": "2025-07",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 6
+  },
+  {
+   "month": "2025-07",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 7
+  },
+  {
+   "month": "2025-07",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 10
+  },
+  {
+   "month": "2025-07",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 3
+  },
+  {
+   "month": "2025-07",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 3
+  },
+  {
+   "month": "2025-07",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 3
+  },
+  {
+   "month": "2025-07",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 5
+  },
+  {
+   "month": "2025-07",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 4
+  },
+  {
+   "month": "2025-08",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 8
+  },
+  {
+   "month": "2025-08",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 5
+  },
+  {
+   "month": "2025-08",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 6
+  },
+  {
+   "month": "2025-08",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 7
+  },
+  {
+   "month": "2025-08",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 9
+  },
+  {
+   "month": "2025-08",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 3
+  },
+  {
+   "month": "2025-08",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 15
+  },
+  {
+   "month": "2025-08",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 21
+  },
+  {
+   "month": "2025-08",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 18
+  },
+  {
+   "month": "2025-08",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 8
+  },
+  {
+   "month": "2025-08",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 6
+  },
+  {
+   "month": "2025-08",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 12
+  },
+  {
+   "month": "2025-08",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 6
+  },
+  {
+   "month": "2025-08",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 2
+  },
+  {
+   "month": "2025-08",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 3
+  },
+  {
+   "month": "2025-08",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 12
+  },
+  {
+   "month": "2025-08",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 11
+  },
+  {
+   "month": "2025-08",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 2
+  },
+  {
+   "month": "2025-08",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 8
+  },
+  {
+   "month": "2025-08",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 3
+  },
+  {
+   "month": "2025-08",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 3
+  },
+  {
+   "month": "2025-09",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 3
+  },
+  {
+   "month": "2025-09",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 9
+  },
+  {
+   "month": "2025-09",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 4
+  },
+  {
+   "month": "2025-09",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 5
+  },
+  {
+   "month": "2025-09",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 10
+  },
+  {
+   "month": "2025-09",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 7
+  },
+  {
+   "month": "2025-09",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 18
+  },
+  {
+   "month": "2025-09",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 28
+  },
+  {
+   "month": "2025-09",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 20
+  },
+  {
+   "month": "2025-09",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 9
+  },
+  {
+   "month": "2025-09",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 5
+  },
+  {
+   "month": "2025-09",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 11
+  },
+  {
+   "month": "2025-09",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 2
+  },
+  {
+   "month": "2025-09",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 3
+  },
+  {
+   "month": "2025-09",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 2
+  },
+  {
+   "month": "2025-09",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 8
+  },
+  {
+   "month": "2025-09",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 4
+  },
+  {
+   "month": "2025-09",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 4
+  },
+  {
+   "month": "2025-09",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 6
+  },
+  {
+   "month": "2025-09",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 6
+  },
+  {
+   "month": "2025-09",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 5
+  },
+  {
+   "month": "2025-10",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 6
+  },
+  {
+   "month": "2025-10",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 7
+  },
+  {
+   "month": "2025-10",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 5
+  },
+  {
+   "month": "2025-10",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 7
+  },
+  {
+   "month": "2025-10",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 4
+  },
+  {
+   "month": "2025-10",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 7
+  },
+  {
+   "month": "2025-10",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 21
+  },
+  {
+   "month": "2025-10",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 20
+  },
+  {
+   "month": "2025-10",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 23
+  },
+  {
+   "month": "2025-10",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 6
+  },
+  {
+   "month": "2025-10",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 15
+  },
+  {
+   "month": "2025-10",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 4
+  },
+  {
+   "month": "2025-10",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 6
+  },
+  {
+   "month": "2025-10",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 3
+  },
+  {
+   "month": "2025-10",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 6
+  },
+  {
+   "month": "2025-10",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 3
+  },
+  {
+   "month": "2025-10",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 6
+  },
+  {
+   "month": "2025-10",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 7
+  },
+  {
+   "month": "2025-10",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 3
+  },
+  {
+   "month": "2025-10",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 4
+  },
+  {
+   "month": "2025-10",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 5
+  },
+  {
+   "month": "2025-11",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 4
+  },
+  {
+   "month": "2025-11",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 5
+  },
+  {
+   "month": "2025-11",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 2
+  },
+  {
+   "month": "2025-11",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 5
+  },
+  {
+   "month": "2025-11",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 4
+  },
+  {
+   "month": "2025-11",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 3
+  },
+  {
+   "month": "2025-11",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 14
+  },
+  {
+   "month": "2025-11",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 18
+  },
+  {
+   "month": "2025-11",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 16
+  },
+  {
+   "month": "2025-11",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 6
+  },
+  {
+   "month": "2025-11",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 8
+  },
+  {
+   "month": "2025-11",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 9
+  },
+  {
+   "month": "2025-11",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 3
+  },
+  {
+   "month": "2025-11",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 4
+  },
+  {
+   "month": "2025-11",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 4
+  },
+  {
+   "month": "2025-11",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 4
+  },
+  {
+   "month": "2025-11",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 6
+  },
+  {
+   "month": "2025-11",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 5
+  },
+  {
+   "month": "2025-11",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 3
+  },
+  {
+   "month": "2025-11",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 3
+  },
+  {
+   "month": "2025-11",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 5
+  },
+  {
+   "month": "2025-12",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 4
+  },
+  {
+   "month": "2025-12",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 5
+  },
+  {
+   "month": "2025-12",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 5
+  },
+  {
+   "month": "2025-12",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 9
+  },
+  {
+   "month": "2025-12",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 6
+  },
+  {
+   "month": "2025-12",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 6
+  },
+  {
+   "month": "2025-12",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 23
+  },
+  {
+   "month": "2025-12",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 22
+  },
+  {
+   "month": "2025-12",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 23
+  },
+  {
+   "month": "2025-12",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 11
+  },
+  {
+   "month": "2025-12",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 11
+  },
+  {
+   "month": "2025-12",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 7
+  },
+  {
+   "month": "2025-12",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 3
+  },
+  {
+   "month": "2025-12",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 8
+  },
+  {
+   "month": "2025-12",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 8
+  },
+  {
+   "month": "2025-12",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 1
+  },
+  {
+   "month": "2025-12",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 4
+  },
+  {
+   "month": "2025-12",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 6
+  },
+  {
+   "month": "2025-12",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 10
+  },
+  {
+   "month": "2025-12",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 4
+  },
+  {
+   "month": "2025-12",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 2
+  },
+  {
+   "month": "2026-01",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 2
+  },
+  {
+   "month": "2026-01",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 7
+  },
+  {
+   "month": "2026-01",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 5
+  },
+  {
+   "month": "2026-01",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 4
+  },
+  {
+   "month": "2026-01",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 3
+  },
+  {
+   "month": "2026-01",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 5
+  },
+  {
+   "month": "2026-01",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 25
+  },
+  {
+   "month": "2026-01",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 26
+  },
+  {
+   "month": "2026-01",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 20
+  },
+  {
+   "month": "2026-01",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 16
+  },
+  {
+   "month": "2026-01",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 8
+  },
+  {
+   "month": "2026-01",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 10
+  },
+  {
+   "month": "2026-01",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 5
+  },
+  {
+   "month": "2026-01",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 8
+  },
+  {
+   "month": "2026-01",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 4
+  },
+  {
+   "month": "2026-01",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 3
+  },
+  {
+   "month": "2026-01",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 7
+  },
+  {
+   "month": "2026-01",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 3
+  },
+  {
+   "month": "2026-01",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 8
+  },
+  {
+   "month": "2026-01",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 2
+  },
+  {
+   "month": "2026-02",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 6
+  },
+  {
+   "month": "2026-02",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 11
+  },
+  {
+   "month": "2026-02",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 5
+  },
+  {
+   "month": "2026-02",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 5
+  },
+  {
+   "month": "2026-02",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 5
+  },
+  {
+   "month": "2026-02",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 5
+  },
+  {
+   "month": "2026-02",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 15
+  },
+  {
+   "month": "2026-02",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 24
+  },
+  {
+   "month": "2026-02",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 25
+  },
+  {
+   "month": "2026-02",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 5
+  },
+  {
+   "month": "2026-02",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 15
+  },
+  {
+   "month": "2026-02",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 9
+  },
+  {
+   "month": "2026-02",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 4
+  },
+  {
+   "month": "2026-02",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 5
+  },
+  {
+   "month": "2026-02",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 5
+  },
+  {
+   "month": "2026-02",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 6
+  },
+  {
+   "month": "2026-02",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 4
+  },
+  {
+   "month": "2026-02",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 6
+  },
+  {
+   "month": "2026-02",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 7
+  },
+  {
+   "month": "2026-02",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 3
+  },
+  {
+   "month": "2026-02",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 5
+  },
+  {
+   "month": "2026-03",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 7
+  },
+  {
+   "month": "2026-03",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 2
+  },
+  {
+   "month": "2026-03",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 5
+  },
+  {
+   "month": "2026-03",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 2
+  },
+  {
+   "month": "2026-03",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 9
+  },
+  {
+   "month": "2026-03",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 6
+  },
+  {
+   "month": "2026-03",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 19
+  },
+  {
+   "month": "2026-03",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 17
+  },
+  {
+   "month": "2026-03",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 15
+  },
+  {
+   "month": "2026-03",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 13
+  },
+  {
+   "month": "2026-03",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 10
+  },
+  {
+   "month": "2026-03",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 6
+  },
+  {
+   "month": "2026-03",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 3
+  },
+  {
+   "month": "2026-03",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 5
+  },
+  {
+   "month": "2026-03",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 5
+  },
+  {
+   "month": "2026-03",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 3
+  },
+  {
+   "month": "2026-03",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 6
+  },
+  {
+   "month": "2026-03",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 5
+  },
+  {
+   "month": "2026-03",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 2
+  },
+  {
+   "month": "2026-03",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 3
+  },
+  {
+   "month": "2026-03",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 8
+  },
+  {
+   "month": "2026-04",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 3
+  },
+  {
+   "month": "2026-04",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 4
+  },
+  {
+   "month": "2026-04",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 4
+  },
+  {
+   "month": "2026-04",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 3
+  },
+  {
+   "month": "2026-04",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 10
+  },
+  {
+   "month": "2026-04",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 3
+  },
+  {
+   "month": "2026-04",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 26
+  },
+  {
+   "month": "2026-04",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 18
+  },
+  {
+   "month": "2026-04",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 19
+  },
+  {
+   "month": "2026-04",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 5
+  },
+  {
+   "month": "2026-04",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 7
+  },
+  {
+   "month": "2026-04",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 6
+  },
+  {
+   "month": "2026-04",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 15
+  },
+  {
+   "month": "2026-04",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 4
+  },
+  {
+   "month": "2026-04",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 7
+  },
+  {
+   "month": "2026-04",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 6
+  },
+  {
+   "month": "2026-04",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 2
+  },
+  {
+   "month": "2026-04",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 4
+  },
+  {
+   "month": "2026-04",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 6
+  },
+  {
+   "month": "2026-04",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 4
+  },
+  {
+   "month": "2026-05",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 6
+  },
+  {
+   "month": "2026-05",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 5
+  },
+  {
+   "month": "2026-05",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 6
+  },
+  {
+   "month": "2026-05",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 11
+  },
+  {
+   "month": "2026-05",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 4
+  },
+  {
+   "month": "2026-05",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 5
+  },
+  {
+   "month": "2026-05",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 8
+  },
+  {
+   "month": "2026-05",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 24
+  },
+  {
+   "month": "2026-05",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 21
+  },
+  {
+   "month": "2026-05",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 5
+  },
+  {
+   "month": "2026-05",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 8
+  },
+  {
+   "month": "2026-05",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 11
+  },
+  {
+   "month": "2026-05",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 13
+  },
+  {
+   "month": "2026-05",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 2
+  },
+  {
+   "month": "2026-05",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 7
+  },
+  {
+   "month": "2026-05",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 6
+  },
+  {
+   "month": "2026-05",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 6
+  },
+  {
+   "month": "2026-05",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 5
+  },
+  {
+   "month": "2026-05",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 6
+  },
+  {
+   "month": "2026-05",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 7
+  },
+  {
+   "month": "2026-05",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 6
+  },
+  {
+   "month": "2026-06",
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "count": 4
+  },
+  {
+   "month": "2026-06",
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "count": 6
+  },
+  {
+   "month": "2026-06",
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "count": 6
+  },
+  {
+   "month": "2026-06",
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "count": 5
+  },
+  {
+   "month": "2026-06",
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "count": 7
+  },
+  {
+   "month": "2026-06",
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "count": 4
+  },
+  {
+   "month": "2026-06",
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "count": 18
+  },
+  {
+   "month": "2026-06",
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "count": 14
+  },
+  {
+   "month": "2026-06",
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "count": 19
+  },
+  {
+   "month": "2026-06",
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "count": 8
+  },
+  {
+   "month": "2026-06",
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "count": 8
+  },
+  {
+   "month": "2026-06",
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "count": 10
+  },
+  {
+   "month": "2026-06",
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "count": 18
+  },
+  {
+   "month": "2026-06",
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "count": 6
+  },
+  {
+   "month": "2026-06",
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "count": 4
+  },
+  {
+   "month": "2026-06",
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "count": 4
+  },
+  {
+   "month": "2026-06",
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "count": 5
+  },
+  {
+   "month": "2026-06",
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "count": 6
+  },
+  {
+   "month": "2026-06",
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "count": 5
+  },
+  {
+   "month": "2026-06",
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "count": 4
+  },
+  {
+   "month": "2026-06",
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "count": 7
+  }
+ ],
+ "themes": [
+  {
+   "product": "Money transfer",
+   "issue": "Fraud or scam",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 15.333,
+   "baseline_mean_per_month": 3.917,
+   "recent_total": 46,
+   "ratio": 3.915,
+   "flag": true
+  },
+  {
+   "product": "Vehicle loan or lease",
+   "issue": "Managing the loan or lease",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 5.667,
+   "baseline_mean_per_month": 3.583,
+   "recent_total": 17,
+   "ratio": 1.581,
+   "flag": false
+  },
+  {
+   "product": "Vehicle loan or lease",
+   "issue": "Problems at the end of the loan or lease",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 5.667,
+   "baseline_mean_per_month": 3.917,
+   "recent_total": 17,
+   "ratio": 1.447,
+   "flag": false
+  },
+  {
+   "product": "Checking or savings account",
+   "issue": "Problem with a company charging your account",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 5.333,
+   "baseline_mean_per_month": 4.583,
+   "recent_total": 16,
+   "ratio": 1.164,
+   "flag": false
+  },
+  {
+   "product": "Credit card",
+   "issue": "Closing your account",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 6.333,
+   "baseline_mean_per_month": 5.667,
+   "recent_total": 19,
+   "ratio": 1.118,
+   "flag": false
+  },
+  {
+   "product": "Mortgage",
+   "issue": "Trouble during payment process",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 5.667,
+   "baseline_mean_per_month": 5.167,
+   "recent_total": 17,
+   "ratio": 1.097,
+   "flag": false
+  },
+  {
+   "product": "Credit card",
+   "issue": "Fees or interest",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 7.0,
+   "baseline_mean_per_month": 6.75,
+   "recent_total": 21,
+   "ratio": 1.037,
+   "flag": false
+  },
+  {
+   "product": "Mortgage",
+   "issue": "Applying for a mortgage or refinancing",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 5.0,
+   "baseline_mean_per_month": 4.833,
+   "recent_total": 15,
+   "ratio": 1.034,
+   "flag": false
+  },
+  {
+   "product": "Mortgage",
+   "issue": "Struggling to pay mortgage",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 5.667,
+   "baseline_mean_per_month": 5.667,
+   "recent_total": 17,
+   "ratio": 1.0,
+   "flag": false
+  },
+  {
+   "product": "Credit reporting",
+   "issue": "Problem with a company's investigation into an existing problem",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 19.667,
+   "baseline_mean_per_month": 19.917,
+   "recent_total": 59,
+   "ratio": 0.987,
+   "flag": false
+  },
+  {
+   "product": "Debt collection",
+   "issue": "Written notification about debt",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 9.0,
+   "baseline_mean_per_month": 9.417,
+   "recent_total": 27,
+   "ratio": 0.956,
+   "flag": false
+  },
+  {
+   "product": "Student loan",
+   "issue": "Struggling to repay your loan",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 5.0,
+   "baseline_mean_per_month": 5.5,
+   "recent_total": 15,
+   "ratio": 0.909,
+   "flag": false
+  },
+  {
+   "product": "Credit reporting",
+   "issue": "Incorrect information on your report",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 18.667,
+   "baseline_mean_per_month": 20.833,
+   "recent_total": 56,
+   "ratio": 0.896,
+   "flag": false
+  },
+  {
+   "product": "Credit reporting",
+   "issue": "Improper use of your report",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 17.333,
+   "baseline_mean_per_month": 19.5,
+   "recent_total": 52,
+   "ratio": 0.889,
+   "flag": false
+  },
+  {
+   "product": "Checking or savings account",
+   "issue": "Managing an account",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 5.0,
+   "baseline_mean_per_month": 5.667,
+   "recent_total": 15,
+   "ratio": 0.882,
+   "flag": false
+  },
+  {
+   "product": "Student loan",
+   "issue": "Dealing with your lender or servicer",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 4.333,
+   "baseline_mean_per_month": 4.917,
+   "recent_total": 13,
+   "ratio": 0.881,
+   "flag": false
+  },
+  {
+   "product": "Checking or savings account",
+   "issue": "Closing an account",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 4.333,
+   "baseline_mean_per_month": 5.083,
+   "recent_total": 13,
+   "ratio": 0.852,
+   "flag": false
+  },
+  {
+   "product": "Credit card",
+   "issue": "Problem with a purchase shown on your statement",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 4.0,
+   "baseline_mean_per_month": 4.917,
+   "recent_total": 12,
+   "ratio": 0.814,
+   "flag": false
+  },
+  {
+   "product": "Debt collection",
+   "issue": "Communication tactics",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 7.667,
+   "baseline_mean_per_month": 10.0,
+   "recent_total": 23,
+   "ratio": 0.767,
+   "flag": false
+  },
+  {
+   "product": "Debt collection",
+   "issue": "Attempts to collect debt not owed",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 6.0,
+   "baseline_mean_per_month": 8.417,
+   "recent_total": 18,
+   "ratio": 0.713,
+   "flag": false
+  },
+  {
+   "product": "Money transfer",
+   "issue": "Money was not available when promised",
+   "recent_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "recent_mean_per_month": 2.667,
+   "baseline_mean_per_month": 5.0,
+   "recent_total": 8,
+   "ratio": 0.533,
+   "flag": false
+  }
+ ]
+}

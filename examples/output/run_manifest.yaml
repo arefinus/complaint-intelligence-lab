@@ -1,0 +1,27 @@
+schema_version: 1
+project_id: complaint-intelligence-lab
+run_id: 20260928T102315Z-demo
+status: completed
+mode: demo
+evidence_status: demo
+git_commit: null
+data:
+  source_id: synthetic-fixture-v1
+  version: v1
+  split_manifest_hash: d8849dd2870887f98555b1ac7ce0d600574f6c7656b5be32e9919c0a768545aa
+  sample_counts:
+    train: 2726
+    valid: 653
+    test: 621
+configuration_hash: 03367a36afd38681e81fb8871a2cd2f96ad0adde82b3bd9da6e5b3ebdd1b16fc
+seed: 42
+environment:
+  python: 3.10.11
+  device: cpu
+metrics_file: metrics.json
+predictions_file: predictions_test.csv
+started_at: '2026-09-28T10:23:03.815557+00:00'
+finished_at: '2026-09-28T10:23:15.001927+00:00'
+extra:
+  fixture_sha256: ef735af02d83646725465defed77a7f0d63124d611e2783b97ff55b9d46662fb
+  threshold: 0.3

@@ -1,0 +1,654 @@
+complaint_id,date_received,true_label,predicted_label,confidence,route,split
+SYN-CMP-002401,2025-09-09,Credit reporting,Credit reporting,0.956491,auto,valid
+SYN-CMP-002402,2025-09-09,Debt collection,Debt collection,0.803619,auto,valid
+SYN-CMP-002403,2025-09-09,Vehicle loan or lease,Vehicle loan or lease,0.631049,auto,valid
+SYN-CMP-002404,2025-09-09,Student loan,Student loan,0.778762,auto,valid
+SYN-CMP-002405,2025-09-09,Credit reporting,Credit reporting,0.967479,auto,valid
+SYN-CMP-002406,2025-09-09,Credit card,Credit card,0.994541,auto,valid
+SYN-CMP-002407,2025-09-09,Debt collection,Debt collection,0.980483,auto,valid
+SYN-CMP-002409,2025-09-09,Credit reporting,Credit reporting,0.98666,auto,valid
+SYN-CMP-002410,2025-09-09,Credit reporting,Credit reporting,0.991941,auto,valid
+SYN-CMP-002411,2025-09-10,Vehicle loan or lease,Vehicle loan or lease,0.84114,auto,valid
+SYN-CMP-002412,2025-09-10,Credit reporting,Credit reporting,0.936286,auto,valid
+SYN-CMP-002413,2025-09-10,Credit reporting,Credit reporting,0.971197,auto,valid
+SYN-CMP-002414,2025-09-10,Checking or savings account,Checking or savings account,0.977393,auto,valid
+SYN-CMP-002416,2025-09-10,Debt collection,Debt collection,0.974508,auto,valid
+SYN-CMP-002417,2025-09-10,Credit reporting,Credit reporting,0.888269,auto,valid
+SYN-CMP-002418,2025-09-10,Debt collection,Debt collection,0.997473,auto,valid
+SYN-CMP-002419,2025-09-11,Mortgage,Mortgage,0.973933,auto,valid
+SYN-CMP-002420,2025-09-11,Credit reporting,Credit reporting,0.720162,auto,valid
+SYN-CMP-002425,2025-09-11,Student loan,Student loan,0.951205,auto,valid
+SYN-CMP-002426,2025-09-11,Debt collection,Debt collection,0.838722,auto,valid
+SYN-CMP-002428,2025-09-12,Money transfer,Money transfer,0.972784,auto,valid
+SYN-CMP-002429,2025-09-13,Credit card,Credit card,0.433022,auto,valid
+SYN-CMP-002430,2025-09-13,Credit card,Credit card,0.757049,auto,valid
+SYN-CMP-002433,2025-09-13,Debt collection,Debt collection,0.874611,auto,valid
+SYN-CMP-002434,2025-09-13,Money transfer,Money transfer,0.763904,auto,valid
+SYN-CMP-002435,2025-09-13,Debt collection,Debt collection,0.98787,auto,valid
+SYN-CMP-002437,2025-09-14,Mortgage,Mortgage,0.980387,auto,valid
+SYN-CMP-002438,2025-09-14,Credit card,Credit card,0.527379,auto,valid
+SYN-CMP-002439,2025-09-14,Credit reporting,Credit reporting,0.967873,auto,valid
+SYN-CMP-002441,2025-09-14,Student loan,Student loan,0.973972,auto,valid
+SYN-CMP-002442,2025-09-14,Debt collection,Debt collection,0.891983,auto,valid
+SYN-CMP-002446,2025-09-15,Credit reporting,Mortgage,0.181732,human_review,valid
+SYN-CMP-002447,2025-09-15,Debt collection,Debt collection,0.937781,auto,valid
+SYN-CMP-002448,2025-09-15,Credit card,Credit card,0.943885,auto,valid
+SYN-CMP-002450,2025-09-15,Vehicle loan or lease,Vehicle loan or lease,0.93028,auto,valid
+SYN-CMP-002451,2025-09-16,Student loan,Student loan,0.883195,auto,valid
+SYN-CMP-002453,2025-09-16,Credit reporting,Debt collection,0.309928,auto,valid
+SYN-CMP-002455,2025-09-16,Credit reporting,Money transfer,0.242789,human_review,valid
+SYN-CMP-002459,2025-09-17,Vehicle loan or lease,Vehicle loan or lease,0.980991,auto,valid
+SYN-CMP-002462,2025-09-17,Debt collection,Debt collection,0.97831,auto,valid
+SYN-CMP-002463,2025-09-18,Credit reporting,Money transfer,0.241475,human_review,valid
+SYN-CMP-002464,2025-09-18,Credit reporting,Credit reporting,0.995239,auto,valid
+SYN-CMP-002465,2025-09-18,Credit reporting,Credit reporting,0.966526,auto,valid
+SYN-CMP-002466,2025-09-18,Checking or savings account,Checking or savings account,0.881408,auto,valid
+SYN-CMP-002467,2025-09-18,Debt collection,Debt collection,0.987159,auto,valid
+SYN-CMP-002468,2025-09-18,Checking or savings account,Checking or savings account,0.636302,auto,valid
+SYN-CMP-002470,2025-09-19,Credit reporting,Credit reporting,0.94514,auto,valid
+SYN-CMP-002472,2025-09-19,Student loan,Student loan,0.789754,auto,valid
+SYN-CMP-002474,2025-09-20,Credit reporting,Credit reporting,0.958724,auto,valid
+SYN-CMP-002476,2025-09-20,Mortgage,Mortgage,0.984977,auto,valid
+SYN-CMP-002477,2025-09-20,Vehicle loan or lease,Vehicle loan or lease,0.996295,auto,valid
+SYN-CMP-002478,2025-09-20,Credit reporting,Credit reporting,0.926665,auto,valid
+SYN-CMP-002479,2025-09-20,Credit reporting,Credit reporting,0.963142,auto,valid
+SYN-CMP-002480,2025-09-20,Vehicle loan or lease,Vehicle loan or lease,0.977728,auto,valid
+SYN-CMP-002481,2025-09-20,Credit reporting,Credit reporting,0.94479,auto,valid
+SYN-CMP-002482,2025-09-20,Debt collection,Debt collection,0.989206,auto,valid
+SYN-CMP-002483,2025-09-20,Credit card,Credit card,0.990897,auto,valid
+SYN-CMP-002484,2025-09-20,Credit card,Credit card,0.982478,auto,valid
+SYN-CMP-002485,2025-09-21,Checking or savings account,Checking or savings account,0.912049,auto,valid
+SYN-CMP-002486,2025-09-21,Checking or savings account,Checking or savings account,0.982943,auto,valid
+SYN-CMP-002487,2025-09-21,Credit reporting,Credit reporting,0.972273,auto,valid
+SYN-CMP-002488,2025-09-21,Mortgage,Mortgage,0.989357,auto,valid
+SYN-CMP-002489,2025-09-21,Checking or savings account,Checking or savings account,0.985122,auto,valid
+SYN-CMP-002490,2025-09-21,Mortgage,Mortgage,0.991725,auto,valid
+SYN-CMP-002491,2025-09-21,Credit reporting,Credit reporting,0.983804,auto,valid
+SYN-CMP-002492,2025-09-22,Credit card,Credit card,0.62373,auto,valid
+SYN-CMP-002493,2025-09-22,Vehicle loan or lease,Vehicle loan or lease,0.750769,auto,valid
+SYN-CMP-002494,2025-09-22,Credit reporting,Credit reporting,0.684777,auto,valid
+SYN-CMP-002495,2025-09-22,Credit reporting,Credit reporting,0.984279,auto,valid
+SYN-CMP-002497,2025-09-22,Credit reporting,Credit reporting,0.979196,auto,valid
+SYN-CMP-002499,2025-09-24,Checking or savings account,Checking or savings account,0.893982,auto,valid
+SYN-CMP-002500,2025-09-24,Debt collection,Debt collection,0.985628,auto,valid
+SYN-CMP-002502,2025-09-25,Credit reporting,Credit reporting,0.919601,auto,valid
+SYN-CMP-002508,2025-09-26,Credit card,Credit card,0.983589,auto,valid
+SYN-CMP-002509,2025-09-26,Credit card,Credit card,0.835452,auto,valid
+SYN-CMP-002511,2025-09-26,Money transfer,Money transfer,0.963646,auto,valid
+SYN-CMP-002512,2025-09-27,Credit reporting,Credit reporting,0.990458,auto,valid
+SYN-CMP-002514,2025-09-27,Checking or savings account,Checking or savings account,0.985344,auto,valid
+SYN-CMP-002515,2025-09-27,Student loan,Student loan,0.839251,auto,valid
+SYN-CMP-002517,2025-09-28,Credit reporting,Credit reporting,0.81371,auto,valid
+SYN-CMP-002519,2025-09-29,Credit reporting,Credit reporting,0.994908,auto,valid
+SYN-CMP-002521,2025-09-29,Debt collection,Debt collection,0.995235,auto,valid
+SYN-CMP-002522,2025-09-29,Credit card,Credit card,0.925619,auto,valid
+SYN-CMP-002524,2025-09-29,Credit reporting,Credit reporting,0.974549,auto,valid
+SYN-CMP-002525,2025-09-30,Credit card,Money transfer,0.242086,human_review,valid
+SYN-CMP-002526,2025-09-30,Debt collection,Debt collection,0.948264,auto,valid
+SYN-CMP-002527,2025-09-30,Mortgage,Mortgage,0.978992,auto,valid
+SYN-CMP-002528,2025-09-30,Student loan,Student loan,0.951875,auto,valid
+SYN-CMP-002529,2025-09-30,Mortgage,Mortgage,0.983764,auto,valid
+SYN-CMP-002530,2025-09-30,Debt collection,Debt collection,0.950153,auto,valid
+SYN-CMP-002531,2025-10-01,Credit card,Credit card,0.979624,auto,valid
+SYN-CMP-002532,2025-10-01,Credit reporting,Credit reporting,0.952467,auto,valid
+SYN-CMP-002533,2025-10-01,Credit reporting,Credit reporting,0.836324,auto,valid
+SYN-CMP-002534,2025-10-01,Debt collection,Debt collection,0.828427,auto,valid
+SYN-CMP-002535,2025-10-01,Money transfer,Money transfer,0.939649,auto,valid
+SYN-CMP-002536,2025-10-01,Credit reporting,Credit reporting,0.992799,auto,valid
+SYN-CMP-002537,2025-10-01,Credit reporting,Credit reporting,0.725493,auto,valid
+SYN-CMP-002538,2025-10-01,Credit reporting,Credit reporting,0.992175,auto,valid
+SYN-CMP-002539,2025-10-01,Checking or savings account,Checking or savings account,0.956123,auto,valid
+SYN-CMP-002540,2025-10-01,Credit reporting,Credit reporting,0.974028,auto,valid
+SYN-CMP-002541,2025-10-01,Credit card,Credit card,0.934146,auto,valid
+SYN-CMP-002542,2025-10-02,Credit reporting,Credit reporting,0.99049,auto,valid
+SYN-CMP-002543,2025-10-02,Money transfer,Money transfer,0.875634,auto,valid
+SYN-CMP-002546,2025-10-02,Money transfer,Money transfer,0.99293,auto,valid
+SYN-CMP-002548,2025-10-03,Credit reporting,Credit reporting,0.957027,auto,valid
+SYN-CMP-002549,2025-10-03,Credit reporting,Credit reporting,0.461166,auto,valid
+SYN-CMP-002553,2025-10-03,Mortgage,Mortgage,0.99556,auto,valid
+SYN-CMP-002554,2025-10-03,Mortgage,Mortgage,0.977331,auto,valid
+SYN-CMP-002556,2025-10-04,Vehicle loan or lease,Vehicle loan or lease,0.998071,auto,valid
+SYN-CMP-002557,2025-10-04,Credit card,Credit card,0.952025,auto,valid
+SYN-CMP-002558,2025-10-04,Debt collection,Debt collection,0.84202,auto,valid
+SYN-CMP-002562,2025-10-05,Mortgage,Mortgage,0.991425,auto,valid
+SYN-CMP-002563,2025-10-05,Credit reporting,Credit reporting,0.833844,auto,valid
+SYN-CMP-002564,2025-10-05,Student loan,Student loan,0.909394,auto,valid
+SYN-CMP-002565,2025-10-05,Checking or savings account,Checking or savings account,0.661844,auto,valid
+SYN-CMP-002567,2025-10-05,Credit reporting,Credit reporting,0.978599,auto,valid
+SYN-CMP-002568,2025-10-05,Debt collection,Debt collection,0.991235,auto,valid
+SYN-CMP-002569,2025-10-06,Vehicle loan or lease,Vehicle loan or lease,0.960398,auto,valid
+SYN-CMP-002570,2025-10-06,Credit reporting,Credit reporting,0.993757,auto,valid
+SYN-CMP-002571,2025-10-06,Checking or savings account,Checking or savings account,0.994893,auto,valid
+SYN-CMP-002572,2025-10-06,Mortgage,Mortgage,0.588052,auto,valid
+SYN-CMP-002573,2025-10-06,Credit reporting,Credit reporting,0.95823,auto,valid
+SYN-CMP-002574,2025-10-06,Credit reporting,Credit reporting,0.990745,auto,valid
+SYN-CMP-002575,2025-10-06,Checking or savings account,Checking or savings account,0.859325,auto,valid
+SYN-CMP-002576,2025-10-06,Debt collection,Debt collection,0.906714,auto,valid
+SYN-CMP-002577,2025-10-07,Credit reporting,Credit reporting,0.942318,auto,valid
+SYN-CMP-002579,2025-10-07,Debt collection,Debt collection,0.978779,auto,valid
+SYN-CMP-002580,2025-10-07,Student loan,Student loan,0.82745,auto,valid
+SYN-CMP-002581,2025-10-07,Checking or savings account,Checking or savings account,0.995672,auto,valid
+SYN-CMP-002582,2025-10-07,Checking or savings account,Checking or savings account,0.980303,auto,valid
+SYN-CMP-002583,2025-10-07,Student loan,Student loan,0.177958,human_review,valid
+SYN-CMP-002585,2025-10-08,Credit reporting,Credit reporting,0.850227,auto,valid
+SYN-CMP-002587,2025-10-08,Vehicle loan or lease,Vehicle loan or lease,0.93968,auto,valid
+SYN-CMP-002588,2025-10-08,Vehicle loan or lease,Vehicle loan or lease,0.472692,auto,valid
+SYN-CMP-002589,2025-10-09,Checking or savings account,Checking or savings account,0.698291,auto,valid
+SYN-CMP-002591,2025-10-09,Credit reporting,Credit reporting,0.954289,auto,valid
+SYN-CMP-002592,2025-10-09,Credit reporting,Credit reporting,0.790707,auto,valid
+SYN-CMP-002593,2025-10-09,Credit reporting,Credit reporting,0.975671,auto,valid
+SYN-CMP-002595,2025-10-10,Credit reporting,Credit reporting,0.985678,auto,valid
+SYN-CMP-002596,2025-10-10,Credit reporting,Credit reporting,0.982906,auto,valid
+SYN-CMP-002597,2025-10-10,Vehicle loan or lease,Vehicle loan or lease,0.94334,auto,valid
+SYN-CMP-002598,2025-10-10,Debt collection,Debt collection,0.981441,auto,valid
+SYN-CMP-002599,2025-10-11,Credit card,Credit card,0.262438,human_review,valid
+SYN-CMP-002600,2025-10-11,Credit card,Credit card,0.935912,auto,valid
+SYN-CMP-002601,2025-10-11,Credit reporting,Credit reporting,0.966013,auto,valid
+SYN-CMP-002602,2025-10-11,Credit card,Credit card,0.980137,auto,valid
+SYN-CMP-002604,2025-10-12,Checking or savings account,Checking or savings account,0.594953,auto,valid
+SYN-CMP-002605,2025-10-12,Credit card,Credit card,0.969923,auto,valid
+SYN-CMP-002606,2025-10-12,Vehicle loan or lease,Mortgage,0.183939,human_review,valid
+SYN-CMP-002607,2025-10-12,Credit card,Credit card,0.275583,human_review,valid
+SYN-CMP-002608,2025-10-12,Credit reporting,Credit reporting,0.972461,auto,valid
+SYN-CMP-002609,2025-10-12,Credit reporting,Credit reporting,0.983804,auto,valid
+SYN-CMP-002610,2025-10-12,Student loan,Student loan,0.996837,auto,valid
+SYN-CMP-002612,2025-10-13,Credit reporting,Credit reporting,0.952784,auto,valid
+SYN-CMP-002613,2025-10-13,Credit reporting,Credit reporting,0.990839,auto,valid
+SYN-CMP-002615,2025-10-14,Debt collection,Debt collection,0.958358,auto,valid
+SYN-CMP-002617,2025-10-15,Debt collection,Debt collection,0.988785,auto,valid
+SYN-CMP-002619,2025-10-15,Mortgage,Mortgage,0.234037,human_review,valid
+SYN-CMP-002620,2025-10-15,Credit card,Credit card,0.664661,auto,valid
+SYN-CMP-002621,2025-10-15,Credit card,Credit card,0.963189,auto,valid
+SYN-CMP-002622,2025-10-15,Credit reporting,Credit reporting,0.829664,auto,valid
+SYN-CMP-002623,2025-10-15,Vehicle loan or lease,Vehicle loan or lease,0.869863,auto,valid
+SYN-CMP-002624,2025-10-15,Credit reporting,Credit reporting,0.935126,auto,valid
+SYN-CMP-002625,2025-10-16,Checking or savings account,Vehicle loan or lease,0.166454,human_review,valid
+SYN-CMP-002626,2025-10-16,Credit reporting,Credit reporting,0.990943,auto,valid
+SYN-CMP-002628,2025-10-16,Debt collection,Debt collection,0.989431,auto,valid
+SYN-CMP-002629,2025-10-16,Credit reporting,Credit reporting,0.933466,auto,valid
+SYN-CMP-002631,2025-10-17,Student loan,Vehicle loan or lease,0.390836,auto,valid
+SYN-CMP-002632,2025-10-17,Credit card,Credit card,0.9832,auto,valid
+SYN-CMP-002633,2025-10-17,Credit reporting,Credit reporting,0.963275,auto,valid
+SYN-CMP-002635,2025-10-17,Mortgage,Mortgage,0.922605,auto,valid
+SYN-CMP-002638,2025-10-18,Vehicle loan or lease,Vehicle loan or lease,0.952875,auto,valid
+SYN-CMP-002639,2025-10-18,Credit reporting,Credit reporting,0.934512,auto,valid
+SYN-CMP-002640,2025-10-19,Student loan,Student loan,0.997444,auto,valid
+SYN-CMP-002641,2025-10-19,Credit reporting,Credit reporting,0.392672,auto,valid
+SYN-CMP-002642,2025-10-19,Mortgage,Mortgage,0.991013,auto,valid
+SYN-CMP-002643,2025-10-19,Credit reporting,Credit reporting,0.963912,auto,valid
+SYN-CMP-002644,2025-10-20,Debt collection,Debt collection,0.781348,auto,valid
+SYN-CMP-002645,2025-10-20,Credit reporting,Credit reporting,0.954969,auto,valid
+SYN-CMP-002646,2025-10-20,Credit reporting,Credit reporting,0.985588,auto,valid
+SYN-CMP-002647,2025-10-21,Credit reporting,Credit reporting,0.964314,auto,valid
+SYN-CMP-002650,2025-10-21,Credit card,Credit card,0.756515,auto,valid
+SYN-CMP-002651,2025-10-22,Debt collection,Debt collection,0.975489,auto,valid
+SYN-CMP-002652,2025-10-22,Checking or savings account,Checking or savings account,0.978518,auto,valid
+SYN-CMP-002653,2025-10-22,Credit reporting,Credit reporting,0.975837,auto,valid
+SYN-CMP-002654,2025-10-22,Mortgage,Mortgage,0.991845,auto,valid
+SYN-CMP-002655,2025-10-22,Credit reporting,Credit reporting,0.986824,auto,valid
+SYN-CMP-002656,2025-10-22,Money transfer,Money transfer,0.968296,auto,valid
+SYN-CMP-002657,2025-10-23,Credit reporting,Credit reporting,0.982877,auto,valid
+SYN-CMP-002658,2025-10-23,Debt collection,Debt collection,0.947399,auto,valid
+SYN-CMP-002661,2025-10-23,Debt collection,Mortgage,0.181592,human_review,valid
+SYN-CMP-002662,2025-10-24,Credit reporting,Credit reporting,0.729571,auto,valid
+SYN-CMP-002663,2025-10-24,Credit reporting,Credit reporting,0.886058,auto,valid
+SYN-CMP-002665,2025-10-24,Checking or savings account,Checking or savings account,0.929234,auto,valid
+SYN-CMP-002666,2025-10-24,Credit reporting,Credit reporting,0.991479,auto,valid
+SYN-CMP-002667,2025-10-24,Credit reporting,Credit reporting,0.972513,auto,valid
+SYN-CMP-002668,2025-10-24,Debt collection,Debt collection,0.98855,auto,valid
+SYN-CMP-002673,2025-10-25,Money transfer,Money transfer,0.835722,auto,valid
+SYN-CMP-002674,2025-10-25,Money transfer,Money transfer,0.380941,auto,valid
+SYN-CMP-002676,2025-10-26,Credit reporting,Credit reporting,0.990043,auto,valid
+SYN-CMP-002677,2025-10-26,Credit reporting,Credit reporting,0.927901,auto,valid
+SYN-CMP-002679,2025-10-27,Student loan,Checking or savings account,0.316739,auto,valid
+SYN-CMP-002682,2025-10-28,Credit reporting,Credit reporting,0.780708,auto,valid
+SYN-CMP-002684,2025-10-28,Mortgage,Mortgage,0.691808,auto,valid
+SYN-CMP-002685,2025-10-28,Credit card,Credit card,0.631222,auto,valid
+SYN-CMP-002686,2025-10-28,Credit reporting,Credit reporting,0.971655,auto,valid
+SYN-CMP-002687,2025-10-28,Credit reporting,Credit reporting,0.949551,auto,valid
+SYN-CMP-002688,2025-10-29,Credit card,Credit card,0.721134,auto,valid
+SYN-CMP-002689,2025-10-29,Mortgage,Mortgage,0.974568,auto,valid
+SYN-CMP-002693,2025-10-30,Student loan,Student loan,0.975865,auto,valid
+SYN-CMP-002694,2025-10-30,Debt collection,Debt collection,0.987092,auto,valid
+SYN-CMP-002695,2025-10-30,Mortgage,Vehicle loan or lease,0.27908,human_review,valid
+SYN-CMP-002696,2025-10-31,Mortgage,Mortgage,0.934267,auto,valid
+SYN-CMP-002698,2025-10-31,Money transfer,Money transfer,0.994684,auto,valid
+SYN-CMP-002700,2025-11-01,Credit reporting,Credit reporting,0.948259,auto,valid
+SYN-CMP-002701,2025-11-01,Debt collection,Mortgage,0.196583,human_review,valid
+SYN-CMP-002704,2025-11-01,Student loan,Student loan,0.844894,auto,valid
+SYN-CMP-002705,2025-11-01,Credit card,Credit card,0.801367,auto,valid
+SYN-CMP-002706,2025-11-02,Credit reporting,Credit reporting,0.87078,auto,valid
+SYN-CMP-002708,2025-11-02,Debt collection,Debt collection,0.986461,auto,valid
+SYN-CMP-002709,2025-11-02,Vehicle loan or lease,Vehicle loan or lease,0.937447,auto,valid
+SYN-CMP-002710,2025-11-03,Credit card,Credit card,0.599146,auto,valid
+SYN-CMP-002711,2025-11-03,Credit reporting,Credit reporting,0.603018,auto,valid
+SYN-CMP-002713,2025-11-04,Money transfer,Money transfer,0.986406,auto,valid
+SYN-CMP-002714,2025-11-04,Checking or savings account,Checking or savings account,0.937086,auto,valid
+SYN-CMP-002715,2025-11-04,Debt collection,Debt collection,0.756281,auto,valid
+SYN-CMP-002716,2025-11-05,Credit reporting,Credit reporting,0.973034,auto,valid
+SYN-CMP-002718,2025-11-05,Credit reporting,Credit reporting,0.992247,auto,valid
+SYN-CMP-002719,2025-11-05,Credit reporting,Credit reporting,0.842972,auto,valid
+SYN-CMP-002720,2025-11-05,Credit reporting,Credit reporting,0.988775,auto,valid
+SYN-CMP-002721,2025-11-05,Vehicle loan or lease,Vehicle loan or lease,0.772791,auto,valid
+SYN-CMP-002723,2025-11-06,Credit reporting,Credit reporting,0.98533,auto,valid
+SYN-CMP-002724,2025-11-06,Debt collection,Debt collection,0.974245,auto,valid
+SYN-CMP-002725,2025-11-06,Money transfer,Money transfer,0.945199,auto,valid
+SYN-CMP-002726,2025-11-06,Credit card,Credit card,0.979792,auto,valid
+SYN-CMP-002728,2025-11-07,Debt collection,Debt collection,0.99686,auto,valid
+SYN-CMP-002729,2025-11-08,Debt collection,Debt collection,0.993107,auto,valid
+SYN-CMP-002730,2025-11-08,Credit reporting,Credit reporting,0.982965,auto,valid
+SYN-CMP-002731,2025-11-08,Debt collection,Debt collection,0.953219,auto,valid
+SYN-CMP-002733,2025-11-09,Credit reporting,Credit reporting,0.982408,auto,valid
+SYN-CMP-002734,2025-11-09,Mortgage,Mortgage,0.757376,auto,valid
+SYN-CMP-002735,2025-11-09,Credit reporting,Checking or savings account,0.255317,human_review,valid
+SYN-CMP-002736,2025-11-09,Credit reporting,Credit reporting,0.966135,auto,valid
+SYN-CMP-002737,2025-11-09,Debt collection,Debt collection,0.884589,auto,valid
+SYN-CMP-002739,2025-11-10,Credit reporting,Credit reporting,0.989675,auto,valid
+SYN-CMP-002740,2025-11-11,Credit reporting,Credit reporting,0.961141,auto,valid
+SYN-CMP-002741,2025-11-11,Credit reporting,Credit reporting,0.968678,auto,valid
+SYN-CMP-002742,2025-11-11,Credit reporting,Credit reporting,0.986817,auto,valid
+SYN-CMP-002743,2025-11-12,Credit reporting,Credit reporting,0.99357,auto,valid
+SYN-CMP-002744,2025-11-12,Student loan,Student loan,0.98765,auto,valid
+SYN-CMP-002746,2025-11-12,Vehicle loan or lease,Vehicle loan or lease,0.750382,auto,valid
+SYN-CMP-002747,2025-11-12,Credit reporting,Credit reporting,0.99396,auto,valid
+SYN-CMP-002750,2025-11-13,Debt collection,Checking or savings account,0.173257,human_review,valid
+SYN-CMP-002751,2025-11-13,Checking or savings account,Checking or savings account,0.995711,auto,valid
+SYN-CMP-002752,2025-11-13,Mortgage,Mortgage,0.990047,auto,valid
+SYN-CMP-002754,2025-11-14,Credit card,Credit card,0.803294,auto,valid
+SYN-CMP-002755,2025-11-14,Money transfer,Money transfer,0.974767,auto,valid
+SYN-CMP-002756,2025-11-14,Mortgage,Mortgage,0.781093,auto,valid
+SYN-CMP-002757,2025-11-14,Debt collection,Debt collection,0.937561,auto,valid
+SYN-CMP-002759,2025-11-14,Credit reporting,Credit reporting,0.967736,auto,valid
+SYN-CMP-002760,2025-11-14,Credit reporting,Credit reporting,0.98356,auto,valid
+SYN-CMP-002762,2025-11-15,Credit reporting,Credit reporting,0.982616,auto,valid
+SYN-CMP-002763,2025-11-16,Credit reporting,Credit reporting,0.986024,auto,valid
+SYN-CMP-002764,2025-11-16,Mortgage,Mortgage,0.821851,auto,valid
+SYN-CMP-002766,2025-11-16,Vehicle loan or lease,Checking or savings account,0.166192,human_review,valid
+SYN-CMP-002767,2025-11-16,Credit card,Credit card,0.984077,auto,valid
+SYN-CMP-002768,2025-11-16,Credit reporting,Credit reporting,0.926719,auto,valid
+SYN-CMP-002769,2025-11-17,Vehicle loan or lease,Vehicle loan or lease,0.997136,auto,valid
+SYN-CMP-002770,2025-11-17,Debt collection,Debt collection,0.959527,auto,valid
+SYN-CMP-002773,2025-11-17,Debt collection,Debt collection,0.985362,auto,valid
+SYN-CMP-002774,2025-11-17,Debt collection,Debt collection,0.937995,auto,valid
+SYN-CMP-002775,2025-11-17,Debt collection,Debt collection,0.993361,auto,valid
+SYN-CMP-002776,2025-11-17,Student loan,Student loan,0.9943,auto,valid
+SYN-CMP-002777,2025-11-18,Mortgage,Mortgage,0.704178,auto,valid
+SYN-CMP-002778,2025-11-18,Checking or savings account,Checking or savings account,0.952093,auto,valid
+SYN-CMP-002779,2025-11-18,Credit reporting,Credit reporting,0.982771,auto,valid
+SYN-CMP-002780,2025-11-18,Mortgage,Mortgage,0.838891,auto,valid
+SYN-CMP-002781,2025-11-18,Debt collection,Debt collection,0.207831,human_review,valid
+SYN-CMP-002782,2025-11-19,Money transfer,Money transfer,0.896554,auto,valid
+SYN-CMP-002783,2025-11-19,Debt collection,Debt collection,0.697617,auto,valid
+SYN-CMP-002784,2025-11-19,Debt collection,Debt collection,0.993334,auto,valid
+SYN-CMP-002785,2025-11-20,Student loan,Student loan,0.733426,auto,valid
+SYN-CMP-002786,2025-11-20,Credit reporting,Credit reporting,0.929869,auto,valid
+SYN-CMP-002787,2025-11-20,Mortgage,Mortgage,0.978177,auto,valid
+SYN-CMP-002788,2025-11-21,Student loan,Credit reporting,0.24362,human_review,valid
+SYN-CMP-002789,2025-11-21,Credit reporting,Credit reporting,0.971878,auto,valid
+SYN-CMP-002790,2025-11-22,Credit reporting,Credit reporting,0.89876,auto,valid
+SYN-CMP-002792,2025-11-22,Checking or savings account,Money transfer,0.329506,auto,valid
+SYN-CMP-002793,2025-11-22,Mortgage,Mortgage,0.994019,auto,valid
+SYN-CMP-002794,2025-11-23,Debt collection,Debt collection,0.779899,auto,valid
+SYN-CMP-002795,2025-11-23,Debt collection,Debt collection,0.876322,auto,valid
+SYN-CMP-002796,2025-11-24,Credit reporting,Credit card,0.187748,human_review,valid
+SYN-CMP-002797,2025-11-24,Checking or savings account,Checking or savings account,0.92988,auto,valid
+SYN-CMP-002798,2025-11-24,Checking or savings account,Checking or savings account,0.761057,auto,valid
+SYN-CMP-002799,2025-11-24,Credit reporting,Credit reporting,0.987765,auto,valid
+SYN-CMP-002800,2025-11-24,Mortgage,Mortgage,0.805711,auto,valid
+SYN-CMP-002801,2025-11-25,Credit card,Credit card,0.98739,auto,valid
+SYN-CMP-002802,2025-11-25,Checking or savings account,Checking or savings account,0.992429,auto,valid
+SYN-CMP-002803,2025-11-25,Credit card,Credit card,0.990828,auto,valid
+SYN-CMP-002804,2025-11-25,Credit reporting,Credit reporting,0.654095,auto,valid
+SYN-CMP-002805,2025-11-25,Student loan,Mortgage,0.236783,human_review,valid
+SYN-CMP-002806,2025-11-26,Credit reporting,Credit reporting,0.956132,auto,valid
+SYN-CMP-002807,2025-11-26,Credit reporting,Credit reporting,0.969588,auto,valid
+SYN-CMP-002808,2025-11-26,Credit reporting,Student loan,0.165072,human_review,valid
+SYN-CMP-002809,2025-11-26,Mortgage,Mortgage,0.959082,auto,valid
+SYN-CMP-002810,2025-11-26,Checking or savings account,Checking or savings account,0.722689,auto,valid
+SYN-CMP-002811,2025-11-26,Vehicle loan or lease,Vehicle loan or lease,0.96233,auto,valid
+SYN-CMP-002812,2025-11-27,Money transfer,Money transfer,0.925141,auto,valid
+SYN-CMP-002813,2025-11-27,Mortgage,Mortgage,0.987436,auto,valid
+SYN-CMP-002814,2025-11-27,Credit reporting,Credit reporting,0.962965,auto,valid
+SYN-CMP-002815,2025-11-27,Mortgage,Mortgage,0.995059,auto,valid
+SYN-CMP-002816,2025-11-28,Credit card,Credit card,0.932307,auto,valid
+SYN-CMP-002818,2025-11-28,Student loan,Student loan,0.949977,auto,valid
+SYN-CMP-002819,2025-11-29,Money transfer,Money transfer,0.96758,auto,valid
+SYN-CMP-002820,2025-11-29,Student loan,Student loan,0.982614,auto,valid
+SYN-CMP-002822,2025-11-29,Vehicle loan or lease,Vehicle loan or lease,0.81878,auto,valid
+SYN-CMP-002823,2025-11-30,Checking or savings account,Checking or savings account,0.988227,auto,valid
+SYN-CMP-002824,2025-11-30,Credit card,Credit card,0.996403,auto,valid
+SYN-CMP-002825,2025-11-30,Credit reporting,Credit reporting,0.923558,auto,valid
+SYN-CMP-002828,2025-11-30,Credit card,Credit card,0.947661,auto,valid
+SYN-CMP-002829,2025-11-30,Credit reporting,Credit reporting,0.963161,auto,valid
+SYN-CMP-002830,2025-12-01,Credit card,Credit card,0.962519,auto,valid
+SYN-CMP-002831,2025-12-01,Credit reporting,Credit reporting,0.903916,auto,valid
+SYN-CMP-002832,2025-12-01,Credit card,Credit card,0.843797,auto,valid
+SYN-CMP-002833,2025-12-01,Credit reporting,Credit reporting,0.981484,auto,valid
+SYN-CMP-002835,2025-12-02,Checking or savings account,Credit card,0.172431,human_review,valid
+SYN-CMP-002836,2025-12-02,Credit reporting,Credit reporting,0.881607,auto,valid
+SYN-CMP-002837,2025-12-02,Vehicle loan or lease,Vehicle loan or lease,0.867175,auto,valid
+SYN-CMP-002838,2025-12-02,Student loan,Student loan,0.959028,auto,valid
+SYN-CMP-002839,2025-12-02,Debt collection,Debt collection,0.75615,auto,valid
+SYN-CMP-002840,2025-12-02,Debt collection,Debt collection,0.857314,auto,valid
+SYN-CMP-002842,2025-12-02,Vehicle loan or lease,Vehicle loan or lease,0.926728,auto,valid
+SYN-CMP-002843,2025-12-02,Credit reporting,Credit reporting,0.957178,auto,valid
+SYN-CMP-002844,2025-12-03,Credit reporting,Credit card,0.266797,human_review,valid
+SYN-CMP-002846,2025-12-03,Debt collection,Debt collection,0.923926,auto,valid
+SYN-CMP-002848,2025-12-03,Debt collection,Debt collection,0.920925,auto,valid
+SYN-CMP-002850,2025-12-03,Credit reporting,Credit reporting,0.980572,auto,valid
+SYN-CMP-002851,2025-12-04,Checking or savings account,Checking or savings account,0.95444,auto,valid
+SYN-CMP-002852,2025-12-04,Checking or savings account,Checking or savings account,0.882425,auto,valid
+SYN-CMP-002854,2025-12-04,Debt collection,Debt collection,0.984416,auto,valid
+SYN-CMP-002856,2025-12-05,Checking or savings account,Checking or savings account,0.995584,auto,valid
+SYN-CMP-002858,2025-12-06,Credit card,Credit card,0.967895,auto,valid
+SYN-CMP-002859,2025-12-06,Credit reporting,Credit reporting,0.959618,auto,valid
+SYN-CMP-002860,2025-12-06,Debt collection,Debt collection,0.642057,auto,valid
+SYN-CMP-002861,2025-12-06,Student loan,Student loan,0.984803,auto,valid
+SYN-CMP-002862,2025-12-06,Credit reporting,Debt collection,0.23404,human_review,valid
+SYN-CMP-002863,2025-12-07,Mortgage,Mortgage,0.955872,auto,valid
+SYN-CMP-002864,2025-12-07,Credit reporting,Credit reporting,0.823859,auto,valid
+SYN-CMP-002865,2025-12-07,Checking or savings account,Checking or savings account,0.944989,auto,valid
+SYN-CMP-002867,2025-12-07,Mortgage,Mortgage,0.638861,auto,valid
+SYN-CMP-002868,2025-12-08,Credit reporting,Credit reporting,0.994177,auto,valid
+SYN-CMP-002869,2025-12-08,Credit reporting,Credit reporting,0.964336,auto,valid
+SYN-CMP-002873,2025-12-08,Checking or savings account,Checking or savings account,0.984204,auto,valid
+SYN-CMP-002874,2025-12-09,Credit reporting,Credit reporting,0.951071,auto,valid
+SYN-CMP-002875,2025-12-09,Credit reporting,Credit reporting,0.926456,auto,valid
+SYN-CMP-002876,2025-12-09,Credit reporting,Credit reporting,0.98829,auto,valid
+SYN-CMP-002877,2025-12-09,Credit reporting,Credit reporting,0.920765,auto,valid
+SYN-CMP-002878,2025-12-09,Money transfer,Money transfer,0.98801,auto,valid
+SYN-CMP-002879,2025-12-09,Credit card,Credit card,0.985231,auto,valid
+SYN-CMP-002880,2025-12-10,Debt collection,Debt collection,0.885592,auto,valid
+SYN-CMP-002881,2025-12-10,Mortgage,Vehicle loan or lease,0.475265,auto,valid
+SYN-CMP-002883,2025-12-10,Debt collection,Debt collection,0.981324,auto,valid
+SYN-CMP-002884,2025-12-10,Vehicle loan or lease,Vehicle loan or lease,0.971518,auto,valid
+SYN-CMP-002885,2025-12-11,Mortgage,Mortgage,0.843775,auto,valid
+SYN-CMP-002886,2025-12-11,Credit reporting,Credit reporting,0.981672,auto,valid
+SYN-CMP-002887,2025-12-11,Checking or savings account,Checking or savings account,0.996203,auto,valid
+SYN-CMP-002888,2025-12-12,Money transfer,Credit card,0.246774,human_review,valid
+SYN-CMP-002889,2025-12-12,Credit reporting,Credit reporting,0.978343,auto,valid
+SYN-CMP-002890,2025-12-12,Student loan,Checking or savings account,0.211579,human_review,valid
+SYN-CMP-002891,2025-12-12,Credit reporting,Credit reporting,0.906104,auto,valid
+SYN-CMP-002892,2025-12-12,Credit card,Credit card,0.660802,auto,valid
+SYN-CMP-002896,2025-12-14,Mortgage,Mortgage,0.70581,auto,valid
+SYN-CMP-002897,2025-12-14,Credit reporting,Credit reporting,0.826463,auto,valid
+SYN-CMP-002898,2025-12-14,Credit reporting,Credit reporting,0.98798,auto,valid
+SYN-CMP-002899,2025-12-14,Student loan,Student loan,0.99411,auto,valid
+SYN-CMP-002901,2025-12-15,Debt collection,Student loan,0.213024,human_review,valid
+SYN-CMP-002903,2025-12-15,Money transfer,Money transfer,0.993061,auto,valid
+SYN-CMP-002904,2025-12-15,Credit reporting,Credit reporting,0.893844,auto,valid
+SYN-CMP-002905,2025-12-15,Credit card,Credit card,0.968457,auto,valid
+SYN-CMP-002906,2025-12-15,Credit reporting,Credit reporting,0.98775,auto,valid
+SYN-CMP-002907,2025-12-16,Debt collection,Mortgage,0.183939,human_review,valid
+SYN-CMP-002908,2025-12-16,Student loan,Student loan,0.991021,auto,valid
+SYN-CMP-002909,2025-12-16,Credit reporting,Credit reporting,0.993297,auto,valid
+SYN-CMP-002911,2025-12-16,Checking or savings account,Checking or savings account,0.682968,auto,valid
+SYN-CMP-002912,2025-12-16,Credit reporting,Credit reporting,0.991408,auto,valid
+SYN-CMP-002913,2025-12-16,Debt collection,Debt collection,0.950155,auto,valid
+SYN-CMP-002914,2025-12-17,Credit reporting,Credit reporting,0.964244,auto,valid
+SYN-CMP-002916,2025-12-17,Student loan,Student loan,0.982144,auto,valid
+SYN-CMP-002917,2025-12-17,Debt collection,Debt collection,0.987171,auto,valid
+SYN-CMP-002918,2025-12-17,Student loan,Student loan,0.923703,auto,valid
+SYN-CMP-002919,2025-12-17,Credit reporting,Credit reporting,0.985187,auto,valid
+SYN-CMP-002920,2025-12-17,Credit card,Credit card,0.961222,auto,valid
+SYN-CMP-002921,2025-12-17,Student loan,Vehicle loan or lease,0.252503,human_review,valid
+SYN-CMP-002922,2025-12-18,Credit card,Credit card,0.989516,auto,valid
+SYN-CMP-002923,2025-12-18,Debt collection,Money transfer,0.205205,human_review,valid
+SYN-CMP-002924,2025-12-18,Debt collection,Student loan,0.176804,human_review,valid
+SYN-CMP-002925,2025-12-18,Debt collection,Debt collection,0.996959,auto,valid
+SYN-CMP-002927,2025-12-18,Credit reporting,Credit reporting,0.922661,auto,valid
+SYN-CMP-002928,2025-12-18,Credit reporting,Credit reporting,0.699013,auto,valid
+SYN-CMP-002929,2025-12-19,Credit reporting,Credit reporting,0.91837,auto,valid
+SYN-CMP-002930,2025-12-19,Credit card,Credit card,0.206471,human_review,valid
+SYN-CMP-002931,2025-12-19,Checking or savings account,Checking or savings account,0.729711,auto,valid
+SYN-CMP-002932,2025-12-19,Credit reporting,Credit reporting,0.953088,auto,valid
+SYN-CMP-002933,2025-12-20,Credit reporting,Credit reporting,0.964304,auto,valid
+SYN-CMP-002934,2025-12-20,Credit reporting,Credit reporting,0.991701,auto,valid
+SYN-CMP-002935,2025-12-20,Credit card,Credit card,0.989887,auto,valid
+SYN-CMP-002936,2025-12-20,Credit reporting,Credit reporting,0.914426,auto,valid
+SYN-CMP-002937,2025-12-20,Debt collection,Debt collection,0.961518,auto,valid
+SYN-CMP-002939,2025-12-20,Checking or savings account,Checking or savings account,0.726585,auto,valid
+SYN-CMP-002941,2025-12-21,Credit reporting,Credit reporting,0.731994,auto,valid
+SYN-CMP-002942,2025-12-21,Student loan,Student loan,0.970353,auto,valid
+SYN-CMP-002943,2025-12-21,Checking or savings account,Checking or savings account,0.985842,auto,valid
+SYN-CMP-002944,2025-12-22,Money transfer,Money transfer,0.639657,auto,valid
+SYN-CMP-002946,2025-12-23,Credit card,Credit card,0.583056,auto,valid
+SYN-CMP-002948,2025-12-23,Debt collection,Debt collection,0.957673,auto,valid
+SYN-CMP-002949,2025-12-23,Mortgage,Mortgage,0.934024,auto,valid
+SYN-CMP-002951,2025-12-23,Credit reporting,Credit reporting,0.980812,auto,valid
+SYN-CMP-002952,2025-12-23,Credit reporting,Credit reporting,0.992978,auto,valid
+SYN-CMP-002953,2025-12-23,Student loan,Student loan,0.981423,auto,valid
+SYN-CMP-002954,2025-12-23,Credit reporting,Credit reporting,0.938675,auto,valid
+SYN-CMP-002955,2025-12-24,Checking or savings account,Checking or savings account,0.942982,auto,valid
+SYN-CMP-002957,2025-12-24,Student loan,Student loan,0.994546,auto,valid
+SYN-CMP-002959,2025-12-24,Debt collection,Debt collection,0.99142,auto,valid
+SYN-CMP-002960,2025-12-24,Mortgage,Mortgage,0.951503,auto,valid
+SYN-CMP-002961,2025-12-24,Student loan,Debt collection,0.189458,human_review,valid
+SYN-CMP-002962,2025-12-25,Credit reporting,Credit reporting,0.958291,auto,valid
+SYN-CMP-002963,2025-12-25,Student loan,Student loan,0.816551,auto,valid
+SYN-CMP-002964,2025-12-25,Credit card,Credit card,0.974953,auto,valid
+SYN-CMP-002966,2025-12-25,Mortgage,Mortgage,0.968258,auto,valid
+SYN-CMP-002968,2025-12-25,Money transfer,Money transfer,0.93272,auto,valid
+SYN-CMP-002969,2025-12-26,Money transfer,Money transfer,0.963065,auto,valid
+SYN-CMP-002970,2025-12-26,Credit reporting,Credit reporting,0.980675,auto,valid
+SYN-CMP-002971,2025-12-26,Debt collection,Debt collection,0.981644,auto,valid
+SYN-CMP-002972,2025-12-26,Mortgage,Mortgage,0.991301,auto,valid
+SYN-CMP-002973,2025-12-26,Credit card,Checking or savings account,0.327172,auto,valid
+SYN-CMP-002974,2025-12-26,Debt collection,Debt collection,0.975894,auto,valid
+SYN-CMP-002975,2025-12-26,Debt collection,Debt collection,0.996458,auto,valid
+SYN-CMP-002976,2025-12-27,Credit card,Credit card,0.594772,auto,valid
+SYN-CMP-002977,2025-12-27,Money transfer,Money transfer,0.963991,auto,valid
+SYN-CMP-002978,2025-12-27,Debt collection,Debt collection,0.954311,auto,valid
+SYN-CMP-002980,2025-12-27,Student loan,Student loan,0.94032,auto,valid
+SYN-CMP-002981,2025-12-27,Credit card,Credit card,0.987465,auto,valid
+SYN-CMP-002983,2025-12-28,Money transfer,Money transfer,0.866734,auto,valid
+SYN-CMP-002984,2025-12-28,Credit card,Credit card,0.983254,auto,valid
+SYN-CMP-002986,2025-12-29,Credit reporting,Credit reporting,0.961316,auto,valid
+SYN-CMP-002987,2025-12-29,Credit reporting,Credit reporting,0.98735,auto,valid
+SYN-CMP-002988,2025-12-29,Money transfer,Money transfer,0.742903,auto,valid
+SYN-CMP-002989,2025-12-29,Credit card,Credit card,0.971404,auto,valid
+SYN-CMP-002990,2025-12-29,Credit reporting,Credit reporting,0.803137,auto,valid
+SYN-CMP-002991,2025-12-29,Credit card,Vehicle loan or lease,0.278259,human_review,valid
+SYN-CMP-002992,2025-12-29,Mortgage,Mortgage,0.976972,auto,valid
+SYN-CMP-002993,2025-12-29,Vehicle loan or lease,Vehicle loan or lease,0.76697,auto,valid
+SYN-CMP-002994,2025-12-29,Money transfer,Money transfer,0.981116,auto,valid
+SYN-CMP-002995,2025-12-30,Credit reporting,Credit reporting,0.916156,auto,valid
+SYN-CMP-002996,2025-12-30,Credit reporting,Credit reporting,0.983409,auto,valid
+SYN-CMP-002998,2025-12-31,Vehicle loan or lease,Vehicle loan or lease,0.987688,auto,valid
+SYN-CMP-002999,2025-12-31,Credit card,Credit card,0.984943,auto,valid
+SYN-CMP-003000,2025-12-31,Credit card,Credit card,0.984024,auto,valid
+SYN-CMP-003002,2025-12-31,Credit reporting,Credit reporting,0.956583,auto,valid
+SYN-CMP-003003,2025-12-31,Credit reporting,Credit reporting,0.960119,auto,valid
+SYN-CMP-003005,2025-12-31,Credit reporting,Credit reporting,0.932317,auto,valid
+SYN-CMP-003006,2025-12-31,Checking or savings account,Checking or savings account,0.976588,auto,valid
+SYN-CMP-003007,2025-12-31,Credit reporting,Credit reporting,0.982251,auto,valid
+SYN-CMP-003008,2026-01-01,Credit reporting,Credit reporting,0.660342,auto,valid
+SYN-CMP-003009,2026-01-01,Credit reporting,Credit reporting,0.990947,auto,valid
+SYN-CMP-003010,2026-01-01,Money transfer,Money transfer,0.662281,auto,valid
+SYN-CMP-003012,2026-01-01,Credit reporting,Credit reporting,0.758955,auto,valid
+SYN-CMP-003013,2026-01-01,Money transfer,Money transfer,0.9614,auto,valid
+SYN-CMP-003014,2026-01-02,Credit reporting,Credit reporting,0.948799,auto,valid
+SYN-CMP-003015,2026-01-02,Credit card,Credit card,0.994186,auto,valid
+SYN-CMP-003017,2026-01-02,Credit reporting,Credit reporting,0.986785,auto,valid
+SYN-CMP-003018,2026-01-02,Credit reporting,Credit reporting,0.960614,auto,valid
+SYN-CMP-003021,2026-01-02,Student loan,Student loan,0.98054,auto,valid
+SYN-CMP-003023,2026-01-03,Checking or savings account,Checking or savings account,0.87859,auto,valid
+SYN-CMP-003024,2026-01-03,Checking or savings account,Checking or savings account,0.747223,auto,valid
+SYN-CMP-003025,2026-01-03,Checking or savings account,Checking or savings account,0.928303,auto,valid
+SYN-CMP-003026,2026-01-03,Debt collection,Debt collection,0.971073,auto,valid
+SYN-CMP-003027,2026-01-04,Debt collection,Checking or savings account,0.304641,auto,valid
+SYN-CMP-003028,2026-01-04,Student loan,Student loan,0.844864,auto,valid
+SYN-CMP-003029,2026-01-04,Mortgage,Mortgage,0.71601,auto,valid
+SYN-CMP-003030,2026-01-04,Debt collection,Debt collection,0.992504,auto,valid
+SYN-CMP-003031,2026-01-04,Credit reporting,Credit reporting,0.769204,auto,valid
+SYN-CMP-003032,2026-01-05,Credit card,Credit card,0.996714,auto,valid
+SYN-CMP-003033,2026-01-05,Credit reporting,Credit reporting,0.591385,auto,valid
+SYN-CMP-003035,2026-01-05,Credit card,Credit card,0.834516,auto,valid
+SYN-CMP-003036,2026-01-05,Student loan,Student loan,0.847128,auto,valid
+SYN-CMP-003037,2026-01-05,Money transfer,Money transfer,0.990238,auto,valid
+SYN-CMP-003038,2026-01-05,Money transfer,Money transfer,0.907267,auto,valid
+SYN-CMP-003039,2026-01-06,Debt collection,Debt collection,0.75493,auto,valid
+SYN-CMP-003040,2026-01-06,Debt collection,Debt collection,0.631491,auto,valid
+SYN-CMP-003042,2026-01-06,Credit reporting,Credit reporting,0.815411,auto,valid
+SYN-CMP-003043,2026-01-06,Money transfer,Money transfer,0.783672,auto,valid
+SYN-CMP-003044,2026-01-06,Credit reporting,Credit reporting,0.801457,auto,valid
+SYN-CMP-003045,2026-01-06,Vehicle loan or lease,Vehicle loan or lease,0.428195,auto,valid
+SYN-CMP-003046,2026-01-06,Credit reporting,Credit reporting,0.984666,auto,valid
+SYN-CMP-003047,2026-01-06,Credit reporting,Credit reporting,0.987259,auto,valid
+SYN-CMP-003048,2026-01-06,Debt collection,Debt collection,0.997009,auto,valid
+SYN-CMP-003050,2026-01-07,Credit reporting,Credit reporting,0.971064,auto,valid
+SYN-CMP-003051,2026-01-07,Mortgage,Mortgage,0.971867,auto,valid
+SYN-CMP-003055,2026-01-07,Credit reporting,Credit reporting,0.700905,auto,valid
+SYN-CMP-003057,2026-01-07,Credit reporting,Credit reporting,0.691967,auto,valid
+SYN-CMP-003059,2026-01-08,Debt collection,Mortgage,0.228631,human_review,valid
+SYN-CMP-003060,2026-01-08,Credit reporting,Credit reporting,0.966362,auto,valid
+SYN-CMP-003061,2026-01-08,Credit reporting,Credit reporting,0.955739,auto,valid
+SYN-CMP-003063,2026-01-09,Debt collection,Debt collection,0.90954,auto,valid
+SYN-CMP-003065,2026-01-10,Credit reporting,Credit reporting,0.984701,auto,valid
+SYN-CMP-003066,2026-01-10,Checking or savings account,Checking or savings account,0.993136,auto,valid
+SYN-CMP-003067,2026-01-10,Credit reporting,Credit reporting,0.697291,auto,valid
+SYN-CMP-003068,2026-01-10,Credit reporting,Credit reporting,0.750933,auto,valid
+SYN-CMP-003069,2026-01-10,Checking or savings account,Checking or savings account,0.86755,auto,valid
+SYN-CMP-003070,2026-01-11,Credit reporting,Credit reporting,0.980394,auto,valid
+SYN-CMP-003071,2026-01-11,Credit card,Credit card,0.210133,human_review,valid
+SYN-CMP-003072,2026-01-12,Credit reporting,Credit reporting,0.988963,auto,valid
+SYN-CMP-003073,2026-01-12,Debt collection,Debt collection,0.766259,auto,valid
+SYN-CMP-003075,2026-01-12,Credit reporting,Credit reporting,0.941046,auto,valid
+SYN-CMP-003077,2026-01-14,Money transfer,Student loan,0.219477,human_review,valid
+SYN-CMP-003078,2026-01-14,Credit reporting,Credit reporting,0.976762,auto,valid
+SYN-CMP-003079,2026-01-14,Debt collection,Debt collection,0.958149,auto,valid
+SYN-CMP-003080,2026-01-14,Credit reporting,Credit reporting,0.990668,auto,valid
+SYN-CMP-003081,2026-01-14,Credit reporting,Credit reporting,0.933715,auto,valid
+SYN-CMP-003082,2026-01-14,Credit reporting,Money transfer,0.232551,human_review,valid
+SYN-CMP-003083,2026-01-14,Credit reporting,Credit reporting,0.778087,auto,valid
+SYN-CMP-003084,2026-01-14,Credit card,Debt collection,0.355959,auto,valid
+SYN-CMP-003085,2026-01-14,Credit reporting,Credit reporting,0.685909,auto,valid
+SYN-CMP-003086,2026-01-16,Debt collection,Debt collection,0.994605,auto,valid
+SYN-CMP-003087,2026-01-16,Credit reporting,Credit reporting,0.946589,auto,valid
+SYN-CMP-003088,2026-01-16,Debt collection,Debt collection,0.97047,auto,valid
+SYN-CMP-003089,2026-01-16,Checking or savings account,Checking or savings account,0.694809,auto,valid
+SYN-CMP-003092,2026-01-16,Debt collection,Debt collection,0.993013,auto,valid
+SYN-CMP-003093,2026-01-16,Credit reporting,Credit reporting,0.709769,auto,valid
+SYN-CMP-003094,2026-01-16,Money transfer,Student loan,0.177958,human_review,valid
+SYN-CMP-003095,2026-01-17,Mortgage,Mortgage,0.975738,auto,valid
+SYN-CMP-003097,2026-01-17,Credit reporting,Credit reporting,0.942495,auto,valid
+SYN-CMP-003098,2026-01-17,Credit reporting,Credit reporting,0.777714,auto,valid
+SYN-CMP-003099,2026-01-17,Debt collection,Money transfer,0.265892,human_review,valid
+SYN-CMP-003100,2026-01-17,Credit reporting,Credit reporting,0.929438,auto,valid
+SYN-CMP-003102,2026-01-18,Debt collection,Debt collection,0.736691,auto,valid
+SYN-CMP-003103,2026-01-18,Student loan,Checking or savings account,0.198737,human_review,valid
+SYN-CMP-003104,2026-01-18,Checking or savings account,Checking or savings account,0.952444,auto,valid
+SYN-CMP-003105,2026-01-18,Mortgage,Mortgage,0.892977,auto,valid
+SYN-CMP-003106,2026-01-19,Credit card,Credit card,0.826529,auto,valid
+SYN-CMP-003107,2026-01-20,Debt collection,Debt collection,0.891667,auto,valid
+SYN-CMP-003108,2026-01-20,Credit reporting,Credit reporting,0.978776,auto,valid
+SYN-CMP-003109,2026-01-20,Debt collection,Debt collection,0.994221,auto,valid
+SYN-CMP-003110,2026-01-20,Checking or savings account,Credit card,0.293437,human_review,valid
+SYN-CMP-003112,2026-01-20,Credit reporting,Credit reporting,0.981908,auto,valid
+SYN-CMP-003114,2026-01-21,Student loan,Student loan,0.977974,auto,valid
+SYN-CMP-003115,2026-01-21,Credit reporting,Credit reporting,0.984038,auto,valid
+SYN-CMP-003117,2026-01-21,Credit reporting,Credit reporting,0.996256,auto,valid
+SYN-CMP-003119,2026-01-22,Student loan,Student loan,0.675713,auto,valid
+SYN-CMP-003120,2026-01-22,Mortgage,Mortgage,0.984714,auto,valid
+SYN-CMP-003121,2026-01-22,Checking or savings account,Checking or savings account,0.957676,auto,valid
+SYN-CMP-003122,2026-01-22,Money transfer,Money transfer,0.983238,auto,valid
+SYN-CMP-003123,2026-01-23,Debt collection,Debt collection,0.911653,auto,valid
+SYN-CMP-003124,2026-01-23,Credit reporting,Credit reporting,0.922831,auto,valid
+SYN-CMP-003126,2026-01-23,Credit reporting,Credit reporting,0.876452,auto,valid
+SYN-CMP-003127,2026-01-23,Debt collection,Credit reporting,0.31331,auto,valid
+SYN-CMP-003128,2026-01-23,Debt collection,Debt collection,0.968881,auto,valid
+SYN-CMP-003129,2026-01-23,Student loan,Student loan,0.845628,auto,valid
+SYN-CMP-003130,2026-01-23,Mortgage,Vehicle loan or lease,0.208749,human_review,valid
+SYN-CMP-003131,2026-01-24,Vehicle loan or lease,Vehicle loan or lease,0.564117,auto,valid
+SYN-CMP-003132,2026-01-24,Debt collection,Debt collection,0.920854,auto,valid
+SYN-CMP-003133,2026-01-24,Credit reporting,Credit card,0.230071,human_review,valid
+SYN-CMP-003134,2026-01-24,Debt collection,Mortgage,0.196207,human_review,valid
+SYN-CMP-003135,2026-01-24,Credit reporting,Credit reporting,0.818158,auto,valid
+SYN-CMP-003136,2026-01-24,Credit reporting,Credit reporting,0.981398,auto,valid
+SYN-CMP-003137,2026-01-24,Money transfer,Money transfer,0.894389,auto,valid
+SYN-CMP-003138,2026-01-25,Mortgage,Mortgage,0.724123,auto,valid
+SYN-CMP-003139,2026-01-25,Debt collection,Debt collection,0.944563,auto,valid
+SYN-CMP-003140,2026-01-25,Credit card,Credit card,0.942286,auto,valid
+SYN-CMP-003142,2026-01-25,Credit reporting,Credit reporting,0.986224,auto,valid
+SYN-CMP-003143,2026-01-25,Student loan,Student loan,0.984635,auto,valid
+SYN-CMP-003144,2026-01-25,Debt collection,Debt collection,0.70554,auto,valid
+SYN-CMP-003145,2026-01-26,Credit reporting,Credit reporting,0.971342,auto,valid
+SYN-CMP-003147,2026-01-27,Credit reporting,Credit reporting,0.986858,auto,valid
+SYN-CMP-003150,2026-01-27,Mortgage,Mortgage,0.96856,auto,valid
+SYN-CMP-003152,2026-01-27,Checking or savings account,Checking or savings account,0.651891,auto,valid
+SYN-CMP-003153,2026-01-28,Debt collection,Debt collection,0.948105,auto,valid
+SYN-CMP-003154,2026-01-28,Mortgage,Mortgage,0.655417,auto,valid
+SYN-CMP-003155,2026-01-28,Checking or savings account,Credit card,0.205162,human_review,valid
+SYN-CMP-003157,2026-01-29,Debt collection,Debt collection,0.927592,auto,valid
+SYN-CMP-003158,2026-01-29,Credit reporting,Credit reporting,0.982887,auto,valid
+SYN-CMP-003160,2026-01-29,Credit reporting,Credit reporting,0.900308,auto,valid
+SYN-CMP-003163,2026-01-29,Credit reporting,Credit reporting,0.981264,auto,valid
+SYN-CMP-003164,2026-01-29,Student loan,Student loan,0.943866,auto,valid
+SYN-CMP-003166,2026-01-30,Credit reporting,Credit reporting,0.991224,auto,valid
+SYN-CMP-003167,2026-01-30,Credit reporting,Credit reporting,0.994213,auto,valid
+SYN-CMP-003168,2026-01-30,Credit reporting,Credit reporting,0.977794,auto,valid
+SYN-CMP-003169,2026-01-30,Credit reporting,Credit reporting,0.983897,auto,valid
+SYN-CMP-003170,2026-01-30,Checking or savings account,Checking or savings account,0.833562,auto,valid
+SYN-CMP-003171,2026-01-31,Debt collection,Debt collection,0.927435,auto,valid
+SYN-CMP-003172,2026-01-31,Debt collection,Debt collection,0.992771,auto,valid
+SYN-CMP-003173,2026-01-31,Credit reporting,Credit reporting,0.988955,auto,valid
+SYN-CMP-003174,2026-01-31,Money transfer,Money transfer,0.989116,auto,valid
+SYN-CMP-003175,2026-01-31,Mortgage,Mortgage,0.950408,auto,valid
+SYN-CMP-003176,2026-01-31,Mortgage,Mortgage,0.978194,auto,valid
+SYN-CMP-003177,2026-01-31,Credit reporting,Credit reporting,0.978649,auto,valid
+SYN-CMP-003180,2026-02-01,Checking or savings account,Checking or savings account,0.965339,auto,valid
+SYN-CMP-003182,2026-02-01,Credit reporting,Credit reporting,0.988065,auto,valid
+SYN-CMP-003183,2026-02-01,Mortgage,Money transfer,0.567884,auto,valid
+SYN-CMP-003184,2026-02-01,Checking or savings account,Money transfer,0.242086,human_review,valid
+SYN-CMP-003185,2026-02-02,Credit reporting,Credit reporting,0.969356,auto,valid
+SYN-CMP-003187,2026-02-02,Debt collection,Debt collection,0.945155,auto,valid
+SYN-CMP-003188,2026-02-02,Credit reporting,Credit reporting,0.992786,auto,valid
+SYN-CMP-003190,2026-02-02,Money transfer,Money transfer,0.673436,auto,valid
+SYN-CMP-003191,2026-02-02,Debt collection,Debt collection,0.805319,auto,valid
+SYN-CMP-003192,2026-02-03,Checking or savings account,Checking or savings account,0.975647,auto,valid
+SYN-CMP-003193,2026-02-03,Vehicle loan or lease,Vehicle loan or lease,0.996626,auto,valid
+SYN-CMP-003194,2026-02-03,Debt collection,Debt collection,0.949747,auto,valid
+SYN-CMP-003195,2026-02-03,Mortgage,Mortgage,0.821018,auto,valid
+SYN-CMP-003196,2026-02-04,Credit reporting,Credit reporting,0.859222,auto,valid
+SYN-CMP-003198,2026-02-04,Credit reporting,Credit reporting,0.984608,auto,valid
+SYN-CMP-003199,2026-02-04,Mortgage,Mortgage,0.591275,auto,valid
+SYN-CMP-003200,2026-02-04,Student loan,Student loan,0.974867,auto,valid
+SYN-CMP-003232,2026-02-08,Debt collection,Debt collection,0.963548,auto,valid
+SYN-CMP-003292,2026-02-18,Credit reporting,Credit reporting,0.994743,auto,valid
+SYN-CMP-003304,2026-02-19,Debt collection,Debt collection,0.987606,auto,valid
+SYN-CMP-003313,2026-02-21,Credit reporting,Credit reporting,0.784652,auto,valid
+SYN-CMP-003337,2026-02-26,Credit reporting,Credit reporting,0.93635,auto,valid
+SYN-CMP-003392,2026-03-08,Mortgage,Mortgage,0.935348,auto,valid
+SYN-CMP-003393,2026-03-08,Debt collection,Debt collection,0.531211,auto,valid
+SYN-CMP-003400,2026-03-09,Credit reporting,Credit reporting,0.991381,auto,valid
+SYN-CMP-003406,2026-03-11,Credit reporting,Credit reporting,0.971795,auto,valid
+SYN-CMP-003457,2026-03-22,Debt collection,Debt collection,0.876324,auto,valid
+SYN-CMP-003472,2026-03-24,Credit reporting,Credit reporting,0.885077,auto,valid
+SYN-CMP-003484,2026-03-28,Credit reporting,Credit reporting,0.893358,auto,valid
+SYN-CMP-003491,2026-03-29,Credit reporting,Credit reporting,0.957373,auto,valid
+SYN-CMP-003495,2026-03-30,Credit reporting,Credit reporting,0.82603,auto,valid
+SYN-CMP-003522,2026-04-05,Credit reporting,Credit reporting,0.767383,auto,valid
+SYN-CMP-003525,2026-04-05,Debt collection,Debt collection,0.953512,auto,valid
+SYN-CMP-003532,2026-04-07,Credit reporting,Credit reporting,0.296838,human_review,valid
+SYN-CMP-003548,2026-04-10,Mortgage,Vehicle loan or lease,0.218934,human_review,valid
+SYN-CMP-003571,2026-04-14,Credit card,Credit card,0.514215,auto,valid
+SYN-CMP-003577,2026-04-16,Vehicle loan or lease,Credit reporting,0.294764,human_review,valid
+SYN-CMP-003594,2026-04-19,Credit reporting,Credit reporting,0.982919,auto,valid
+SYN-CMP-003601,2026-04-21,Credit card,Credit card,0.715572,auto,valid
+SYN-CMP-003619,2026-04-24,Money transfer,Money transfer,0.923003,auto,valid
+SYN-CMP-003628,2026-04-25,Credit reporting,Credit reporting,0.973784,auto,valid
+SYN-CMP-003647,2026-04-27,Money transfer,Money transfer,0.880416,auto,valid
+SYN-CMP-003649,2026-04-28,Student loan,Student loan,0.87093,auto,valid
+SYN-CMP-003661,2026-05-01,Mortgage,Mortgage,0.879242,auto,valid
+SYN-CMP-003699,2026-05-06,Credit reporting,Credit reporting,0.952194,auto,valid
+SYN-CMP-003745,2026-05-16,Checking or savings account,Checking or savings account,0.97452,auto,valid
+SYN-CMP-003783,2026-05-23,Money transfer,Money transfer,0.499918,auto,valid
+SYN-CMP-003799,2026-05-25,Mortgage,Mortgage,0.949695,auto,valid
+SYN-CMP-003812,2026-05-28,Debt collection,Debt collection,0.769085,auto,valid
+SYN-CMP-003824,2026-05-30,Credit reporting,Credit reporting,0.943607,auto,valid
+SYN-CMP-003879,2026-06-10,Credit reporting,Credit reporting,0.940449,auto,valid
+SYN-CMP-003895,2026-06-13,Debt collection,Debt collection,0.97503,auto,valid
+SYN-CMP-003901,2026-06-14,Money transfer,Money transfer,0.889607,auto,valid
+SYN-CMP-003937,2026-06-21,Debt collection,Debt collection,0.845026,auto,valid
+SYN-CMP-003950,2026-06-23,Credit reporting,Credit reporting,0.707774,auto,valid
+SYN-CMP-003969,2026-06-26,Credit card,Credit card,0.933584,auto,valid
