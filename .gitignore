@@ -6,7 +6,7 @@ dist/
 .pytest_cache/
 .venv/
 venv/
-data/
+/data/
 examples/output/smoke/
 .DS_Store
 runs/
